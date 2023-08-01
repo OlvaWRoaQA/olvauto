@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CALLAO - CALLAO - CALLAO</name>
+   <tag></tag>
+   <elementGuidId>571d080d-0a8b-4603-b374-b489cefb8e27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adonde_enviamos']/div[2]/div[3]/div/div/ul/li[75]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>79216be3-995a-4bd1-9b37-6b8c8004cd77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5b695ecd-1831-4d30-802e-82c4e4b26740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-normalized-text</name>
+      <type>Main</type>
+      <value>&lt;span class=&quot;text&quot;>CALLAO - CALLAO - CALLAO&lt;/span></value>
+      <webElementGuid>6ca310aa-8e29-4753-94fe-beb9805cc9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CALLAO - CALLAO - CALLAO</value>
+      <webElementGuid>3e269442-b0df-486e-810c-e04f758c04eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_tienda&quot;]/div[@class=&quot;btn-group bootstrap-select form-control dropup open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[75]/a[1]</value>
+      <webElementGuid>f343dd35-0072-4866-b96f-889d58914a50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adonde_enviamos']/div[2]/div[3]/div/div/ul/li[75]/a</value>
+      <webElementGuid>c69ac449-9eee-4ca7-b31c-a107046a9863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAJAMARCA - CONTUMAZA - TEMBLADERA'])[2]/following::a[1]</value>
+      <webElementGuid>bb632787-3eab-429b-ab7e-2b12ebd83242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAJAMARCA - JAEN - PUCARA'])[2]/following::a[2]</value>
+      <webElementGuid>973e5c0f-f2a7-40e2-9994-10602b0c4f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALLAO - CALLAO - VENTANILLA'])[2]/preceding::a[1]</value>
+      <webElementGuid>46e9cf0a-2a21-4111-bf3f-188e52ae426d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[75]/a</value>
+      <webElementGuid>adffef87-0f5b-4746-9e6c-d5c8e13031a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'CALLAO - CALLAO - CALLAO' or . = 'CALLAO - CALLAO - CALLAO')]</value>
+      <webElementGuid>6251b068-f6ab-491b-acee-b7b1b1b3bcaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

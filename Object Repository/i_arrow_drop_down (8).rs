@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_arrow_drop_down (8)</name>
+   <tag></tag>
+   <elementGuidId>74e7eb60-e5e4-46a4-9d9c-7594cd367d7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ebaf80f1-956b-44ca-8190-845207157f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>4488ea4e-7c67-44c5-81a6-5795f52ec2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arrow_drop_down</value>
+      <webElementGuid>bb62a151-ad5c-4421-9a8c-8cc2b85133fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/div[@class=&quot;top-list&quot;]/ul[@class=&quot;collapsible expandable&quot;]/li[3]/ul[@class=&quot;collapsible expandable&quot;]/li[1]/a[@class=&quot;collapsible-header&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>8bdf14c1-ac5f-4448-b99e-cb4af13fda2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/a/i</value>
+      <webElementGuid>1e45d8b8-58d1-4f4a-a2d8-6a637dde661a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reportes'])[1]/following::i[1]</value>
+      <webElementGuid>d5eec7d3-7cfc-4830-b8d3-e01fd79bd3e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='panorama_fish_eye'])[2]/following::i[1]</value>
+      <webElementGuid>ccd20889-6ee8-4e16-b8fd-8c2917d760ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='panorama_fish_eye'])[3]/preceding::i[1]</value>
+      <webElementGuid>8c7eb85b-b055-4bc1-9830-5af2db6967cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/a/i</value>
+      <webElementGuid>f039eed4-14c8-4a9e-9271-9842118c3706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'arrow_drop_down' or . = 'arrow_drop_down')]</value>
+      <webElementGuid>4476f2df-d006-478a-ba5c-5a4b525a4d4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

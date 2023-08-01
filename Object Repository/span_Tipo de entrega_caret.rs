@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tipo de entrega_caret</name>
+   <tag></tag>
+   <elementGuidId>abb85c8b-354f-48a2-b16b-47a8a798541d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adonde_enviamos']/div[2]/div[2]/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3.cls_element_item.espacio_vista_xs_2.first_item > div.btn-group.bootstrap-select.form-control.msg_alert_tt > button.btn.dropdown-toggle.form-control.selectpicker.btn-default > span.caret</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b4ac3aa5-5644-4c46-a2cf-82bf6128a5fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+      <webElementGuid>b874a82a-2f95-4e04-8757-73f165443ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 cls_element_item  espacio_vista_xs_2 first_item&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;caret&quot;]</value>
+      <webElementGuid>d3475b1f-3609-4309-a4c5-f53433dc82ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adonde_enviamos']/div[2]/div[2]/div/button/span[2]</value>
+      <webElementGuid>560103dc-19c3-49c0-9ba5-688ed26da0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div/button/span[2]</value>
+      <webElementGuid>28041e6a-795b-4580-af67-02a144ee704d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

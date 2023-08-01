@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Seleccione o arrastre su archivo aqu</name>
+   <tag></tag>
+   <elementGuidId>7df4a2f2-9b9b-4367-8f9a-e717bce79d9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#a-file</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='a-file']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>99da422d-0d6b-4216-ac27-175a4d81e683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>a-file</value>
+      <webElementGuid>1c36be78-de94-45d8-9f7d-525cc081a499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccione o arrastre su archivo aquí</value>
+      <webElementGuid>2d63929a-b15b-4aa8-a10b-59b193a24922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-file&quot;)</value>
+      <webElementGuid>9ab29635-a62b-453b-988f-d9149a584a8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='a-file']</value>
+      <webElementGuid>24ba4f31-648f-483b-b433-c2180cab0bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drop-area']/span</value>
+      <webElementGuid>ae9a2a30-6bd1-4182-bec3-572e113b5c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='descargar formato'])[1]/following::span[1]</value>
+      <webElementGuid>5d2634fb-1548-47e9-bb22-1e5c7ca68740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar Sesión'])[2]/following::span[1]</value>
+      <webElementGuid>daa7ae09-d39e-4e6d-860e-76013027e244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[1]/preceding::span[1]</value>
+      <webElementGuid>9b20ffd5-9012-44eb-83b4-f53b0b20f35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENVÍOS MASIVOS'])[1]/preceding::span[1]</value>
+      <webElementGuid>a41df20d-d78b-4713-818a-60ea9bb51878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seleccione o arrastre su archivo aquí']/parent::*</value>
+      <webElementGuid>c64f0750-aff4-4c44-b128-1fffbbc84eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>e1d99d4c-dd88-4ecf-997f-81e26783cca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'a-file' and (text() = 'Seleccione o arrastre su archivo aquí' or . = 'Seleccione o arrastre su archivo aquí')]</value>
+      <webElementGuid>c19c15ae-5b7d-49d6-b6e2-b04bb47b534b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

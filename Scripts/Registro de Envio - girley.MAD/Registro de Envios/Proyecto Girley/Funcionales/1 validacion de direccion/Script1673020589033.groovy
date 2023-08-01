@@ -77,13 +77,18 @@ WebUI.sendKeys(findTestObject('Object Repository/Negativo/Page_Olva Courier  Dat
 WebUI.setText(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_address'), 
     'Calle C 185, Breña, Perú')
 
-WebUI.click(findTestObject('Negativo/Page_Olva Courier  Datos Personales/button_direccion_1'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_No se encuentra tu direccin_address'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_reference'), 
-    0)
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_No se encuentra tu direccin_address'), 
+    'C. Amador Merino Reyna 320, San Isidro , San Isidro, Lima, LMA 15046')
 
-WebUI.setText(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_reference'), 
-    'cerca estacion de metropolitano')
+WebUI.sendKeys(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_No se encuentra tu direccin_address'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_direccion_new'), 
+    'C. Amador Merino Reyna 320, San Isidro , San Isidro, Lima, LMA 15046')
+
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_Referencia_reference_new'), 'plazuela')
 
 WebUI.click(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/button_Guardar Direccin'))
 

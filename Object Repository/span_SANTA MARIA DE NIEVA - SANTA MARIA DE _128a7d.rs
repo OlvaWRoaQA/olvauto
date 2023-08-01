@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SANTA MARIA DE NIEVA - SANTA MARIA DE _128a7d</name>
+   <tag></tag>
+   <elementGuidId>a9041b17-11f3-49eb-a433-e2e588f7d3df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>086b08a8-e23d-4973-8c6a-d924c8b83dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>790ba266-4c46-440e-9460-078928af6871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SANTA MARIA DE NIEVA - SANTA MARIA DE NIEVA - JR AMAZONAS S/N </value>
+      <webElementGuid>671eec94-26c8-4e2b-ace3-674fa4265b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_tienda&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-12 col-xs-12 cls_element_item espacio_vista_xs_2 m-code&quot;]/div[@class=&quot;col-md-8 col-sm-12 col-xs-12&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[2]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>9ae309fa-01f9-4e69-9799-6490ba6b3cee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>227cbe68-2edf-4c2a-923b-bf9bfbd13ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/following::span[2]</value>
+      <webElementGuid>63dc9e66-00e5-4e91-a505-b826ef9e0e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/following::span[4]</value>
+      <webElementGuid>414b4ccc-cad0-4bfb-8841-b6cc6a15e8ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué es esto?'])[1]/preceding::span[2]</value>
+      <webElementGuid>56c00b40-43f7-44f9-8017-c59159f337a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>6e11b8e7-4dde-4a1f-8010-ee0064bb1985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SANTA MARIA DE NIEVA - SANTA MARIA DE NIEVA - JR AMAZONAS S/N ' or . = 'SANTA MARIA DE NIEVA - SANTA MARIA DE NIEVA - JR AMAZONAS S/N ')]</value>
+      <webElementGuid>43a5acac-36ec-4100-9b41-3361aef302f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

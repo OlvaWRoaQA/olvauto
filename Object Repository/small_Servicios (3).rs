@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Servicios (3)</name>
+   <tag></tag>
+   <elementGuidId>691d5c6b-018c-491b-bb55-e150263e452c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>small.facturacion.menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/div/ul/li[2]/ul/li/a/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>2de85159-2e87-418d-b175-33e923f5999f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>facturacion menu-title</value>
+      <webElementGuid>a8b41bf6-f187-4d3a-93f9-1c23fa5e47ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Servicios</value>
+      <webElementGuid>33138870-9574-450f-91f8-ccbed81b4af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/div[@class=&quot;top-list&quot;]/ul[@class=&quot;collapsible expandable&quot;]/li[2]/ul[@class=&quot;collapsible expandable&quot;]/li[1]/a[@class=&quot;collapsible-header&quot;]/small[@class=&quot;facturacion menu-title&quot;]</value>
+      <webElementGuid>bce4bf49-0980-4887-9dce-4e00d5f2490c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/div/ul/li[2]/ul/li/a/small</value>
+      <webElementGuid>8007c9ce-53fc-45d2-810c-73bcc0224fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::small[1]</value>
+      <webElementGuid>26c6e20a-7d83-427f-9162-12aa4375bc32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar Sesión'])[1]/following::small[2]</value>
+      <webElementGuid>62ce5335-43c0-4088-8d60-8a0a0ad00009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_drop_down'])[1]/preceding::small[1]</value>
+      <webElementGuid>84ffa7b8-f813-4064-8ab2-9e312a10898a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Servicios']/parent::*</value>
+      <webElementGuid>789c3f0c-ad22-44d3-8170-06ab93eaad7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a/small</value>
+      <webElementGuid>a5526548-c815-4709-9568-0e0077c95755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Servicios' or . = 'Servicios')]</value>
+      <webElementGuid>db2799ed-e301-4428-a7ec-9200f2a38eab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

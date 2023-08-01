@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_EneroFebreroMarzoAbrilMayoJunioJulio_dc5537 (3)</name>
+   <tag></tag>
+   <elementGuidId>b8459977-679d-4801-9575-225010f46154</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.datepicker-select.orig-select-month</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datepicker-title-qj']/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8c90092e-7b64-414b-8a6b-49c0463f1d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker-select orig-select-month</value>
+      <webElementGuid>2c11ec45-8533-40b9-87da-a1fd21fe0c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>afffb4b5-6471-412d-a5ae-8d216d780a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EneroFebreroMarzoAbrilMayoJunioJulioAgostoSeptiembreOctubreNoviembreDiciembre</value>
+      <webElementGuid>c10b4718-10c8-410d-9a17-78c9397b586f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datepicker-title-qj&quot;)/div[@class=&quot;selects-container&quot;]/div[@class=&quot;select-wrapper select-month&quot;]/select[@class=&quot;datepicker-select orig-select-month&quot;]</value>
+      <webElementGuid>0b061326-9a95-4852-9a23-1b4cdf695945</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datepicker-title-qj']/div/div/select</value>
+      <webElementGuid>8f3d9bc7-b3e4-4ba8-b77a-98736890344c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mar, Jul 25'])[1]/following::select[1]</value>
+      <webElementGuid>4a5faa29-1aec-40e6-90aa-95f541d0cfb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FACTURACIÓN'])[1]/following::select[1]</value>
+      <webElementGuid>04b95508-3594-44a6-81e2-63bb14219c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[1]/preceding::select[2]</value>
+      <webElementGuid>3c84ae41-bcff-442d-a608-bceaae7ec3b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::select[2]</value>
+      <webElementGuid>d56fc80a-eb65-4796-a2e9-52ca8f938fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>fef1d56f-5250-4179-aa0f-b60d35c7fd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'EneroFebreroMarzoAbrilMayoJunioJulioAgostoSeptiembreOctubreNoviembreDiciembre' or . = 'EneroFebreroMarzoAbrilMayoJunioJulioAgostoSeptiembreOctubreNoviembreDiciembre')]</value>
+      <webElementGuid>cbeb8a6b-df0b-4c4c-b698-d9ec482e2a96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

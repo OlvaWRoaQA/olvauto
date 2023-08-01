@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7f6136a4-89cd-409f-b810-6a6b8b67a11f</webElementGuid>
+      <webElementGuid>9ce7e589-2ca0-45c0-a182-765a92eeef8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a8e2b893-f2c7-4cda-a07b-5a85e9da60cd</webElementGuid>
+      <webElementGuid>8dd3be4f-1d24-4647-9d9d-556dfbddb94e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9a55a9b6-483f-48f4-8279-026a9d5ae322</webElementGuid>
+      <webElementGuid>15d5f08d-0a39-4224-8f96-bd9c86755024</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>txt_consignado_telefono</value>
-      <webElementGuid>17545df8-055e-4437-930d-f5b7cff2eb45</webElementGuid>
+      <webElementGuid>8f325002-99c6-458a-8af3-15b54a10a1eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Celular/Teléfono</value>
-      <webElementGuid>3e2ff595-2daf-4259-9ce6-6ecea7e9a233</webElementGuid>
+      <webElementGuid>056fcd71-2415-4c01-87d4-65efd373d8f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f1-last-name form-control msg_alert_tt</value>
-      <webElementGuid>26bc82df-5012-46cf-8741-df0fab3217bc</webElementGuid>
+      <webElementGuid>528436fa-d9b9-4ac5-a56c-97d5b230eeaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>9</value>
-      <webElementGuid>77a84748-5aa4-41ad-93e0-42a54fc4f353</webElementGuid>
+      <webElementGuid>3f529ec8-2d41-4a1f-9642-d148d2fb7ff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_consignado_telefono</value>
-      <webElementGuid>155d8d41-74a1-4cd4-9456-b6605b038705</webElementGuid>
+      <webElementGuid>33128a9a-e972-401e-9abe-84be1f57814c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>return nuevoEnvioJS.validateNumber(event);</value>
-      <webElementGuid>ebc98407-d4da-49d7-aaac-22535d582eba</webElementGuid>
+      <webElementGuid>ac227d37-cdf7-4607-8e86-c1328855f4c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>title</name>
       <type>Main</type>
       <value>.</value>
-      <webElementGuid>07693573-e46e-4ebf-afc4-f742b96cae9d</webElementGuid>
+      <webElementGuid>0cefd075-a220-4bfc-9cb5-26c61e9835a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_consignado_telefono&quot;)</value>
-      <webElementGuid>7acd450c-b03c-4466-ab37-06bf96a6403d</webElementGuid>
+      <webElementGuid>084099c0-5485-4c2e-a4f7-68b0ef5870c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_consignado_telefono']</value>
-      <webElementGuid>e443693e-7662-4e6f-ac6d-9e7c0a5a3482</webElementGuid>
+      <webElementGuid>f6a8cedd-5d11-4dcb-b51f-28e171b2fcc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='quien_recibe']/div[2]/div[4]/input</value>
-      <webElementGuid>883d8e1c-340d-41fe-80a5-b8c426057780</webElementGuid>
+      <webElementGuid>2289b3b8-df3c-43f6-8973-bf94a60c2cee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div[2]/div[4]/input</value>
-      <webElementGuid>df1ec75f-ece5-43e0-93c8-20320d519b30</webElementGuid>
+      <webElementGuid>03241067-5846-49be-9677-689378c4425e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'txt_consignado_telefono' and @placeholder = 'Celular/Teléfono' and @id = 'txt_consignado_telefono' and @title = '.']</value>
-      <webElementGuid>aa89cc72-7b01-4308-a049-5250bd54d67c</webElementGuid>
+      <webElementGuid>f29d07c8-68a5-4a22-ac46-e9fe120f3a1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

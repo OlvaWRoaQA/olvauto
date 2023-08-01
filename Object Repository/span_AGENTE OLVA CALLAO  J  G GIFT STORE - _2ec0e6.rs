@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AGENTE OLVA CALLAO  J  G GIFT STORE - _2ec0e6</name>
+   <tag></tag>
+   <elementGuidId>3e8569f0-c155-48c1-ac2b-7672ac3997b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a584d582-8060-437e-8cbb-523b726f6994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bcddc747-3a52-44b6-8c0b-64f503b0d79d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AGENTE OLVA CALLAO  &quot;J &amp; G GIFT STORE&quot; - CALLAO - CA LOS NENUFARES S/N URB VIPOL (AV. NENUFARES 1005 )</value>
+      <webElementGuid>94985daf-f38f-4509-8f1d-55b0b80972f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_tienda&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-12 col-xs-12 cls_element_item espacio_vista_xs_2 m-code&quot;]/div[@class=&quot;col-md-8 col-sm-12 col-xs-12&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[2]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>1ed7c90e-eaf1-4305-bdfa-2240b473383d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>e0e4c28a-942a-4dc2-bd54-bbfb8d11fa88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/following::span[2]</value>
+      <webElementGuid>97c340d9-295d-48e2-b331-b7197fafc55b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/following::span[4]</value>
+      <webElementGuid>c88f9633-c4b8-4a51-9c8a-58713a0df6c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OLVA ALMACEN - AV. ARGENTINA 4458 - CALLAO - CALLAO - Avenida Argentina 4458, Callao, Perú()'])[2]/preceding::span[2]</value>
+      <webElementGuid>389fa627-72c7-4c87-8364-089834bcdc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>64e570c6-e8e9-4187-b744-8933b374a5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'AGENTE OLVA CALLAO  &quot;J &amp; G GIFT STORE&quot; - CALLAO - CA LOS NENUFARES S/N URB VIPOL (AV. NENUFARES 1005 )' or . = 'AGENTE OLVA CALLAO  &quot;J &amp; G GIFT STORE&quot; - CALLAO - CA LOS NENUFARES S/N URB VIPOL (AV. NENUFARES 1005 )')]</value>
+      <webElementGuid>06207a33-5157-4143-8b71-c5ddf4d2bae3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_panorama_fish_eyeEstadstica de envos</name>
+   <tag></tag>
+   <elementGuidId>12aeee8b-e6fd-456d-b248-acfcdd54b330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>468790ba-22c8-42ae-95ae-4ad7a1daeff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/atc/statistics</value>
+      <webElementGuid>88f17d90-816b-4045-b676-4e1a9c65f3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>panorama_fish_eyeEstadística de envíos</value>
+      <webElementGuid>3c0f22ee-f2a6-4f06-b40d-6954f5f2a829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/div[@class=&quot;top-list&quot;]/ul[@class=&quot;collapsible expandable&quot;]/li[3]/ul[@class=&quot;collapsible expandable&quot;]/li[@class=&quot;active&quot;]/div[@class=&quot;collapsible-body&quot;]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>ca78ec10-b4a0-4c6c-a626-7355273e1afc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/div/ul/li[3]/a</value>
+      <webElementGuid>0ba8e2e9-a0c1-43d9-b814-1a1931bb5251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='panorama_fish_eye'])[4]/following::a[1]</value>
+      <webElementGuid>1773bd7b-ea77-4e39-80c6-2dbb1897dc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/atc/statistics')]</value>
+      <webElementGuid>8f3e4516-c169-42b3-b976-7cb13f8ede25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>8683f642-b3a4-4a24-8202-e1f81d2841bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/atc/statistics' and (text() = 'panorama_fish_eyeEstadística de envíos' or . = 'panorama_fish_eyeEstadística de envíos')]</value>
+      <webElementGuid>6b039713-a120-4c05-a514-a6b11a5d5c1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

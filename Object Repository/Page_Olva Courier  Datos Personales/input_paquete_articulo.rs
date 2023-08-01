@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>46d26245-59de-4cd4-b599-3d2b9a3adda7</webElementGuid>
+      <webElementGuid>36f80cbe-9cba-4729-9fb1-4bdb1e9e6234</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c242b9b3-8600-4215-893e-4a4104b07c16</webElementGuid>
+      <webElementGuid>1b0b7001-beaf-45a2-ad01-a99fb52cd394</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e94092cb-e75f-492b-a9f3-1dcd6291b020</webElementGuid>
+      <webElementGuid>91b5b6ed-87f0-47b5-9635-6702546ae6bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>8c4e40bd-7acd-4b5d-83fa-047ec83351d6</webElementGuid>
+      <webElementGuid>524262fc-3506-4aca-a8b0-80ea6290bbb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Especificar artículo</value>
-      <webElementGuid>f1c2015a-dd47-43c0-9eab-234bee730b69</webElementGuid>
+      <webElementGuid>525d01f4-9d1c-4e76-a8d9-95fe577bd0bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f1-first-name form-control msg_alert_tt inputRE</value>
-      <webElementGuid>d78da690-5daa-4acf-a201-3ce99c224827</webElementGuid>
+      <webElementGuid>d9d4e74f-8b1c-4bb4-8e0c-245c73ec02bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_paquete_articulo</value>
-      <webElementGuid>6ddd73ca-e198-4ca6-9b60-c42710c850c8</webElementGuid>
+      <webElementGuid>82c1e756-24b6-4f69-8da0-f705a19a6f41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>txt_paquete_articulo</value>
-      <webElementGuid>bb208f22-6240-4a7a-8f85-481118c7f9e4</webElementGuid>
+      <webElementGuid>f3f9b387-938b-43b3-8566-faacecf9771f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_paquete_articulo&quot;)</value>
-      <webElementGuid>4b7b2676-1737-4a7f-9899-3db3f6e089e7</webElementGuid>
+      <webElementGuid>b17197ec-9d4c-40db-b553-4d049a1a71de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_paquete_articulo']</value>
-      <webElementGuid>ff27f098-2bda-453b-8ff6-1061b709eab4</webElementGuid>
+      <webElementGuid>8db3db47-08b9-4c79-9048-3c0b3d1ef7ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div_articulo_descripcion']/input</value>
-      <webElementGuid>2f5ff0fa-6fa3-4425-8a92-f6ee4708dfaf</webElementGuid>
+      <webElementGuid>4544324a-2c2e-421e-976f-bdddc920cad3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div[3]/input</value>
-      <webElementGuid>1742e610-385b-4c79-b58e-e8e25da85a25</webElementGuid>
+      <webElementGuid>7d87fae7-6c32-42e1-8d0e-cd0ca681c2de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Especificar artículo' and @id = 'txt_paquete_articulo' and @name = 'txt_paquete_articulo']</value>
-      <webElementGuid>615babf7-f804-4a69-ad89-d95d59962fe8</webElementGuid>
+      <webElementGuid>a8f805c6-bcbf-42f2-84f5-e6c7537a11a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

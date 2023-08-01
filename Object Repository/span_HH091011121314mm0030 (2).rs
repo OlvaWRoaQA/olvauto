@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HH091011121314mm0030 (2)</name>
+   <tag></tag>
+   <elementGuidId>162f9f1e-c8b4-416b-8477-77b351b1968e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.vue__time-picker.time-picker</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__18']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acd53a5e-04ec-42d0-a36e-467ddb72d3a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue__time-picker time-picker</value>
+      <webElementGuid>0957fb59-c124-4a25-a6a3-feb2b8c5d3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HH091011121314mm0030</value>
+      <webElementGuid>4c54dd7b-fd70-4d01-8d43-ff5c1f4d2990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__18&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/span[@class=&quot;vue__time-picker time-picker&quot;]</value>
+      <webElementGuid>ce27002e-7b34-480b-9a49-68eb79b31510</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__18']/div/span</value>
+      <webElementGuid>8f941951-a544-4853-ba7f-ee84d04804ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formato 909808707 / 16113000'])[1]/following::span[1]</value>
+      <webElementGuid>e69af014-0161-4eb0-acc5-2b72c8db8478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar Dirección Nueva'])[1]/following::span[1]</value>
+      <webElementGuid>d2d566e9-f6fb-412a-8d8c-120ac950e594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/span</value>
+      <webElementGuid>a0516812-d00e-4a14-b744-c68b9d9eac5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'HH091011121314mm0030' or . = 'HH091011121314mm0030')]</value>
+      <webElementGuid>cbe6e686-aab2-497b-b234-4df7dc281d4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

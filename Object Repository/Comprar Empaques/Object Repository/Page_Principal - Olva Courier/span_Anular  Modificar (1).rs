@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Anular  Modificar (1)</name>
+   <tag></tag>
+   <elementGuidId>7aee8a50-e9f6-4275-8d61-f9e74cf2e54e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='frmPrincipal:tree:0_0_0:lblNode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>893c8eba-9257-4059-b8fa-e1b05327211c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmPrincipal:tree:0_0_0:lblNode</value>
+      <webElementGuid>2c318d39-317f-4689-8d14-a4709b98582b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Anular / Modificar</value>
+      <webElementGuid>b972675a-c939-40b5-8e40-17d4549633d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anular / Modificar</value>
+      <webElementGuid>9024d62e-efe7-4055-aa37-80a1762a4293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:tree:0_0_0:lblNode&quot;)</value>
+      <webElementGuid>1128c45c-dd5d-466f-b2c2-6daee7c288eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:tree:0_0_0:lblNode']</value>
+      <webElementGuid>6572b6c3-15ad-4c5d-95ff-73a97fd385f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='frmPrincipal:tree:0_0_0']/span/span[3]/span</value>
+      <webElementGuid>f096f9c5-08f0-4146-8b34-6207f81239df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Venta'])[1]/following::span[5]</value>
+      <webElementGuid>ddc6fa0c-15ed-406d-9837-9ec46bedbf8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atención Cliente'])[1]/following::span[10]</value>
+      <webElementGuid>af8d0fd9-d336-478e-8361-a02ee374145e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporte'])[1]/preceding::span[3]</value>
+      <webElementGuid>06e00357-9232-4994-9dc1-6d6dca21d48d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Venta'])[2]/preceding::span[8]</value>
+      <webElementGuid>f7b4d4cc-06c7-4962-8e50-cfae6ab97cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anular / Modificar']/parent::*</value>
+      <webElementGuid>f3db4415-5a4d-4182-a2b6-ea1f1a738c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/ul/li/span/span[3]/span</value>
+      <webElementGuid>ebc9b812-6cb1-4f08-99d1-499a609eb1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'frmPrincipal:tree:0_0_0:lblNode' and @title = 'Anular / Modificar' and (text() = 'Anular / Modificar' or . = 'Anular / Modificar')]</value>
+      <webElementGuid>b4eb92cd-63a8-4684-916f-6e844222ce3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

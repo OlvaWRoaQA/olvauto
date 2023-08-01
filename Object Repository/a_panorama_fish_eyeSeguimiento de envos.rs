@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_panorama_fish_eyeSeguimiento de envos</name>
+   <tag></tag>
+   <elementGuidId>435a2caa-5ddd-4934-a318-6da6dd5c5174</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>18ed4434-12b5-44d9-8775-ecfbcf89991b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/atc/follow</value>
+      <webElementGuid>e2a794d1-4a17-4feb-8b13-0436253fc4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>panorama_fish_eyeSeguimiento de envíos</value>
+      <webElementGuid>e69aeee5-6d70-4ab9-9a2a-0833583e06ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/div[@class=&quot;top-list&quot;]/ul[@class=&quot;collapsible expandable&quot;]/li[3]/ul[@class=&quot;collapsible expandable&quot;]/li[@class=&quot;active&quot;]/div[@class=&quot;collapsible-body&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>fe4976db-4feb-4299-925b-e3438dfbfce5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/div/ul/li[2]/a</value>
+      <webElementGuid>fd4d1a1b-f45f-4217-baa5-0268f3ec32c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='panorama_fish_eye'])[3]/following::a[1]</value>
+      <webElementGuid>d46d3f8a-8554-418a-84de-cca758c45c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/atc/follow')]</value>
+      <webElementGuid>20e019d4-2be4-405a-8764-dead91b99c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/div/ul/li[2]/a</value>
+      <webElementGuid>e442b656-5aa0-4214-8503-7a09a4232411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/atc/follow' and (text() = 'panorama_fish_eyeSeguimiento de envíos' or . = 'panorama_fish_eyeSeguimiento de envíos')]</value>
+      <webElementGuid>1d57b0d8-e062-49af-8000-91d79f3b4a8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

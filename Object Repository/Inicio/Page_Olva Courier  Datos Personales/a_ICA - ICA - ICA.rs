@@ -6,12 +6,12 @@
    <elementGuidId>cdce2f4a-5a8b-43a7-b9b3-1bd6e642746d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.btn-group.bootstrap-select.form-control.dropup.open > div.dropdown-menu.open > ul.dropdown-menu.inner.selectpicker > li.active > a</value>
+         <key>XPATH</key>
+         <value>(//span[@class='text'][contains(.,'ICA - ICA - ICA')])[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//span[@class='text'][contains(.,'ICA - ICA - ICA')])[2]</value>
+         <key>CSS</key>
+         <value>div.btn-group.bootstrap-select.form-control.dropup.open > div.dropdown-menu.open > ul.dropdown-menu.inner.selectpicker > li.active > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5057a701-fb45-4c2b-a1b2-5ced6859ef16</webElementGuid>
+      <webElementGuid>46a01482-bfe4-48ca-ae4a-a04027225955</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f606a480-bd17-4d15-964f-1292fdd0d18a</webElementGuid>
+      <webElementGuid>98be9006-9d70-4370-a65a-3d05be94184a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-normalized-text</name>
       <type>Main</type>
       <value>&lt;span class=&quot;text&quot;>LIMA - LIMA - SANTIAGO DE SURCO&lt;/span></value>
-      <webElementGuid>7d8f9f7c-4b34-46ce-80cf-96e51044fcb6</webElementGuid>
+      <webElementGuid>61cf664a-af28-4f43-8784-19a6ad831af5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LIMA - LIMA - SANTIAGO DE SURCO</value>
-      <webElementGuid>a447de0c-6e06-4b68-8824-4db471863632</webElementGuid>
+      <webElementGuid>083325eb-e891-435d-9c38-60683598df1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content-select&quot;)/div[@class=&quot;btn-group bootstrap-select form-control dropup open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[@class=&quot;active&quot;]/a[1]</value>
-      <webElementGuid>b25d8c5f-1243-4bcb-8642-5cc84b48b847</webElementGuid>
+      <webElementGuid>aeea00b1-97fe-4775-a8c2-40d5aae2793c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-select']/div/div/ul/li[169]/a</value>
-      <webElementGuid>f1560c78-e52b-4b4e-bba6-f8fbfe609a05</webElementGuid>
+      <webElementGuid>350ffd45-52e8-4ef1-b592-2c7ef0fc94bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LIMA - LIMA - SANTA ANITA'])[2]/following::a[1]</value>
-      <webElementGuid>7e576528-54dc-4a2a-aea2-a3da1f827742</webElementGuid>
+      <webElementGuid>cfb6f061-3532-4fb6-9719-288ea45bf9c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LIMA - LIMA - SAN MIGUEL'])[2]/following::a[2]</value>
-      <webElementGuid>0bdbff41-7b87-4521-aff9-1b95cc417710</webElementGuid>
+      <webElementGuid>0797e087-0ae8-4c1a-8597-b55bed93c83c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LIMA - LIMA - SURQUILLO'])[2]/preceding::a[1]</value>
-      <webElementGuid>6243e500-0419-41e3-98c8-bad4f172ae74</webElementGuid>
+      <webElementGuid>15de009e-4351-4305-9baa-a9e3ac95ced6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[169]/a</value>
-      <webElementGuid>891b5fed-222f-450a-90f3-168be311e399</webElementGuid>
+      <webElementGuid>5f3dc30a-5a57-410e-bfdf-d3b6f7d5d3ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'LIMA - LIMA - SANTIAGO DE SURCO' or . = 'LIMA - LIMA - SANTIAGO DE SURCO')]</value>
-      <webElementGuid>a3b436d6-df91-40c9-8dbc-1009c8f478bc</webElementGuid>
+      <webElementGuid>b7dc50db-784a-4250-b5e4-c5928536d5db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

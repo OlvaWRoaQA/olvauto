@@ -30,7 +30,7 @@ WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Pe
 WebUI.click(findTestObject('Object Repository/Registro de Envio/Page_Olva Courier  Datos Personales/span_RUC'))
 
 WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_documento_cliente'), 
-    '10717357855')
+    '10066810581')
 
 WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_telefono_cliente'), 
     '900000001')
@@ -90,6 +90,9 @@ WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos 
 
 WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_nombres_receptor'), 'RECEPTOR DE PRUEBA QA 001')
 
+WebUI.scrollToElement(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Datos Personales/button_CONTINUAR'), 
+    0)
+
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Datos Personales/button_CONTINUAR'))
 
 WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Confirma tus datos/a_AGREGAR ENVOS'))
@@ -108,7 +111,7 @@ WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Pe
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (2)'))
+WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (2.1)'))
 
 WebUI.setText(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (text) - AA'), 
     'cusco - cusco - cusco')

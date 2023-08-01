@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='button'][contains(.,'Provincia - Departamento - Distrito')]</value>
+         <value>//*[@id=&quot;content-ubigeo&quot;]/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d0b75725-8707-4602-b8e0-7093986511a6</webElementGuid>
+      <webElementGuid>e1352e0a-aad2-4241-8988-1b3619900121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-option pull-left</value>
-      <webElementGuid>9c631a91-083e-4a03-b382-f609344bec5f</webElementGuid>
+      <webElementGuid>036f0a12-9e7c-4195-92e1-7b60e933175d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Provincia - Departamento - Distrito</value>
-      <webElementGuid>61713014-d293-4775-a6cd-4e1138d9ce7a</webElementGuid>
+      <webElementGuid>eb29e181-8931-4cf0-9f46-98c7418ed446</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_tienda&quot;]/div[@class=&quot;btn-group bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
-      <webElementGuid>b9ffe730-7a25-4226-af8b-581c2588aa50</webElementGuid>
+      <webElementGuid>5e420394-52fe-4f40-93a0-f9efdbd90ec4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='adonde_enviamos']/div[2]/div[3]/div/button/span</value>
-      <webElementGuid>50872acb-111e-4421-bd3b-7d73d3cf9438</webElementGuid>
+      <webElementGuid>e579f8a1-f5ba-4053-8310-a15d1a7d4f60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega a domicilio'])[2]/following::span[2]</value>
-      <webElementGuid>6bb684a0-2427-43a6-9a7c-3bb4e0bd96a9</webElementGuid>
+      <webElementGuid>22a26679-dbe6-4d75-9e4e-5f7c71c27dc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Recojo en tienda'])[3]/following::span[4]</value>
-      <webElementGuid>c03f5219-53f4-4264-b843-cfdaf6449308</webElementGuid>
+      <webElementGuid>354974d5-6e4d-4589-9b2c-1789583c23a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Provincia - Departamento - Distrito'])[3]/preceding::span[2]</value>
-      <webElementGuid>23fbf688-2b0b-4e41-b79e-93e01adc873f</webElementGuid>
+      <webElementGuid>b73791a8-64a0-4666-8a13-9a81a695cc2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - UTCUBAMBA - BAGUA GRANDE'])[4]/preceding::span[4]</value>
-      <webElementGuid>f3474015-db2c-433b-ad5e-537b5599f668</webElementGuid>
+      <webElementGuid>585b50dc-a324-421a-bc80-3b007b150ade</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button/span</value>
-      <webElementGuid>02511d35-1ca1-48e0-8443-1504b18f2b86</webElementGuid>
+      <webElementGuid>2200775d-cfba-4b98-b6fd-750892674d67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Provincia - Departamento - Distrito' or . = 'Provincia - Departamento - Distrito')]</value>
-      <webElementGuid>344dbb6f-d560-4ca0-a182-6cbb398e9955</webElementGuid>
+      <webElementGuid>c976bd6b-f401-42c2-bf68-0e6dc4076686</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

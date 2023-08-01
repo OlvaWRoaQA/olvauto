@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='content_documento']/div/button/span</value>
+         <value>//*[@id=&quot;content_documento&quot;]/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2d643692-9007-48d1-85db-5725eeaa1e34</webElementGuid>
+      <webElementGuid>86ba5f29-d875-4e2c-808c-4d199879d8d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-option pull-left</value>
-      <webElementGuid>35c2ae96-e0a0-43b4-a052-f2bde3cdca48</webElementGuid>
+      <webElementGuid>809d2f71-c788-40ac-b767-3338b6b3505f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tipo De Documento</value>
-      <webElementGuid>416d3196-21cc-4035-a032-e7c7ed9baefb</webElementGuid>
+      <webElementGuid>33bd99bb-d988-4538-b98f-835bb883574f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content_documento&quot;)/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
-      <webElementGuid>2bbe1e48-e1f0-459e-b134-d1ece6deb452</webElementGuid>
+      <webElementGuid>e85fb1cb-fa04-47df-b0bf-4737074a6c63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content_documento']/div/button/span</value>
-      <webElementGuid>13279d4c-7e48-4e1a-a111-059b072ee1c4</webElementGuid>
+      <webElementGuid>9b5fbca2-a727-4599-b7a7-518d191ba903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Quién envía?'])[1]/following::span[1]</value>
-      <webElementGuid>3c65fd3e-5e1c-4c5d-8974-74ab097dfada</webElementGuid>
+      <webElementGuid>8d41b46e-76d1-4c0a-b091-31ef24cf498a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Espere por favor'])[1]/following::span[1]</value>
-      <webElementGuid>c4c07e99-a8a6-43c7-a971-b1642af8e3ab</webElementGuid>
+      <webElementGuid>18a3017d-819a-4313-b2d4-3b24d7c5c0eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo De Documento'])[3]/preceding::span[2]</value>
-      <webElementGuid>64520209-1996-43c2-9176-c9b5a54856de</webElementGuid>
+      <webElementGuid>8d3ed414-0568-4389-b9f0-44bd8747fa6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DNI'])[2]/preceding::span[4]</value>
-      <webElementGuid>6e6766df-e4f8-45c6-9634-ddfabb8f312d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DNI (Boleta)'])[2]/preceding::span[4]</value>
+      <webElementGuid>c431dc91-8bda-466f-8712-2dfbebcd7d08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>81025e98-7eed-4a56-b2cd-e68796dd1c1b</webElementGuid>
+      <webElementGuid>5684d78e-3f64-4991-97e8-f900522c886e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,54 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Tipo De Documento' or . = 'Tipo De Documento')]</value>
-      <webElementGuid>fdfba099-3562-4c75-ae67-f4a9628c0001</webElementGuid>
+      <webElementGuid>e5ee0806-e146-400f-9d93-992ad0b88147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quien_recibe']/div[2]/div[2]/div/button/span</value>
+      <webElementGuid>cbe025ab-5727-428e-95a0-9832cfe33915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Quién recibe?'])[1]/following::span[1]</value>
+      <webElementGuid>00db98c8-1ca7-4a63-b78d-6aed78a9d3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Si'])[2]/following::span[10]</value>
+      <webElementGuid>c31a6f3f-a61d-4982-8c42-f7031463da8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo De Documento'])[5]/preceding::span[2]</value>
+      <webElementGuid>0800bb52-4810-46ba-b5e0-6177ccdddfda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DNI'])[2]/preceding::span[4]</value>
+      <webElementGuid>d0114ca0-63b6-4309-b819-5e1b9456a734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div[2]/div/button/span</value>
+      <webElementGuid>81894408-44af-4748-aa58-3318a5ad04e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

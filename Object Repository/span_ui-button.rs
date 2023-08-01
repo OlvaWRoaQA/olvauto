@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ui-button</name>
+   <tag></tag>
+   <elementGuidId>c6f6eb2c-f096-47bd-8e97-a9a59c50a493</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmSolicitarPaqueteTarifario:tabViewSolicitarPaqueteTarifario:j_idt49']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d28af25-5eb1-4195-a8ae-b562b6b17596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>060e338e-aaf0-4c8f-b4fa-bb4fc894d7be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ui-button</value>
+      <webElementGuid>f581e096-71ca-4d21-9505-85e4dbd2ee3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmSolicitarPaqueteTarifario:tabViewSolicitarPaqueteTarifario:j_idt49&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>bc8a60d2-603c-4852-be66-03f6a2bab4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Recategorizacin de clientes_iframePrincipal</value>
+      <webElementGuid>50a3e00b-69fb-452a-b3d5-9ac50710e7c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmSolicitarPaqueteTarifario:tabViewSolicitarPaqueteTarifario:j_idt49']/span[2]</value>
+      <webElementGuid>9446a500-cb31-4930-9f55-671b8477f066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[1]/following::span[2]</value>
+      <webElementGuid>cabd616e-6e7b-4b8c-af02-cdfad05c2c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[1]/following::span[3]</value>
+      <webElementGuid>f72c130a-b9be-45cf-9342-0c1b5d254591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar nuevo'])[1]/preceding::span[3]</value>
+      <webElementGuid>fae3e79f-84c5-48e3-af7b-031cd5ec9667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edicion Masiva Por Persona'])[1]/preceding::span[4]</value>
+      <webElementGuid>0b5facd2-c562-4e27-a999-f94287a12dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ui-button']/parent::*</value>
+      <webElementGuid>73c00a84-8da8-4899-a29b-586f3cc81199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/button/span[2]</value>
+      <webElementGuid>1d67d52d-46ee-4b26-958e-13e9f4aaa54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ui-button' or . = 'ui-button')]</value>
+      <webElementGuid>05517e35-4bb8-4b84-86c1-29c81ba8cf70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

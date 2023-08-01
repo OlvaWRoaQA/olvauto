@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_00 (1)</name>
+   <tag></tag>
+   <elementGuidId>d85f8d58-a1e6-4316-b4d5-fe7a32f15644</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__18']/div/span/div[3]/div/ul[2]/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d26e58d5-87e9-41c1-ac5e-ec4383538526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>00</value>
+      <webElementGuid>1a0fa45d-bd0c-484f-8b79-c09ba11b58d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00</value>
+      <webElementGuid>74a0b48d-fa0c-4b08-bba2-7122616c5479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__18&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/span[@class=&quot;vue__time-picker time-picker&quot;]/div[@class=&quot;dropdown drop-down&quot;]/div[@class=&quot;select-list&quot;]/ul[@class=&quot;minutes&quot;]/li[2]</value>
+      <webElementGuid>52ecdc1c-cb77-44af-9c6b-062fe49f7f41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__18']/div/span/div[3]/div/ul[2]/li[2]</value>
+      <webElementGuid>87253260-77a7-4512-9483-339c3c333a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mm'])[1]/following::li[1]</value>
+      <webElementGuid>cee830ac-1775-4974-a47f-f459456d60f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HH'])[1]/following::li[8]</value>
+      <webElementGuid>84eec0c2-0581-46bc-b600-4c8a5e5a54d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿A qué hora se hará el recojo?'])[1]/preceding::li[2]</value>
+      <webElementGuid>a491f278-96d4-4c96-8248-10de2f129dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HH'])[2]/preceding::li[2]</value>
+      <webElementGuid>d4302ccb-e1b4-4114-8d45-c8bd8a499c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='00']/parent::*</value>
+      <webElementGuid>62658b1c-ae44-4cc3-b37b-caa0501d1157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]</value>
+      <webElementGuid>9a47ce6a-d6b2-4643-93a6-e7812fde6acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '00' or . = '00')]</value>
+      <webElementGuid>09a4c6d7-ecac-4752-99fc-f3969ab51e31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

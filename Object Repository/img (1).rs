@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img (1)</name>
+   <tag></tag>
+   <elementGuidId>c5065b47-dff1-4dd5-8e8e-83854d0465b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#comprobante_wrapper > div.dt-buttons.btn-group > button.btn.btn-default.buttons-csv.buttons-html5.btn-small > span > img[alt=&quot;CSV&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comprobante_wrapper']/div[2]/button/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5996d28c-fc42-4186-95ab-e0dd2d0e9cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/bundles/atcfront/img/csv.png</value>
+      <webElementGuid>4286ef41-d029-448c-bb66-e9dbe1086ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>CSV</value>
+      <webElementGuid>99c71a25-28b1-46f8-ab63-ac579b2fd8db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comprobante_wrapper&quot;)/div[@class=&quot;dt-buttons btn-group&quot;]/button[@class=&quot;btn btn-default buttons-csv buttons-html5 btn-small&quot;]/span[1]/img[1]</value>
+      <webElementGuid>013a37c7-6679-476e-a66a-c418b9c76c43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comprobante_wrapper']/div[2]/button/span/img</value>
+      <webElementGuid>8b2fcffd-7992-4c49-bc04-1eaa815d07b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='CSV'])[2]</value>
+      <webElementGuid>a4cee321-606f-4331-a26f-a86796f09e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button/span/img</value>
+      <webElementGuid>cb649868-dc70-46fe-85ab-18c6083443ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/bundles/atcfront/img/csv.png' and @alt = 'CSV']</value>
+      <webElementGuid>cf03c4ca-a863-4639-9dc1-3118d107139c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_panorama_fish_eyeSeguimiento de envos</name>
+   <tag></tag>
+   <elementGuidId>9f6c700a-eba2-48b8-8932-77b20df1b16d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/div/ul/li[2]/a/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>f1974f67-efa4-45d5-b7da-e33bb866e02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>panorama_fish_eyeSeguimiento de envíos</value>
+      <webElementGuid>e39103d1-b50e-4ef8-9683-ea8797ae68a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/div[@class=&quot;top-list&quot;]/ul[@class=&quot;collapsible expandable&quot;]/li[3]/ul[@class=&quot;collapsible expandable&quot;]/li[@class=&quot;active&quot;]/div[@class=&quot;collapsible-body&quot;]/ul[1]/li[2]/a[1]/small[1]</value>
+      <webElementGuid>391125fa-543b-447e-8954-eb6ae1f1ddc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/div/ul/li[2]/a/small</value>
+      <webElementGuid>e1dd0a89-1e31-4bc9-9863-89538c0fd496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='panorama_fish_eye'])[3]/following::small[1]</value>
+      <webElementGuid>cc9d8db3-3f92-4119-99bd-419a47775bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EECC y Facturación'])[2]/preceding::small[1]</value>
+      <webElementGuid>759dc0ad-c2aa-462e-9323-8f073a5d9ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seguimiento de envíos']/parent::*</value>
+      <webElementGuid>1ceb84b0-c79f-4103-a6c0-f5f10f5bb72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/div/ul/li[2]/a/small</value>
+      <webElementGuid>14e9ed40-ecb0-4e98-81f5-48e75507c7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'panorama_fish_eyeSeguimiento de envíos' or . = 'panorama_fish_eyeSeguimiento de envíos')]</value>
+      <webElementGuid>d0a91ee1-0799-4c78-8f70-8812171314df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_11042023</name>
+   <tag></tag>
+   <elementGuidId>6e2034e4-335a-48e3-81ef-fedbce671daf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.odd > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='seg_pick']/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>63023ab5-64bc-45c6-ae84-b98e4cc6f240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11/04/2023</value>
+      <webElementGuid>e6d1809e-acf4-4745-be4b-e2028db91fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seg_pick&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[1]</value>
+      <webElementGuid>65141700-ef3c-4925-b581-5ec0cf537936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='seg_pick']/tbody/tr/td</value>
+      <webElementGuid>15262aec-011c-4b9f-977d-20fd1d191f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acción'])[1]/following::td[1]</value>
+      <webElementGuid>7afef355-1243-4602-aec3-759f0c0cb9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teléfono Contacto'])[1]/following::td[1]</value>
+      <webElementGuid>291db0d4-e4be-4532-af8b-d1d6b92dc6a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANULADO'])[1]/preceding::td[1]</value>
+      <webElementGuid>4ec31262-cea4-4723-90a5-c81cb4484de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[4]</value>
+      <webElementGuid>56ff590b-4eb2-458d-a080-485daa02f968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11/04/2023']/parent::*</value>
+      <webElementGuid>0c1ffecf-e65b-4b47-af4a-10c736caf335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/table/tbody/tr/td</value>
+      <webElementGuid>9eb45605-379b-4e86-952d-1a327dc5738a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '11/04/2023' or . = '11/04/2023')]</value>
+      <webElementGuid>4943a960-c35b-433f-88df-76557e1f0b2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

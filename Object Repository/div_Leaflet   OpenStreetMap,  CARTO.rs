@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Leaflet   OpenStreetMap,  CARTO</name>
+   <tag></tag>
+   <elementGuidId>c6e75c29-c13b-485d-a085-dfc21a0f9d10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#div-map-vue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-map-vue']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08e9c2ea-36f9-4142-b55e-2457f0ae4331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-6 map-fixed-right</value>
+      <webElementGuid>c1a2b19d-033a-443e-aebe-ddfa2679c764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>div-map-vue</value>
+      <webElementGuid>8fec553f-d04d-4087-a0b8-e3901427fc2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				+−Leaflet | © OpenStreetMap, © CARTO
+			</value>
+      <webElementGuid>27f7ccf7-e398-4ce2-8593-71a2e456cbcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-map-vue&quot;)</value>
+      <webElementGuid>7f342bc1-fc6a-4132-a3ac-50715fa342b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='div-map-vue']</value>
+      <webElementGuid>3a41d527-ce70-4796-ae9c-0939a7b46379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-content']/div/div/div[3]</value>
+      <webElementGuid>3ab3dbf7-dc0e-4fd8-98e6-692aaa1b5553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programa tu recojo'])[1]/following::div[2]</value>
+      <webElementGuid>72eb4b8e-d169-4ac6-9db9-f7cf8121212d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpiar'])[1]/following::div[2]</value>
+      <webElementGuid>70cc69da-6975-4a30-a230-315a77641b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]</value>
+      <webElementGuid>f2de2653-319d-4bbe-a88f-d07897ee8d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'div-map-vue' and (text() = '
+				+−Leaflet | © OpenStreetMap, © CARTO
+			' or . = '
+				+−Leaflet | © OpenStreetMap, © CARTO
+			')]</value>
+      <webElementGuid>1a57a814-51a3-4ea3-b181-58a456de2b60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

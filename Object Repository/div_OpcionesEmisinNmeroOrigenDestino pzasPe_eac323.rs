@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OpcionesEmisinNmeroOrigenDestino pzasPe_eac323</name>
+   <tag></tag>
+   <elementGuidId>cf8a0984-615e-4de7-8b13-37c2848de13b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-datatable-scrollable-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmListGuiasTrans:guiasTable']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7ea33c8-d0fd-41c1-8604-1f286198b90b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datatable-scrollable-body</value>
+      <webElementGuid>0505576f-1717-4827-ace1-233d27d86689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>a4bf7b20-6f05-4dba-bfa4-d18cec6410f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#OpcionesEmisiónNúmeroOrigenDestino# pzasPeso TotalTipoFechaTransportistaEstadoEst.SunatNo se encontraron registros</value>
+      <webElementGuid>eb03a352-4287-4338-a7af-38d27c1c0aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmListGuiasTrans:guiasTable&quot;)/div[@class=&quot;ui-datatable-scrollable-body&quot;]</value>
+      <webElementGuid>24e19fd0-444d-4632-96e5-7a291032ee43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Georreferenciacin Manual_iframePrincipal</value>
+      <webElementGuid>a05c075b-97bc-42ec-8e09-200670a8529a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmListGuiasTrans:guiasTable']/div[3]</value>
+      <webElementGuid>612a6c0b-e26b-4b28-b743-987681ebe027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Est.Sunat'])[1]/following::div[1]</value>
+      <webElementGuid>478a6581-6924-48b8-95d3-59b23f7727bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado'])[1]/following::div[1]</value>
+      <webElementGuid>50f16240-cf3f-4c4a-84a8-4a091669d1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>39564114-55ed-4d06-8bf5-909d0bc537c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '#OpcionesEmisiónNúmeroOrigenDestino# pzasPeso TotalTipoFechaTransportistaEstadoEst.SunatNo se encontraron registros' or . = '#OpcionesEmisiónNúmeroOrigenDestino# pzasPeso TotalTipoFechaTransportistaEstadoEst.SunatNo se encontraron registros')]</value>
+      <webElementGuid>2cbc5173-744e-4f63-a95c-8418d6b15b89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -83,7 +83,7 @@ WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Datos Personale
 
 WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_RUC (2)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_documento_receptor'), '20000000002')
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_documento_receptor'), '2000000002')
 
 WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_telefono_receptor'), '900000002')
 
@@ -98,7 +98,7 @@ WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Confirma tus da
 
 WebUI.scrollToPosition(0, 600)
 
-WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_documento_receptor'), '20000000003')
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_documento_receptor'), '003100001')
 
 WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_nombres_receptor'), 'RECEPTOR DE PRUEBA QA 003')
 

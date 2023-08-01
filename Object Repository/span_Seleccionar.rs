@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='frmPreventaBusc:tblPreventa:btnSelectCliente']/span[2]</value>
+         <value>//*[@id=&quot;frmLstOS:btnOS&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>daef4503-10d3-4b70-9b01-43db79a8fc92</webElementGuid>
+      <webElementGuid>101d93e6-1da4-4e6f-9d38-edfcbb528ab3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>5101a6a4-7fb8-4646-a8c4-2a9f0d70cfd3</webElementGuid>
+      <webElementGuid>f5c23f7f-2a45-4924-87af-003ad38d1e24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Seleccionar</value>
-      <webElementGuid>5f83ca38-656f-478d-b80d-76c37498d286</webElementGuid>
+      <webElementGuid>7dbfd00d-daef-4b9d-a78f-cef3c7357d6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frmPreventaBusc:tblPreventa:btnSelectCliente&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>b9e0e72a-b574-4828-adec-fc0e58f50d6f</webElementGuid>
+      <webElementGuid>af04e08f-6c2a-4fc4-91e8-78a1734bd551</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/iframe_Reporte_iframePrincipal</value>
-      <webElementGuid>e93fdedc-d60c-43f2-83a0-2483fbb3f2e0</webElementGuid>
+      <webElementGuid>b3cf4765-9e4f-465d-b57e-5b4f7d93dda6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='frmPreventaBusc:tblPreventa:btnSelectCliente']/span[2]</value>
-      <webElementGuid>efa86384-14b3-4a9b-bc0a-25f6ebb1eae9</webElementGuid>
+      <webElementGuid>3c4be36d-3e2d-43d7-89bb-b1e5f6e3f79f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NRO. OPERACION 1: 1111111, MONTO: 9.27'])[1]/following::span[2]</value>
-      <webElementGuid>376f3d9b-c2c1-429d-9aac-1dc55d32fc29</webElementGuid>
+      <webElementGuid>1a25d338-b84c-41e8-ac79-150f2bb4cf2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/preceding::span[2]</value>
-      <webElementGuid>85ea5599-9d7d-4810-962c-c17c4d06c721</webElementGuid>
+      <webElementGuid>7343320d-32ca-4e42-b98b-7481c80c33d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccionar Cliente'])[1]/preceding::span[3]</value>
-      <webElementGuid>1700d66b-eca7-45a9-9813-fe2053cbbfad</webElementGuid>
+      <webElementGuid>a1a9ef31-22f1-4af2-80b9-a2245f7b5e02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td/div/div/div[4]/button/span[2]</value>
-      <webElementGuid>9fb67dda-e527-4995-8bf3-a2720bc17bc5</webElementGuid>
+      <webElementGuid>4babfe39-564c-4c3b-8f90-7d7f245f0498</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Seleccionar' or . = 'Seleccionar')]</value>
-      <webElementGuid>2f5ba975-5bab-46ad-a4b7-58026cf8403a</webElementGuid>
+      <webElementGuid>81801eb6-d7cb-4c7a-ad11-5ae21a52fd19</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Tarifas_Tienda-Domicilio</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>494a4384-ce06-4c0a-8abd-532dd5ce7227</testSuiteGuid>
+   <testCaseLink>
+      <guid>c5336074-57c7-409d-a86b-382189089743</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Tarifas Tienda-Domicilio/Regsitro de Envio/Paquete/Destino Domicilio - 2kg - Iteración</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>835ee640-99a5-47d2-91d8-e75749709438</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TarifasDomicilio</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>835ee640-99a5-47d2-91d8-e75749709438</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UBIGEO_CONCATENADO</value>
+         <variableId>a4fecf10-7526-4af6-af91-f286b4b9307c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>835ee640-99a5-47d2-91d8-e75749709438</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DOS_KILOS</value>
+         <variableId>2ae63630-5790-48f8-8a3f-733c150ff8e1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>92a1d895-8fef-4021-8590-0ec85d386f00</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Tarifas Tienda-Domicilio/Regsitro de Envio/Sobre/Destino Domicilio - Iteración</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2b9d3210-2771-4c03-951a-387a8c8ecb57</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TarifasDomicilio</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2b9d3210-2771-4c03-951a-387a8c8ecb57</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UBIGEO_CONCATENADO</value>
+         <variableId>5cb9f748-3b4d-40eb-b2cb-98d6441c2076</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2b9d3210-2771-4c03-951a-387a8c8ecb57</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UN_KILO</value>
+         <variableId>274fd743-0ff4-4192-82ec-62a1d23d6723</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>db0d94c7-b46e-446f-ae72-652b43faf85d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Tarifas Tienda-Domicilio/Regsitro de Envio/Sobre/Destino Tienda - Iteración</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>00efe238-a858-4d30-a018-96d53ae1cdf5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TarifasTienda</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>00efe238-a858-4d30-a018-96d53ae1cdf5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UBIGEO_CONCATENADO</value>
+         <variableId>52b9d8d2-c1f2-4ab9-86e9-0bb822a4a071</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>00efe238-a858-4d30-a018-96d53ae1cdf5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UN_KILO</value>
+         <variableId>9b8193f3-46dc-44f7-ac0c-6c6c5e822514</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>70a64349-8ebd-41fb-a8d8-cc4bdf96158e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tarifas Tienda-Domicilio/Regsitro de Envio/Paquete/Destino Tienda - 2kg - Iteración</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0ea07774-b31e-46e3-894a-91d74e0e0efc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TarifasTienda</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0ea07774-b31e-46e3-894a-91d74e0e0efc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UBIGEO_CONCATENADO</value>
+         <variableId>3e3edf8d-5e2b-49bd-859b-34f952b8bef8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0ea07774-b31e-46e3-894a-91d74e0e0efc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DOS_KILOS</value>
+         <variableId>b292cd80-0dc8-4789-a4d7-e475c77b6847</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

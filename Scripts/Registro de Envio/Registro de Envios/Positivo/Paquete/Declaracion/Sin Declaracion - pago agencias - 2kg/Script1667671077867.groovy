@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos 
 WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_telefono_cliente'), 
     '900000001')
 
-WebUI.click(findTestObject('button_LIMA'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/button_LIMA'))
 
 WebUI.scrollToPosition(0, 200)
 

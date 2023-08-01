@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Domicilio - tarifas Venta- 1kg - Iteración</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>858dcce9-84fe-43e7-bc5b-e410d397be7e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9a72670-639a-4912-a97d-ff52221d9d04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e01699ce-b525-4449-8d43-ae9f0113722d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ubigeo1\r\n'</defaultValue>
+      <description></description>
+      <id>f9a72670-639a-4912-a97d-ff52221d9d04</id>
+      <masked>false</masked>
+      <name>Ubigeo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Precio1k'</defaultValue>
+      <description></description>
+      <id>e01699ce-b525-4449-8d43-ae9f0113722d</id>
+      <masked>false</masked>
+      <name>Precio1k</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Si</name>
+   <tag></tag>
+   <elementGuidId>a3d027c7-d291-45cc-8ccc-30a2706f55bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='alerta-domicilio']/div/div[4]/button/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-warning.mt-10 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>69e39337-1ee9-439c-9740-e4fb3b720ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://registro.olvacourier.com/registrar_envios_cajas/paquetes</value>
+      <webElementGuid>e4f9ee58-3fa2-4085-a515-7091df7a40ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Si</value>
+      <webElementGuid>51c65f32-87c4-4cc5-a3ea-cae37222b229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alerta-domicilio&quot;)/div[1]/div[4]/button[@class=&quot;btn btn-warning mt-10&quot;]/a[1]</value>
+      <webElementGuid>126a947e-acf1-4807-8b6f-4fe8692c5e07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='alerta-domicilio']/div/div[4]/button/a</value>
+      <webElementGuid>2cb571f7-4d69-4c8f-9489-b823a58701cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Si')]</value>
+      <webElementGuid>a77efa6d-106c-40bf-a2d3-1426bdb004bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Desea agregar más cajas a su compra?'])[1]/following::a[1]</value>
+      <webElementGuid>f028f83f-49ef-4480-94f5-29d1fa9063c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad de cajas inválida'])[1]/following::a[1]</value>
+      <webElementGuid>1e14061f-3c5a-4f46-a5d8-e914388d9d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::a[1]</value>
+      <webElementGuid>b49e12b0-604d-4e22-bb5c-07790321cf6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿A dónde lo enviamos?'])[1]/preceding::a[1]</value>
+      <webElementGuid>725c9869-c6a2-4895-a1d7-b2ecd4eb33d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://registro.olvacourier.com/registrar_envios_cajas/paquetes')])[3]</value>
+      <webElementGuid>6c2f7de2-dd5e-4354-82be-40ea047ec0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/a</value>
+      <webElementGuid>6a1dd8f0-7956-4e4b-9fe1-b59a5055f0a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://registro.olvacourier.com/registrar_envios_cajas/paquetes' and (text() = 'Si' or . = 'Si')]</value>
+      <webElementGuid>e3b34a5c-1eae-4b0d-b9c5-13d75592dc23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

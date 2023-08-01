@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Abril</name>
+   <tag></tag>
+   <elementGuidId>2c2d3a34-3c3d-472d-af92-4425a5dce207</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select-options-a5f5825b-8f58-8e9a-414b-7d822b3dee923 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select-options-a5f5825b-8f58-8e9a-414b-7d822b3dee923']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e9630067-c9d8-43da-a3cc-193beeca661b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Abril</value>
+      <webElementGuid>32bd0085-ddc3-4336-8459-ef652c725ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-options-a5f5825b-8f58-8e9a-414b-7d822b3dee923&quot;)/span[1]</value>
+      <webElementGuid>a0ee39dc-92a2-4554-a111-eb85cc9d1072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='select-options-a5f5825b-8f58-8e9a-414b-7d822b3dee923']/span</value>
+      <webElementGuid>4ea0cc05-1d23-4d95-b7f0-27a826ecd75b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marzo'])[2]/following::span[1]</value>
+      <webElementGuid>e38fd56b-ed37-44ce-839c-1d7ce0189c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Febrero'])[2]/following::span[2]</value>
+      <webElementGuid>dff1b1b0-8960-4224-b431-72bb1dce62f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayo'])[2]/preceding::span[1]</value>
+      <webElementGuid>d36e4975-e5ea-4dde-a62e-2cbd2cb1a984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Junio'])[2]/preceding::span[2]</value>
+      <webElementGuid>803bc837-9050-4f36-b648-3386d0449b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[4]/span</value>
+      <webElementGuid>62735fca-c8e6-4ac5-8244-dcedba62d4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Abril' or . = 'Abril')]</value>
+      <webElementGuid>7e7d7e85-6417-4e16-ba72-42dde1298a9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

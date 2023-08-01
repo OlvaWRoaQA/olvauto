@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Maestros</name>
+   <tag></tag>
+   <elementGuidId>964db464-cdec-4654-b811-4f69ee626555</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-menuitem-link.ui-corner-all.modelLayoutHeadItem.blockable.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=concat('PrimeFaces.ab({s:&quot;frmPrincipal:model&quot;,u:&quot;frmPrincipal:tree frmPrincipal:centerContentPanel&quot;,g:false,onst:function(cfg){PF(',&quot;'blockUIWidget1').block();},onco:function(xhr,status,args){PF('blockUIWidget1').unblock();},pa:[{name:&quot;,'&quot;idCodFormMod&quot;,value:&quot;02&quot;},{name:&quot;frmPrincipal:model_menuid&quot;,value:&quot;1&quot;}],f:&quot;frmPrincipal&quot;});return false;')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d01741e1-ca41-43fc-8d89-e27c29f9c61c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8c394083-d4e3-44dc-83ee-a7340986bf03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menuitem-link ui-corner-all modelLayoutHeadItem blockable ui-state-hover</value>
+      <webElementGuid>f7a91725-43c7-4542-bb0d-a5a72371a95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e30ada97-f47c-4e23-8b7a-e4fe6df9e085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>PrimeFaces.ab({s:&quot;frmPrincipal:model&quot;,u:&quot;frmPrincipal:tree frmPrincipal:centerContentPanel&quot;,g:false,onst:function(cfg){PF('blockUIWidget1').block();},onco:function(xhr,status,args){PF('blockUIWidget1').unblock();},pa:[{name:&quot;idCodFormMod&quot;,value:&quot;02&quot;},{name:&quot;frmPrincipal:model_menuid&quot;,value:&quot;1&quot;}],f:&quot;frmPrincipal&quot;});return false;</value>
+      <webElementGuid>4c6437fa-dca9-404b-8d9d-f8639a22aa78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maestros</value>
+      <webElementGuid>14f5e6b8-4427-4afc-89ef-4cc3861110c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:model&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-menuitem ui-widget ui-corner-all ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-corner-all modelLayoutHeadItem blockable ui-state-hover&quot;]</value>
+      <webElementGuid>18421c8f-cc69-44a2-85c9-a995f4888d40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=concat('PrimeFaces.ab({s:&quot;frmPrincipal:model&quot;,u:&quot;frmPrincipal:tree frmPrincipal:centerContentPanel&quot;,g:false,onst:function(cfg){PF(',&quot;'blockUIWidget1').block();},onco:function(xhr,status,args){PF('blockUIWidget1').unblock();},pa:[{name:&quot;,'&quot;idCodFormMod&quot;,value:&quot;02&quot;},{name:&quot;frmPrincipal:model_menuid&quot;,value:&quot;1&quot;}],f:&quot;frmPrincipal&quot;});return false;')]</value>
+      <webElementGuid>bda80168-82bd-4a62-8f79-4f4bd7367037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPrincipal:model']/ul/li[2]/a</value>
+      <webElementGuid>8ffb234a-c6f4-41c3-83a7-fca22719b5aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Web'])[1]/following::a[1]</value>
+      <webElementGuid>c91f9d3b-06ee-4992-b7cb-b27fd406232a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Georreferenciación Manual'])[1]/following::a[3]</value>
+      <webElementGuid>83dd0c1d-fde6-46f3-8ce9-53d7513dd97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Despacho'])[2]/preceding::a[1]</value>
+      <webElementGuid>3f6554bd-707e-498e-8a19-5141acb1282c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>e95df47e-fea2-4b2b-b285-0e80fb89b17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>9394102e-3d0d-4e93-a0d6-2b039287d46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Maestros' or . = 'Maestros')]</value>
+      <webElementGuid>c425ed99-d925-44db-9273-0db7a7450e67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

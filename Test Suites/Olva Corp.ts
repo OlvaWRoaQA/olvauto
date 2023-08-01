@@ -12,10 +12,24 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>0e2ba1fc-7ed5-47b4-a1e7-90fca228c72b</testSuiteGuid>
    <testCaseLink>
+      <guid>bfc5ad3f-c4aa-442a-aa53-31df0ffe2a5a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/Cargo Adjunto - Olva Corp - 1kg</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>11d674d9-48d4-4dfa-a7c9-52605fad2d73</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/Cargo Adjunto - Olva Corp - 2kg</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a6825f97-7590-4c0d-a823-9d1f4b74070d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/Cargo Adjunto - RegistroEnvio - 1kg</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -33,10 +47,24 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>85e02c6d-b148-4b5f-a835-493d2786f6dc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/Declaracion Jurada - Registro de envio - 1kg</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>097b3baa-6ca8-425c-8d33-703fb5171e2f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/Declaracion Jurada - Registro de envio - 2kg</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a29a4d39-ba6c-4d61-a5a3-5717932c4ca0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/Declaracion Jurada- olva corp - 1kg</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -53,10 +81,24 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
+      <guid>0c43b086-0acb-4526-b21c-90dbd6cb57b2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/pago efectivo - 1kg</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>4280e5f4-f72a-4678-8ba7-0158f3420202</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/pago efectivo - 2kg</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d3ed96db-09bf-4015-bb2a-20d3b3b67d38</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/Venta Contado - 1kg</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -184,6 +226,38 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Olva Corp/Casuisticas Ventas/sin fondos niubiz - registrado y recepcionado</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e6b63dfb-b0f1-433c-a5e3-b64395ab80f3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Olva Corp/Tarifas Internacionales/Declaracion Jurada internacional - paquete</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>16ed8e0f-2eb0-4dfa-af6d-30f58c42c60d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>888f72c2-827f-4bd8-a577-44827577e103</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fdad9457-2b30-4f30-8d4a-d4958b3c9db9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Olva Corp/Tarifas Internacionales/Declaracion Jurada internacional - sobre</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>005f27cc-10c6-49bb-9efd-aedbb6d20e88</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>c7497f5f-b4db-4221-adfa-4385c422980e</guid>

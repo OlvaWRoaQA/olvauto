@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_El RUC debe tener 11 dgitos</name>
+   <tag></tag>
+   <elementGuidId>c884f243-30d4-4923-88d5-75fbef99152b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_documento_cliente_msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txt_documento_cliente_msg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a6e642a4-7ce3-4ee8-a5ec-25dcdb4110ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_documento_cliente_msg</value>
+      <webElementGuid>23689943-d5eb-4624-b257-d900a94f8314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>36f653d1-da8b-4225-9728-80dc7908ce94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El RUC debe tener 11 dígitos</value>
+      <webElementGuid>d3074849-0e1b-41fd-98ff-1066b021a64a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_documento_cliente_msg&quot;)</value>
+      <webElementGuid>cb3f2b19-96ef-4fb9-b14d-fc8712222236</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='txt_documento_cliente_msg']</value>
+      <webElementGuid>efe751ce-b31d-4e1b-87b8-0da9207c54d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quien_envia']/div[2]/div[4]/div</value>
+      <webElementGuid>168f2a6b-eb29-4848-b65d-647f51e9317f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARNÉ EXT.'])[2]/following::div[3]</value>
+      <webElementGuid>957d9594-161f-4857-beb7-2bcc1cdf4c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RUC'])[3]/following::div[3]</value>
+      <webElementGuid>5ee90c48-6808-4e5a-baa2-3482246a7f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola,'])[1]/preceding::div[4]</value>
+      <webElementGuid>c2c45036-8c4f-49db-8ee1-6de974948b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Dónde te encuentras?'])[1]/preceding::div[10]</value>
+      <webElementGuid>0900f21d-7e08-4c33-a4cc-ca16eb019177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El RUC debe tener 11 dígitos']/parent::*</value>
+      <webElementGuid>1aca7842-8b10-4b6d-a2f9-dc7f8f71b7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[4]/div</value>
+      <webElementGuid>c156534d-4a9a-4b3b-aef8-69bfdedc0388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_documento_cliente_msg' and (text() = 'El RUC debe tener 11 dígitos' or . = 'El RUC debe tener 11 dígitos')]</value>
+      <webElementGuid>d63fbc02-9550-481e-b777-74f3055b2bca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

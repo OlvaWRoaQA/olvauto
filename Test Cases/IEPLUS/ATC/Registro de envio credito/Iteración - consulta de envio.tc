@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Iteración - consulta de envio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d52232d7-1256-4024-9d46-d8d294cab2bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2666b0c6-fbb2-4808-8ca3-ba6b7d0c02d1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tracking1'</defaultValue>
+      <description></description>
+      <id>2666b0c6-fbb2-4808-8ca3-ba6b7d0c02d1</id>
+      <masked>false</masked>
+      <name>tracking</name>
+   </variable>
+</TestCaseEntity>

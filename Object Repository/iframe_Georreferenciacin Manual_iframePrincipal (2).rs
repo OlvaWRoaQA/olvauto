@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Georreferenciacin Manual_iframePrincipal (2)</name>
+   <tag></tag>
+   <elementGuidId>735208d4-7ad7-4e47-9c36-0f3a07fd3b87</elementGuidId>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>37d2bcc6-a1fd-423f-97bb-8b53bc4a9ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iframePrincipal</value>
+      <webElementGuid>a9c6a8ab-b544-4040-a9f6-042d2d39c5cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget ui-widget-content ui-corner-all iframeLayoutCenter</value>
+      <webElementGuid>443ac917-a1c3-421c-b472-d06ce88908c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/OlvaERP-Maestro-web/despacho/guia/guiaDespachoList.xhtml?nodeTree=Guia de Despacho&amp;codeTree=0307&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiSlNSSU9TIiwic2NvcGUiOlsicmVhZCx3cml0ZSJdLCJleHAiOjE2ODY4OTQ4MDcsImF1dGhvcml0aWVzIjpbIkFETUlOIl0sImp0aSI6IjllMWI5ZTJkLTFmYWUtNDFlMC04MTU4LWQwYmE1OGVlNjViZCIsImNsaWVudF9pZCI6ImF1dGhvcml6YXRpb24ifQ.cec2RKDJitgW34XBaO3V7vx0LACevrXPepTBAkK8jpk</value>
+      <webElementGuid>0896d76c-e4e6-4be6-a7ab-b8d21008017c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iframePrincipal&quot;)</value>
+      <webElementGuid>00c5e9d5-20db-44d7-89a5-02845eddf36a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@id='iframePrincipal']</value>
+      <webElementGuid>6d427372-defb-46ac-893f-66e8d25948e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:centerContentPanel']/iframe</value>
+      <webElementGuid>654c9f3f-fcb7-4f7a-bc56-eb58e93fa2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>621a9f85-a686-4370-9b26-79e271e0afe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@id = 'iframePrincipal' and @src = '/OlvaERP-Maestro-web/despacho/guia/guiaDespachoList.xhtml?nodeTree=Guia de Despacho&amp;codeTree=0307&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiSlNSSU9TIiwic2NvcGUiOlsicmVhZCx3cml0ZSJdLCJleHAiOjE2ODY4OTQ4MDcsImF1dGhvcml0aWVzIjpbIkFETUlOIl0sImp0aSI6IjllMWI5ZTJkLTFmYWUtNDFlMC04MTU4LWQwYmE1OGVlNjViZCIsImNsaWVudF9pZCI6ImF1dGhvcml6YXRpb24ifQ.cec2RKDJitgW34XBaO3V7vx0LACevrXPepTBAkK8jpk']</value>
+      <webElementGuid>b06530f5-1ac3-45ad-b943-cf805e797a7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

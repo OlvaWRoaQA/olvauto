@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#content-select > div.btn-group.bootstrap-select.form-control > button.btn.dropdown-toggle.form-control.selectpicker.btn-default > span.filter-option.pull-left</value>
+         <value>#content-ubigeo > div.btn-group.bootstrap-select.form-control > button.btn.dropdown-toggle.form-control.selectpicker.btn-default > span.filter-option.pull-left</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='content-select']/div/button/span</value>
+         <value>//div[@id='content-ubigeo']/div/button/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e8ff64ad-6e09-41d3-9a76-f9e6146618a2</webElementGuid>
+      <webElementGuid>607c31d0-1877-48c3-b7d3-0fe2106b1659</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-option pull-left</value>
-      <webElementGuid>f9901467-9b20-4358-876f-906709502dee</webElementGuid>
+      <webElementGuid>8e9f6a04-cd9c-4f20-b23d-9df778aa2812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,18 +38,74 @@
       <name>text</name>
       <type>Main</type>
       <value>Departamento - Provincia - Distrito</value>
-      <webElementGuid>01c50bea-6ea7-4ee0-bc56-22d12a8c7503</webElementGuid>
+      <webElementGuid>8ff9a204-a4d8-412c-bb07-e2cfcc6f8eff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content-select&quot;)/div[@class=&quot;btn-group bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
-      <webElementGuid>53a9f19c-7048-4a8e-af8f-74662a9b78f8</webElementGuid>
+      <value>id(&quot;content-ubigeo&quot;)/div[@class=&quot;btn-group bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
+      <webElementGuid>84dfb0f4-8ceb-4972-bff0-7268ec979e40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-ubigeo']/div/button/span</value>
+      <webElementGuid>826c62b0-b72a-4313-b4f1-f59bf7cb2f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departamento - Provincia - Distrito'])[5]/following::span[2]</value>
+      <webElementGuid>3c4343bc-78ef-408b-8a7b-d871654c553e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departamento - Provincia - Distrito'])[4]/following::span[4]</value>
+      <webElementGuid>c2851bc0-175f-4ad7-8dae-4d213855702d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departamento - Provincia - Distrito'])[8]/preceding::span[2]</value>
+      <webElementGuid>32f68477-8325-44e9-a1af-603c1ab7bd4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - BAGUA - ARAMANGO'])[2]/preceding::span[4]</value>
+      <webElementGuid>1e3eaf0d-a9e8-4b37-95b8-ae829872047a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/span</value>
+      <webElementGuid>ae6da20a-1e02-4e69-b0f1-c16aeffe21fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Departamento - Provincia - Distrito' or . = 'Departamento - Provincia - Distrito')]</value>
+      <webElementGuid>14ec0e04-7ffb-44e3-9e04-7f1758a6a1cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -95,13 +151,5 @@
       <type>Main</type>
       <value>//div[2]/div[2]/div[2]/div/button/span</value>
       <webElementGuid>baf524d2-ebbb-45b8-ac70-b4730282a7cd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Departamento - Provincia - Distrito' or . = 'Departamento - Provincia - Distrito')]</value>
-      <webElementGuid>1dc98559-cfae-4a81-be1c-c79c3b10f002</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class='ui-button-text ui-c'][contains(.,'Buscar Preventa')]</value>
+         <value>//*[@id=&quot;frmVentaContado:btnBuscarPorNroPedido&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1692d700-84a1-4098-814c-a7ec9a0896d6</webElementGuid>
+      <webElementGuid>2482a4b5-6fc1-4d5a-8c2a-cebf8e5fd4ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-button-text ui-c</value>
-      <webElementGuid>484d6664-e7f2-47aa-95b4-f3520720ff55</webElementGuid>
+      <webElementGuid>00fabc14-2a48-4822-b133-4621dd7a1e1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Buscar Preventa</value>
-      <webElementGuid>8c13feab-79bb-4ff9-b3d0-8042fa2d2e12</webElementGuid>
+      <webElementGuid>a90599b8-7105-4577-9b9f-bdb35abca466</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frmVentaContado:btnBuscarPorNroPedido&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
-      <webElementGuid>4968bed9-fd10-4f9e-ae74-5979e56d5e3f</webElementGuid>
+      <webElementGuid>3b1950a3-267a-40da-9c58-4134accb21db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Olva Corp/Distribucion/Distribucion/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal_1</value>
-      <webElementGuid>6cf0dd46-3d25-46da-9b0f-061a31f78480</webElementGuid>
+      <webElementGuid>ff89d801-2f54-496a-9b52-b4f96f42fbb6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='frmVentaContado:btnBuscarPorNroPedido']/span[2]</value>
-      <webElementGuid>fc726917-4b2a-4059-8bf9-cffdc58c2b7a</webElementGuid>
+      <webElementGuid>a0e3c40c-f8e3-4692-b713-7cf19fefa9e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cargar'])[1]/following::span[2]</value>
-      <webElementGuid>9c4e0210-c849-4a51-a8ac-a8d7cc53dbc2</webElementGuid>
+      <webElementGuid>3e70b346-640d-40a5-a130-31e8005ed92e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar nuevo'])[1]/following::span[3]</value>
-      <webElementGuid>c3bd073e-b3dc-486e-b57e-ac0b0e069073</webElementGuid>
+      <webElementGuid>665e981a-b571-4dc9-ae92-9e5ff1ddb74d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rechazar Preventa'])[1]/preceding::span[2]</value>
-      <webElementGuid>32cd74bb-0cbe-4d7c-8f96-ff323116fb75</webElementGuid>
+      <webElementGuid>c5ea6d38-6c78-4652-b9b4-b8869bb10fe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diversas Emisiones'])[1]/preceding::span[4]</value>
-      <webElementGuid>f6fe386a-14de-4c55-b357-b82e8c6dde0b</webElementGuid>
+      <webElementGuid>da4a1f79-2869-4e63-8726-f770cfc9de99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Buscar Preventa']/parent::*</value>
-      <webElementGuid>0d510edc-3787-45ad-a2e9-cacefab4abc6</webElementGuid>
+      <webElementGuid>b1a2d26e-3a6b-409a-ab52-067f6b994f97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button/span[2]</value>
-      <webElementGuid>124a7f2b-85a4-46bc-b242-1efa3aadd428</webElementGuid>
+      <webElementGuid>76b91d20-c551-4d92-adc4-484aafa02b47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Buscar Preventa' or . = 'Buscar Preventa')]</value>
-      <webElementGuid>b95335a1-8879-42f2-8259-9eef948084c1</webElementGuid>
+      <webElementGuid>8d8822b1-1350-4b63-ace0-1a5310d59adb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

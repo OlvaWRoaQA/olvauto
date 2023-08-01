@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Formato 909808707  16113000_time-picker_851608</name>
+   <tag></tag>
+   <elementGuidId>f546c5d6-e209-4c57-abc6-7093b1df3127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.time-picker-overlay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__18']/div/span/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a5ac44f-94af-4487-8758-c654d135c015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c097eac3-4f79-417c-9104-b6d61ca00649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>time-picker-overlay</value>
+      <webElementGuid>c34d25f6-dc2e-432e-a8a3-693d70a59d45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__18&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/span[@class=&quot;vue__time-picker time-picker&quot;]/div[@class=&quot;time-picker-overlay&quot;]</value>
+      <webElementGuid>d1ebc61d-10c0-4edd-8bf1-d8041a5d20e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__18']/div/span/div[2]</value>
+      <webElementGuid>70b5f0fc-faa5-463d-b070-cc980a396fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div[2]</value>
+      <webElementGuid>8d2132b9-0b3f-4f6d-b137-0992930afb58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -77,20 +77,23 @@ WebUI.setText(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Pr
 WebUI.sendKeys(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Dpto - Distrito - Girley (text)2'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_address'), 
-    'aaaaa')
+WebUI.click(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/small_Fija la direccin en el mapa'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/small_Fija la direccin en el mapa'))
+WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_No se encuentra tu direccin_address'))
 
-WebUI.clickOffset(findTestObject('Page_Olva Courier  Datos Personales/canvas'), 100, 100)
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_No se encuentra tu direccin_address'), 
+    'C. Amador Merino Reyna 320, San Isidro , San Isidro, Lima, LMA 15046')
 
-WebUI.scrollToElement(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_reference'), 
-    0)
+WebUI.sendKeys(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_No se encuentra tu direccin_address'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_reference'), 
-    'cerca estacion de metropolitano')
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_direccion_new'), 
+    'C. Amador Merino Reyna 320, San Isidro , San Isidro, Lima, LMA 15046')
 
-WebUI.click(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/button_Guardar Direccin'))
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_Referencia_reference_new'), 'plazuela')
+
+WebUI.click(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/button_Guardar Direccin'))
 
 WebUI.scrollToPosition(0, 600)
 
@@ -118,6 +121,8 @@ WebUI.scrollToElement(findTestObject('Object Repository/Olva Corp/Page_Olva Cour
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Confirma tus datos/button_IR A PAGAR'))
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/i_Pago agencias y banca'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/button_PAGAR'), 0)
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/button_PAGAR'))
 

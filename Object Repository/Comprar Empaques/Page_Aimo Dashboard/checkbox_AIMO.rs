@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_AIMO</name>
+   <tag></tag>
+   <elementGuidId>c5378793-d8ed-4c0b-83d2-0c4811b6d978</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss1410.sc-fzXfOs.fLqWMm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[contains(@type,'checkbox')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd9cd59c-c785-4757-b93b-b993223a8490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss1410 sc-fzXfOs fLqWMm</value>
+      <webElementGuid>eadcb884-c591-4f3a-aabe-b0f030b800c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$ 
+            0.00</value>
+      <webElementGuid>e2e11fe8-d30f-441c-b1c0-38e5706a3cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;749501&quot;)/td[@class=&quot;MuiTableCell-root MuiTableCell-body&quot;]/div[@class=&quot;MuiBox-root jss1410 sc-fzXfOs fLqWMm&quot;]</value>
+      <webElementGuid>3d83c3b4-b9da-470b-93ce-7fe1d5aa9ff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='749501']/td[10]/div</value>
+      <webElementGuid>d396ed33-9711-4071-a1c2-d18dbce47b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[1]</value>
+      <webElementGuid>c6bf9cb6-7b54-4cf9-a76e-ad0bf198e003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creado'])[2]/following::div[4]</value>
+      <webElementGuid>9c78897d-2ae6-421c-a3f0-fee177cfe595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::div[2]</value>
+      <webElementGuid>d3865c96-1099-448d-9fd6-5a9e4ddd01a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div</value>
+      <webElementGuid>585598d2-6de5-42ab-be4f-d6d60f26772a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '$ 
+            0.00' or . = '$ 
+            0.00')]</value>
+      <webElementGuid>939bdf21-2096-4d73-8270-dbba6ecf8efa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

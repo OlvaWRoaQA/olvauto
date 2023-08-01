@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0e6bae20-bec9-440d-88e8-0be9e6306297</webElementGuid>
+      <webElementGuid>f4652e61-b7cf-49e0-959b-fe4f1de0b298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>1eddf974-423d-4ac8-99ef-c47e60c8fbb1</webElementGuid>
+      <webElementGuid>f5de2c68-08af-44d3-a501-b3b34fd7d1a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tooltip</value>
-      <webElementGuid>6f403a3b-027c-47b3-b250-1ea99554544b</webElementGuid>
+      <webElementGuid>eb9a5cd7-f44c-42fa-a079-c791d9d4988c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>1287983d-a13d-48ba-b33a-48627df40105</webElementGuid>
+      <webElementGuid>946900dc-ae3d-41d2-aa7c-68af882b5de9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>txt_paquete_valor</value>
-      <webElementGuid>b0752aba-fb28-4a3a-bbe2-aaae8622162e</webElementGuid>
+      <webElementGuid>9774f2e5-896c-48ad-ab97-ee9766b613c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_paquete_valor</value>
-      <webElementGuid>c494a5fb-fdb7-4545-ac2c-dc9441398d09</webElementGuid>
+      <webElementGuid>75bd0f17-3ebb-4422-b551-ede1d588cf12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Valor S/</value>
-      <webElementGuid>b8f56b7a-9ca6-4d12-beed-6c804aab4315</webElementGuid>
+      <webElementGuid>14171c43-6093-402f-a2c5-cd0e88d90cee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f1-first-name form-control msg_alert_tt</value>
-      <webElementGuid>3e8c4ba4-f4c2-4999-a716-648d52b2a595</webElementGuid>
+      <webElementGuid>f717015f-d64a-499e-9fec-6107e44578fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-original-title</name>
       <type>Main</type>
       <value>Recuerde colocar el valor del producto real, en caso de pérdida o robo este será el monto a gestionar</value>
-      <webElementGuid>ea9e214c-6541-4642-a4ed-cffc08a653f0</webElementGuid>
+      <webElementGuid>10a9358e-ac83-4337-bf5a-741a76d30335</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_paquete_valor&quot;)</value>
-      <webElementGuid>d0b69fc4-d995-4992-98f9-c68a684af144</webElementGuid>
+      <webElementGuid>fbb19dbf-6145-45dc-a694-c7c25113cb3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);</value>
+      <webElementGuid>0c3433aa-c6f7-4ebf-ac25-e0d27866944b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>a6d640bd-e1fd-4f93-af16-fd69828173bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_paquete_valor']</value>
-      <webElementGuid>2f6e066f-7936-478b-8d87-65bb06bf19a3</webElementGuid>
+      <webElementGuid>b6f5a978-f6df-48eb-8bb9-a34152df7646</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='que_envias']/div[2]/div[4]/input</value>
-      <webElementGuid>a0cf2408-adb1-4749-8be2-b530b6df46c6</webElementGuid>
+      <webElementGuid>e36eec95-d729-41df-997e-2721aefd00ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div[4]/input</value>
-      <webElementGuid>24d3b89a-1295-43d6-a355-d5eaadfed712</webElementGuid>
+      <webElementGuid>3bdb1077-7526-4ec2-9df2-c7938a6468c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'txt_paquete_valor' and @id = 'txt_paquete_valor' and @placeholder = 'Valor S/']</value>
-      <webElementGuid>ba7e09f8-e30f-4f94-95fa-3fc6fec2cf96</webElementGuid>
+      <webElementGuid>f2497920-ab55-4da5-a8d5-0190297938dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

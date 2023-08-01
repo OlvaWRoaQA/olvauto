@@ -35,7 +35,13 @@ WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos 
 WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_telefono_cliente'), 
     '900000001')
 
-WebUI.click(findTestObject('button_LIMA'))
+//WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_Hola,_txt_email_cliente'), 'email1@correo.com')
+WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/span_Departamento - Provincia - Distrito'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_Departamento - Provincia - Distrito_f_f56910'), 
+    'callao - callao - callao')
+
+WebUI.click(findTestObject('Object Repository/Registro de Envio/Page_Olva Courier  Datos Personales/a_CALLAO - CALLAO - CALLAO'))
 
 WebUI.scrollToPosition(0, 200)
 

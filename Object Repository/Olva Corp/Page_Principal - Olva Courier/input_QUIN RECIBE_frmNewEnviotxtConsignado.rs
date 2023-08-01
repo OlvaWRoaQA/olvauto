@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>92a30730-f92e-495b-a60f-ae6fbe7e2f22</webElementGuid>
+      <webElementGuid>d9a550b9-f16b-4a7d-a9b0-b362ce6171f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>id</name>
       <type>Main</type>
       <value>frmNewEnvio:txtConsignado</value>
-      <webElementGuid>feaca1da-e972-40f8-8dc3-1ea59eec7184</webElementGuid>
+      <webElementGuid>7cb516d2-fcbe-4051-9ae7-ffe851370f16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>frmNewEnvio:txtConsignado</value>
-      <webElementGuid>c34f1a54-779d-46f2-93b8-ccf66980bc90</webElementGuid>
+      <webElementGuid>1c0f7578-4b16-4d1c-8d6c-1d47bb9c60ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ade3c41d-46fd-4fa2-be86-29e918032d73</webElementGuid>
+      <webElementGuid>ff02b1ff-9386-4592-b54d-d6fab5bdd1f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>size</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>e422d16f-9b2d-4a5d-aeb3-f6630092ca55</webElementGuid>
+      <webElementGuid>5de8c540-eee0-4a22-a307-68aec0aee0dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>data-ng-model</name>
       <type>Main</type>
       <value>envio.consignadoName</value>
-      <webElementGuid>d981148c-4ae0-497f-947e-c398ab28b61c</webElementGuid>
+      <webElementGuid>d7e4f147-025e-4438-a807-fc1ddafc10d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>if (event.keyCode === 13) {                                                                  focusChange('#frmNewEnvio\\:consignadoDni');                                                                  return false;                                                              }</value>
-      <webElementGuid>5e4892ee-96df-4709-9ac3-e4db911780f5</webElementGuid>
+      <webElementGuid>1010c73a-ec80-4a57-b2bf-29f334aa9ea4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all ng-pristine ng-untouched ng-valid ui-state-hover ui-state-focus</value>
-      <webElementGuid>d4201ecc-be24-4dcd-aac3-8c7b70714431</webElementGuid>
+      <webElementGuid>9c57d40f-d42e-4d81-b308-6b80aef88a06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>9292a0f7-18a7-4867-adfe-978a6a01ffc6</webElementGuid>
+      <webElementGuid>d7ae0937-c966-428c-bf9d-db527bc4afd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>54c5e725-bae9-4b0a-9f4a-712dbc22e11c</webElementGuid>
+      <webElementGuid>f6db53a1-fd95-42df-9406-3490e43c2a70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>19fdc01e-7753-43b5-b2b5-218307ceb455</webElementGuid>
+      <webElementGuid>a14959ae-ea85-47d1-93e4-bfc2201bf92b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frmNewEnvio:txtConsignado&quot;)</value>
-      <webElementGuid>b544e999-7b8a-48e3-b56b-8719f0fbdb59</webElementGuid>
+      <webElementGuid>428cf78e-812f-4692-a259-73b44ec27f3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -118,7 +117,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Olva Corp/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
-      <webElementGuid>228de15e-5d11-4004-8c32-45151c5412b7</webElementGuid>
+      <webElementGuid>5196a135-b785-414b-9134-cd8ce27e89a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='frmNewEnvio:txtConsignado']</value>
-      <webElementGuid>8065186f-63a2-40da-8075-9a057e992b2a</webElementGuid>
+      <webElementGuid>9ca0b5e6-4fc6-4267-b4fa-1463ea28dc7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='frmNewEnvio:pnlNewEnvio_content']/table/tbody/tr/td[4]/input</value>
-      <webElementGuid>cf3d1e52-450e-4cf8-8dac-a727ee096997</webElementGuid>
+      <webElementGuid>ba984b5f-b5eb-4502-bef3-07ef02dc181d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/form/div/div/table/tbody/tr/td[4]/input</value>
-      <webElementGuid>ce5dd90d-54f4-4b20-9bd7-6a4f5f04c39d</webElementGuid>
+      <webElementGuid>b8738ad2-7ee9-4298-b8fb-d45ed08f6e40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'frmNewEnvio:txtConsignado' and @name = 'frmNewEnvio:txtConsignado' and @type = 'text']</value>
-      <webElementGuid>1628dd27-eea6-4673-9b8f-98762a539550</webElementGuid>
+      <webElementGuid>dd9d0a1f-6e2f-4883-8fb8-a436d518fd74</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

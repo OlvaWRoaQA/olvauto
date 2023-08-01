@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Devolucion Masivo</name>
+   <tag></tag>
+   <elementGuidId>78bb46a3-e7cf-4e37-9958-0202487df349</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='frmPrincipal:tree:0_4_0_4:lblNode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>28634dd4-4ee5-49fb-b8cb-a55ad087e7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmPrincipal:tree:0_4_0_4:lblNode</value>
+      <webElementGuid>8f3936ae-d91f-4fba-a900-829f5f49ec83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Devolucion Masivo</value>
+      <webElementGuid>15f29e91-d47f-4e58-8cca-7833b1fb1121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Devolucion Masivo</value>
+      <webElementGuid>97b47157-3e11-4cea-91c5-00141b97d6c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:tree:0_4_0_4:lblNode&quot;)</value>
+      <webElementGuid>fbc9fb22-5751-4087-9b51-0e089b866623</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:tree:0_4_0_4:lblNode']</value>
+      <webElementGuid>508deafb-2142-4770-8aa2-b5375e2b1cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='frmPrincipal:tree:0_4_0_4']/span/span[3]/span</value>
+      <webElementGuid>6d47f9a9-b34b-4cd6-b71b-59a48a848c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracking Postergado'])[1]/following::span[5]</value>
+      <webElementGuid>45ca3f15-f414-4a7f-a3f1-54519c60ccd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Devolución'])[2]/following::span[10]</value>
+      <webElementGuid>df6d290b-4dc4-4eb9-9801-1ae173e799e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquidación'])[2]/preceding::span[3]</value>
+      <webElementGuid>440a13a5-7377-4200-899b-52761f788093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recaudo'])[1]/preceding::span[8]</value>
+      <webElementGuid>5ff545fa-a19a-409d-bc1e-09a93278b378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Devolucion Masivo']/parent::*</value>
+      <webElementGuid>f5bba08f-09fd-4883-bbd5-aa40a8411a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li/ul/li[5]/span/span[3]/span</value>
+      <webElementGuid>953065c9-8521-4f7f-ba88-f750e3e30e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'frmPrincipal:tree:0_4_0_4:lblNode' and @title = 'Devolucion Masivo' and (text() = 'Devolucion Masivo' or . = 'Devolucion Masivo')]</value>
+      <webElementGuid>be87009d-fabb-4edc-a5e9-7be58d32ad05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

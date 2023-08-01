@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Marzo</name>
+   <tag></tag>
+   <elementGuidId>554dff51-7406-44d7-8e41-cabc0818c1bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select-options-305dd61a-222d-1f91-8a9d-a36a595660ac2 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select-options-305dd61a-222d-1f91-8a9d-a36a595660ac2']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40317e24-82dc-4570-96a0-c5d3f2905678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marzo</value>
+      <webElementGuid>6cdbade0-92f7-449b-8fea-87f1b3a63068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-options-305dd61a-222d-1f91-8a9d-a36a595660ac2&quot;)/span[1]</value>
+      <webElementGuid>ee70eb99-6bfa-44b3-b074-baaaf7ceef77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='select-options-305dd61a-222d-1f91-8a9d-a36a595660ac2']/span</value>
+      <webElementGuid>a0307e1f-616e-46e0-a7f9-4e0908732fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Febrero'])[2]/following::span[1]</value>
+      <webElementGuid>365a4acd-f418-4d27-8c35-d98ca66ca4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enero'])[2]/following::span[2]</value>
+      <webElementGuid>915f9b62-e901-4451-bf2e-725fb78c3d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abril'])[2]/preceding::span[1]</value>
+      <webElementGuid>fdf3ca8e-ba24-41ee-8b24-0ce677e43c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayo'])[2]/preceding::span[2]</value>
+      <webElementGuid>9f992d1f-6625-4c1b-acfe-ef448daa9ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[3]/span</value>
+      <webElementGuid>c7c3936c-aa21-44c4-a92c-1939ea3ef9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Marzo' or . = 'Marzo')]</value>
+      <webElementGuid>fc650e17-023d-4fdf-b7b6-5331adca1dfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

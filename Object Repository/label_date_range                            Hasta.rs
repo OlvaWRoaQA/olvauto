@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_date_range                            Hasta</name>
+   <tag></tag>
+   <elementGuidId>ac563722-93ba-492a-81fb-02ad8083985c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='eeccform']/div/div[2]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6a356111-54c6-42ad-b0c0-0b971920e5d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>to</value>
+      <webElementGuid>b639b81e-3157-4124-9740-958a534f892f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            date_range
+                            Hasta</value>
+      <webElementGuid>cb09f86c-61e5-47cd-bf8f-339757afbe1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eeccform&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s12 m6 l3&quot;]/div[@class=&quot;input-field col s12 m12 l6&quot;]/label[1]</value>
+      <webElementGuid>9d3ce2c3-306b-4d2b-8f3c-ba6a4fe6c338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='eeccform']/div/div[2]/div[2]/label</value>
+      <webElementGuid>73708929-45ae-4ba3-abd1-47d0bbf5c85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[2]/following::label[1]</value>
+      <webElementGuid>63b708a5-2199-4ae4-bf6c-7ee9de565df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::label[1]</value>
+      <webElementGuid>6d561910-5142-4ef0-9b5c-f74ecfe057e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TODOS'])[1]/preceding::label[1]</value>
+      <webElementGuid>56518fae-a3f2-4e42-ac1b-d521101c124c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hasta']/parent::*</value>
+      <webElementGuid>22e8a267-c872-4bfb-87eb-54e0188ee97c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>693585b5-d97e-41c6-8875-b4b97219cf66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                            date_range
+                            Hasta' or . = '
+                            date_range
+                            Hasta')]</value>
+      <webElementGuid>5716a90c-bf56-4c7d-8130-726e0e4423d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

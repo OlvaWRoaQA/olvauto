@@ -6,12 +6,11 @@
    <elementGuidId>515a4bfd-ec54-4f3d-9912-426182351e31</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[(text() = 'Recojo en tienda' or . = 'Recojo en tienda')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;adonde_enviamos&quot;]/div[2]/div[2]/div/div/ul/li[2]/a/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fe5dbbdf-c2e3-4f90-8845-b1ed0d2cbaa1</webElementGuid>
+      <webElementGuid>3d168d45-0890-4a5e-a6cf-4e5c6d039396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c18e102b-0c48-42a5-a90d-a3f9ce6d76d3</webElementGuid>
+      <webElementGuid>ade1be01-783c-4589-85e3-1cb5d70ae461</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>data-normalized-text</name>
       <type>Main</type>
       <value>&lt;span class=&quot;text&quot;>Recojo en tienda&lt;/span></value>
-      <webElementGuid>93f279a6-84d3-4507-a966-bd11d68fbfb5</webElementGuid>
+      <webElementGuid>1319b9e6-d170-4400-acf7-f71036832305</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Recojo en tienda</value>
-      <webElementGuid>2137fbe1-1f17-4be5-8f92-62b8071a9585</webElementGuid>
+      <webElementGuid>3e5868aa-d5d8-48dc-8209-55dd15b6edc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 cls_element_item  espacio_vista_xs_2 first_item&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[2]/a[1]</value>
-      <webElementGuid>0b998a2c-f688-4b2f-b86a-fccda0e62e57</webElementGuid>
+      <webElementGuid>90d3b23d-f531-4a1f-97de-cec969a36822</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='adonde_enviamos']/div[2]/div[2]/div/div/ul/li[2]/a</value>
-      <webElementGuid>5e015548-f9da-4b7d-87db-bec5ed1a047c</webElementGuid>
+      <webElementGuid>ac849db7-811c-42f0-8f2f-eda909529dad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de entrega'])[2]/following::a[1]</value>
-      <webElementGuid>2f3696ce-6490-443e-a07d-6eda4717e408</webElementGuid>
+      <webElementGuid>56322dba-519b-493f-b1e3-5728a42396a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega a domicilio'])[2]/following::a[2]</value>
-      <webElementGuid>39b7d9c2-f1c1-48b7-80d7-55b9f6460751</webElementGuid>
+      <webElementGuid>5e8b7f7a-f098-4650-8d2f-fb7c49d3c77c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega a domicilio'])[3]/preceding::a[1]</value>
-      <webElementGuid>f1b92d42-ae14-4ed6-9ee4-a0b4b7a4efa7</webElementGuid>
+      <webElementGuid>0b83269a-f839-426d-a479-e7b9d3b59123</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div[2]/div/div/ul/li[2]/a</value>
-      <webElementGuid>383e044d-f707-4d6d-a60f-6f7774d661d5</webElementGuid>
+      <webElementGuid>d9427fe9-6f75-42bf-a62b-dff3e237c8a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Recojo en tienda' or . = 'Recojo en tienda')]</value>
-      <webElementGuid>d4fc0d34-6c56-49aa-b2de-61e0d4e9d340</webElementGuid>
+      <webElementGuid>357e23ab-c517-44b1-a296-2cf2a2d7afc4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

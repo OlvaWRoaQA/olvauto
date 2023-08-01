@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Junio</name>
+   <tag></tag>
+   <elementGuidId>6d6e8861-8fb3-44fa-867f-916b51515613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select-options-16243df1-a9e9-1ace-5e79-3141ee74e84f5 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select-options-16243df1-a9e9-1ace-5e79-3141ee74e84f5']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57e932ae-6172-4808-ae57-f2587496565e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Junio</value>
+      <webElementGuid>aab99f34-7a6b-4bfd-a1d8-e81968c135f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-options-16243df1-a9e9-1ace-5e79-3141ee74e84f5&quot;)/span[1]</value>
+      <webElementGuid>098e55df-dc84-4a8a-b97e-0c2e91dec050</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='select-options-16243df1-a9e9-1ace-5e79-3141ee74e84f5']/span</value>
+      <webElementGuid>782ed056-9e48-4781-929b-d7c5617616fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayo'])[4]/following::span[1]</value>
+      <webElementGuid>c68fccbb-b5e5-4bbc-ba31-0d72b45a3c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abril'])[4]/following::span[2]</value>
+      <webElementGuid>b9ee75ee-88e1-4711-b060-ea46d0f79378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Julio'])[4]/preceding::span[1]</value>
+      <webElementGuid>35251ecb-c4d9-4790-b8e7-d8352022aa94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agosto'])[4]/preceding::span[2]</value>
+      <webElementGuid>d0611b88-8acf-43de-adb5-91c56a2139b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li[6]/span</value>
+      <webElementGuid>0377d3b9-28c0-42a2-b330-cdb5eaedb7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Junio' or . = 'Junio')]</value>
+      <webElementGuid>91f0fc5e-8c3f-4769-a59c-3c681066f770</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

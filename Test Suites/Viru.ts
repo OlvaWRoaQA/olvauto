@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Viru</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>b69fff2d-f377-4311-aed3-35e34ce3611f</testSuiteGuid>
+   <testCaseLink>
+      <guid>34303e22-79a1-4db8-8310-9fad2739e3e4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Tarifas Tienda-Domicilio/OlvaCorp/Venta/Viru/Domicilio - tarifas Venta- 2kg - iteracion</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9794a726-a85b-40f6-b0a7-19a00985abb3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Viru Domicilio</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9794a726-a85b-40f6-b0a7-19a00985abb3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NOMBRE</value>
+         <variableId>76e25968-1d5e-4579-b1c1-83225e6f570a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9794a726-a85b-40f6-b0a7-19a00985abb3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TOTAL_2_KG</value>
+         <variableId>72205a93-a49b-4ef8-9336-bd9b731285a1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>357aff95-8eef-43e3-b8e2-714dbea3a15a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tarifas Tienda-Domicilio/OlvaCorp/Venta/Viru/Domicilio - tarifas Venta- 1kg - Iteración</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>dc632418-9335-4968-bcb0-4b837e1be26e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Viru Domicilio</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>dc632418-9335-4968-bcb0-4b837e1be26e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NOMBRE</value>
+         <variableId>f9a72670-639a-4912-a97d-ff52221d9d04</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dc632418-9335-4968-bcb0-4b837e1be26e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TOTAL_1_KG</value>
+         <variableId>e01699ce-b525-4449-8d43-ae9f0113722d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

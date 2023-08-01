@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(.,'RUC')])[1]</value>
+         <value>(//span[@class='text'][contains(.,'RUC')])[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6e139ffb-02cd-443d-a07d-fbe1e071b566</webElementGuid>
+      <webElementGuid>ce9ae804-fdd5-47a8-bd40-b8819ae5f723</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>cadc48cb-654f-45d3-86ac-93e3033b0600</webElementGuid>
+      <webElementGuid>8605d497-18c9-4347-8949-b113be8cb521</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>RUC</value>
-      <webElementGuid>13d37706-42e7-4502-8566-6516db1918cc</webElementGuid>
+      <webElementGuid>303faed2-4cf9-464f-a10c-1b2e94c4b26b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content_documento&quot;)/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[3]/a[1]/span[@class=&quot;text&quot;]</value>
-      <webElementGuid>499d6055-6143-40d2-8e9e-024fd48a9bf2</webElementGuid>
+      <webElementGuid>07abd4a5-59b3-41b0-a1d7-7a0a35a346f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content_documento']/div/div/ul/li[3]/a/span</value>
-      <webElementGuid>49bcc1dc-9516-4a0b-9ccf-33429e96e5c5</webElementGuid>
+      <webElementGuid>6913be12-8b91-4ce1-94fc-0c530f1fac5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DNI'])[2]/following::span[2]</value>
-      <webElementGuid>bb529873-54a8-43f2-9230-928e3c2707f8</webElementGuid>
+      <webElementGuid>51d312ad-4e93-45d9-a7d5-5ef858aa6f84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo De Documento'])[3]/following::span[4]</value>
-      <webElementGuid>b3a90a50-c0d8-44cc-9dec-7a8443498fd3</webElementGuid>
+      <webElementGuid>202a7025-399c-4adc-a056-584afc59dde0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CARNÉ EXT.'])[2]/preceding::span[2]</value>
-      <webElementGuid>8d2c9455-445d-4752-a340-506963380054</webElementGuid>
+      <webElementGuid>a88b9b99-2117-423c-a5f3-6b145d7fc472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='El RUC debe tener 11 dígitos'])[1]/preceding::span[4]</value>
-      <webElementGuid>a8368a9f-91e8-4d0b-901d-ca3a3aa4583a</webElementGuid>
+      <webElementGuid>a89a6747-2923-4d7a-8a3f-b99a1d0295ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/span</value>
-      <webElementGuid>36817ff7-8c1c-4dad-bd0a-8e7853a81529</webElementGuid>
+      <webElementGuid>26e5e3b3-58b2-4a33-945d-33969b8179ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'RUC' or . = 'RUC')]</value>
-      <webElementGuid>bb414035-52ec-43bf-bdd1-ad6ef3ae1a79</webElementGuid>
+      <webElementGuid>b49fc8fc-ad4b-422b-9e8a-d16266b54ebc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://registro.olvacourier.com/registrar_envios/')
+WebUI.openBrowser('https://dev-registrodeenvios.olvacourier.com/registrar_envios/editar-envio')
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 

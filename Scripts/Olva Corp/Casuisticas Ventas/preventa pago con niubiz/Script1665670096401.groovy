@@ -29,9 +29,7 @@ nro_pedido1 = WebUI.getText(findTestObject('Object Repository/Inicio/Page_Olva C
 
 WebUI.delay(1)
 
-WebUI.navigateToUrl('http://registro.olvacourier.com:8080/OlvaERP-web/login.xhtml')
-
-WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Olva Corp/Inicio de corp'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Olva Corp/Page_Login  Olva Courier/input_Acceder para continuar a Olva_frmLogi_1df1ac'), 
     'garce')
@@ -57,7 +55,7 @@ WebUI.click(findTestObject('Page_Principal - Olva Courier/a_Gerardo Arce Gutierr
 
 WebUI.click(findTestObject('Page_Principal - Olva Courier/a_Cerrar sesin'))
 
-WebUI.navigateToUrl('http://registro.olvacourier.com:8080/OlvaERP-web/login.xhtml')
+WebUI.navigateToUrl('http://aws-wap.olvacourier.com:8080/OlvaERP-web/')
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 

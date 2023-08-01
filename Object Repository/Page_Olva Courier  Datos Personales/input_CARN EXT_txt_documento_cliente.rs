@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>54e2047d-bdce-4c28-8d52-52421af42b17</webElementGuid>
+      <webElementGuid>701afe40-8be7-4f0e-85dc-5dbd0e3b92f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>900d8d55-8e7e-440c-8faf-9c25e9850ecf</webElementGuid>
+      <webElementGuid>1933b240-f57e-4441-960e-733609bae14a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d50c16f4-6ffd-4a74-9555-98522edab2d2</webElementGuid>
+      <webElementGuid>1da8946a-f2e6-4af7-9940-d940a19cc837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onkeyup</name>
       <type>Main</type>
       <value>validateDNI()</value>
-      <webElementGuid>673bc51e-df33-4f2b-abdc-6df31b67c06c</webElementGuid>
+      <webElementGuid>632e9cff-e040-42fe-a77e-0e40ae7e4be1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>txt_documento_cliente</value>
-      <webElementGuid>9f912ec9-106d-416b-9ce4-043b00fd1d00</webElementGuid>
+      <webElementGuid>041dacf2-dc3e-462f-b43a-bfb8528061c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>12</value>
-      <webElementGuid>ef51844c-57f8-44f5-9cab-29d390160946</webElementGuid>
+      <webElementGuid>8ba1ad2a-adc4-42f5-addb-cd9189905604</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Número</value>
-      <webElementGuid>0ad26d8d-394a-46c0-b6af-d26bbf9d1586</webElementGuid>
+      <webElementGuid>d8d61374-6beb-41a8-97bd-6ab87ee68a00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control msg_alert_tt</value>
-      <webElementGuid>b8e2cdba-de02-4b98-b111-96ab61092335</webElementGuid>
+      <webElementGuid>f71be483-4c10-44e0-a58c-d7bc1f366deb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>title</name>
       <type>Main</type>
       <value>.</value>
-      <webElementGuid>701d1956-db7e-4b08-a0e4-80934584181c</webElementGuid>
+      <webElementGuid>6ad32293-2cf8-4391-a721-79c6e1d45969</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_documento_cliente</value>
-      <webElementGuid>f542d67a-6186-47fb-bdd3-919e49e79ef9</webElementGuid>
+      <webElementGuid>361204ca-0d39-46b1-a6fa-b4f0c3331bfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>return nuevoEnvioJS.validateNumber(event);</value>
-      <webElementGuid>ea9c45e7-32b7-41f1-b5eb-985a7f1acea9</webElementGuid>
+      <webElementGuid>f2107de6-0cdf-4575-a968-bb4f1c557974</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>8c589443-822b-449e-87a8-d2bdc4ef1747</webElementGuid>
+      <webElementGuid>4ee6ca1d-e0f7-4567-9ccf-cb20a67bef40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_documento_cliente&quot;)</value>
-      <webElementGuid>e924868e-4156-4322-9e73-5f5add67ffc8</webElementGuid>
+      <webElementGuid>1fe6e0fc-953c-48d5-bef8-446913614272</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_documento_cliente']</value>
-      <webElementGuid>08534fb9-cc71-4e99-97d3-ceb130bc9a40</webElementGuid>
+      <webElementGuid>3633ce8b-d3a4-4de2-9fca-cb7adf075b54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='quien_envia']/div[2]/div[4]/input</value>
-      <webElementGuid>f9647ff5-536d-4cae-ad76-403d6692835f</webElementGuid>
+      <webElementGuid>4349ca02-df9c-4536-935b-c5a5a3620f46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/input</value>
-      <webElementGuid>72238ac3-9063-4419-878a-b757c5681336</webElementGuid>
+      <webElementGuid>bc78c280-3993-4e1c-8328-c7aab71b7f50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'txt_documento_cliente' and @placeholder = 'Número' and @title = '.' and @id = 'txt_documento_cliente']</value>
-      <webElementGuid>61837875-7e1e-4586-9a8c-96ce5ab18dab</webElementGuid>
+      <webElementGuid>ff2995f4-f5d2-47f1-99bb-ee3c817e9ad9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

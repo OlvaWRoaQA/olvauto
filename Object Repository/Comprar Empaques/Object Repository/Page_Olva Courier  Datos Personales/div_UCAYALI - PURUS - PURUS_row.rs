@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UCAYALI - PURUS - PURUS_row</name>
+   <tag></tag>
+   <elementGuidId>941f5ab7-579e-444c-ac8b-085e84a3c2cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso1']/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a390dc93-2555-492d-8115-4a8aee0b8e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row </value>
+      <webElementGuid>8de3c718-516a-4b92-bdf7-4d3823c7374b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_dir_caja&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>6f03c811-104a-4952-8efe-d01d61dc8eab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[3]/div[2]</value>
+      <webElementGuid>140fd74e-65c6-4b9d-b475-a6b06335ff56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UCAYALI - PURUS - PURUS'])[4]/following::div[7]</value>
+      <webElementGuid>b2b26c01-4502-45a8-bc85-7fe19414ea9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UCAYALI - PADRE ABAD - NESHUYA'])[2]/following::div[7]</value>
+      <webElementGuid>5f86a562-0b33-4482-ade5-193a5c89ef48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/preceding::div[6]</value>
+      <webElementGuid>e1dec3b4-2dd9-4eae-9703-f4a84a073f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OLVA ALMACEN - AV. ARGENTINA 4458 - CALLAO - CALLAO - Avenida Argentina 4458, Callao, Perú()'])[2]/preceding::div[6]</value>
+      <webElementGuid>c3aadd3e-7bc9-42e8-80c7-05730f4b3a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>036d4e74-3a80-469d-b8f2-c27204cd8bcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

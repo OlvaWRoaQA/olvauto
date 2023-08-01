@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0.00</name>
+   <tag></tag>
+   <elementGuidId>d3af7342-d617-4878-a960-c75ff8d383b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@class='MuiBox-root jss558 sc-fzXfOs fLqWMm']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss1410.sc-fzXfOs.fLqWMm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>642ece62-cf80-4362-a603-c06aa4637ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss1410 sc-fzXfOs fLqWMm</value>
+      <webElementGuid>b98c9122-3f46-4270-9022-df7a29ad2baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$ 
+            0.00</value>
+      <webElementGuid>03880991-2e5b-40d4-bb41-0d6b9a4169d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;749501&quot;)/td[@class=&quot;MuiTableCell-root MuiTableCell-body&quot;]/div[@class=&quot;MuiBox-root jss1410 sc-fzXfOs fLqWMm&quot;]</value>
+      <webElementGuid>e21d0c5d-7084-41cd-b413-c1630e39fe70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='749501']/td[10]/div</value>
+      <webElementGuid>76f049a8-30af-4f05-9f74-59416832c36b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[1]</value>
+      <webElementGuid>2bc92f51-f307-4cb0-aea4-e5e9cdd01615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creado'])[2]/following::div[4]</value>
+      <webElementGuid>b8020809-7a75-4745-a315-368902b6e42f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::div[2]</value>
+      <webElementGuid>b6e4edf0-f28b-4810-b8b4-23a8ba692e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div</value>
+      <webElementGuid>7fe0f291-e2af-44e6-bb70-38d3c7ef8b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '$ 
+            0.00' or . = '$ 
+            0.00')]</value>
+      <webElementGuid>a3b2c8a1-79ce-423e-aedd-b42e78141baa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

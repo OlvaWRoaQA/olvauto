@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_arrow_drop_down_leaflet-heatmap-laye_a625d8 (1)</name>
+   <tag></tag>
+   <elementGuidId>057b4a32-8bec-4f7a-9a0c-9c132bd2ef51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>canvas.leaflet-heatmap-layer.leaflet-layer.leaflet-zoom-animated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mapid']/div/div[3]/canvas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>a4855026-51f5-456c-91b2-44374d0c9d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leaflet-heatmap-layer leaflet-layer leaflet-zoom-animated</value>
+      <webElementGuid>6f223348-f34c-4233-9c2f-cc4a042c5acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>945</value>
+      <webElementGuid>f6565ad8-9181-433c-b3d6-33b57144dd0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>60b1b077-f3d2-4c21-be44-fd83a1fc2e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mapid&quot;)/div[@class=&quot;leaflet-pane leaflet-map-pane&quot;]/div[@class=&quot;leaflet-pane leaflet-overlay-pane&quot;]/canvas[@class=&quot;leaflet-heatmap-layer leaflet-layer leaflet-zoom-animated&quot;]</value>
+      <webElementGuid>4c004e9b-9bf2-4990-9bd2-1ea36e6ed49d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mapid']/div/div[3]/canvas</value>
+      <webElementGuid>9b3518ef-d330-46d5-a58c-d1f737e98b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//canvas</value>
+      <webElementGuid>865e9e2f-4830-4532-b33f-7cde212635c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

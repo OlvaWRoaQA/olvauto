@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>d82fa7b3-1140-4ed0-86be-2b1571468019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.H_btn.H_el</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='map']/div/div[3]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb82f0d8-92bd-487b-b9d2-36ba9ad6711a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>H_btn H_el</value>
+      <webElementGuid>0227c5ae-4de2-47ec-b673-a148883a8110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[  ]</value>
+      <webElementGuid>1250bf63-dfde-493d-b2c3-a02023b15be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;map&quot;)/div[1]/div[@class=&quot;H_ui&quot;]/div[@class=&quot;H_l_top H_l_right&quot;]/div[@class=&quot;H_l_anchor H_l_horizontal&quot;]/div[@class=&quot;H_ctl H_el fullScreen&quot;]/div[@class=&quot;H_overlay H_el customPanel H_open&quot;]/div[@class=&quot;H_btn H_el&quot;]</value>
+      <webElementGuid>4a315b95-9773-47ac-9451-ea1f4559c135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Olva Courier  Datos Personales/iframe_Cerrar_iframe_response</value>
+      <webElementGuid>24bb4aac-4d57-44fd-8cf7-49484ea78d4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='map']/div/div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>ca448fb1-6bdc-454a-8a4b-d6f1e6364e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 1987–2023 HERE'])[1]/following::div[9]</value>
+      <webElementGuid>1ef4380e-3126-4d9b-bf42-0de4b4d6f0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of use'])[1]/following::div[9]</value>
+      <webElementGuid>dcb295b3-87c6-46df-97c2-bb2af837d704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose view'])[1]/preceding::div[12]</value>
+      <webElementGuid>2b34167a-2170-4092-9690-050f3a6f143b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map view'])[1]/preceding::div[13]</value>
+      <webElementGuid>41fcb582-fe4b-4378-91d8-1fa9c4da3aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>651cd579-09b0-49b2-b67a-795814ebbc43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '[  ]' or . = '[  ]')]</value>
+      <webElementGuid>5f6ba67b-0e9c-426d-b303-6351bddafbce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

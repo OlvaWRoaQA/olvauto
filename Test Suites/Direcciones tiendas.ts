@@ -18,7 +18,7 @@
       <testCaseId>Test Cases/Registro de Envio - girley.MAD/Registro de Envios/Proyecto Girley/Funcionales/11 validar servicio valorado - Iteracion</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>dc0a44ce-5481-4c0e-ba39-28b37deb0029</id>
+         <id>187612a7-a6e4-497a-afdf-a8e03bc3ff01</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,7 +27,7 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>dc0a44ce-5481-4c0e-ba39-28b37deb0029</testDataLinkId>
+         <testDataLinkId>187612a7-a6e4-497a-afdf-a8e03bc3ff01</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>DIRECCION</value>
          <variableId>cd9b04a8-5f8c-489f-bb4d-34087b79ff0c</variableId>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_FACTURACIN (2)</name>
+   <tag></tag>
+   <elementGuidId>ce44b024-4461-40fa-b07c-bc9996e217f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='eeccform']/div/div/div/fieldset/p[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3bcbee83-6eb2-437c-bda4-6fab0dd3f40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FACTURACIÓN</value>
+      <webElementGuid>ab0fa7ed-b56f-4e4d-aae9-4c98b3620f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eeccform&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col s12 m6 l3&quot;]/div[@class=&quot;input-field&quot;]/fieldset[@class=&quot;form-search-fieldset&quot;]/p[2]/label[1]/span[1]</value>
+      <webElementGuid>75a21648-f64a-4360-a8be-d7ec3a9f54b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='eeccform']/div/div/div/fieldset/p[2]/label/span</value>
+      <webElementGuid>e27a211a-c52d-4ccc-a6c3-2fb533df45d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESTADO DE CUENTA'])[1]/following::span[1]</value>
+      <webElementGuid>f6b6a6cb-6925-4359-aca1-1d8ed834b0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELECCIONE'])[1]/following::span[2]</value>
+      <webElementGuid>871383ac-4fb7-43af-8da7-6d5a0b4b238b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lun, May 1'])[1]/preceding::span[2]</value>
+      <webElementGuid>f41e9f55-f5b5-455e-a174-253ae6380497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[1]/preceding::span[3]</value>
+      <webElementGuid>4db47173-2776-4013-8a14-ef68ebcfb015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FACTURACIÓN']/parent::*</value>
+      <webElementGuid>14dd2fcd-4505-4f69-8e83-f5eaa189406d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/label/span</value>
+      <webElementGuid>146519be-1d4e-432e-9121-184b007e43d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'FACTURACIÓN' or . = 'FACTURACIÓN')]</value>
+      <webElementGuid>6eb9e306-677f-4421-8109-23c34bfb90c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

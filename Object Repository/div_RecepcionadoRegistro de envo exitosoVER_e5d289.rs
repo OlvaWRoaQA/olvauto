@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RecepcionadoRegistro de envo exitosoVER_e5d289</name>
+   <tag></tag>
+   <elementGuidId>433ac77a-c6d3-4d9b-a13f-ef0dc15fd44c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.div-container-horizontal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fc77e984-573e-4f4e-b7ca-5ff3441f9f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row div-container-horizontal</value>
+      <webElementGuid>510d58f0-6317-4908-a540-0fcef23088fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RecepcionadoRegistro de envío exitosoVER DETALLEEn proceso de envíoEn caminoVER DETALLEEntregado¡Entregado exitosamente!VER DETALLE</value>
+      <webElementGuid>55519fc2-7858-48cd-bbae-48a20f038e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row div-container-horizontal&quot;]</value>
+      <webElementGuid>8dff58e8-7a46-4948-952b-1a2a5147d542</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[3]/div</value>
+      <webElementGuid>41378fc8-1e22-441c-b4e6-752301c9b015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peso:'])[1]/following::div[2]</value>
+      <webElementGuid>707b1aea-32fd-4425-a159-7121e8e06b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOBRE - DOCUMENTOS'])[1]/following::div[2]</value>
+      <webElementGuid>35d0c5ca-6b91-4ceb-8ec6-e06748813ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>7cd5dd9d-fc1c-4b67-997f-700b4f19fc7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'RecepcionadoRegistro de envío exitosoVER DETALLEEn proceso de envíoEn caminoVER DETALLEEntregado¡Entregado exitosamente!VER DETALLE' or . = 'RecepcionadoRegistro de envío exitosoVER DETALLEEn proceso de envíoEn caminoVER DETALLEEntregado¡Entregado exitosamente!VER DETALLE')]</value>
+      <webElementGuid>acbc70e0-e452-469f-8967-fb51a2d02572</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

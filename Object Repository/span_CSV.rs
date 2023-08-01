@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CSV</name>
+   <tag></tag>
+   <elementGuidId>c96039d6-ec97-4c91-b76b-7fd3a7866c38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='eecc_wrapper']/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.buttons-csv.buttons-html5.btn-small > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>374aa05a-96ab-47d4-a38a-2fb8042d8ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CSV </value>
+      <webElementGuid>48ab5c7e-595b-4817-8d8a-fd8695d0f9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eecc_wrapper&quot;)/div[@class=&quot;dt-buttons btn-group&quot;]/button[@class=&quot;btn btn-default buttons-csv buttons-html5 btn-small&quot;]/span[1]</value>
+      <webElementGuid>6b717d32-ce82-4e98-ae1e-8ddbc40cc2da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eecc_wrapper']/div[2]/button/span</value>
+      <webElementGuid>a8eff8b6-046e-411e-9273-61efabdc149f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar:'])[1]/following::span[1]</value>
+      <webElementGuid>0edfeec5-34e7-40c3-8f43-ac9c04325529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listar'])[1]/following::span[1]</value>
+      <webElementGuid>50e3ee3c-95dc-4fea-9a1e-80d2cbbed76b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXCEL'])[1]/preceding::span[1]</value>
+      <webElementGuid>b584fd68-c5b6-417f-bbdb-84ecd9011028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/preceding::span[2]</value>
+      <webElementGuid>223e24dc-cbe8-4def-b1a0-c069d81e4e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CSV']/parent::*</value>
+      <webElementGuid>ce038bd0-047b-4bb5-a3a4-ad49d94bb7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>4f01d4c3-798a-4f57-8220-50fdb85b1b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CSV ' or . = 'CSV ')]</value>
+      <webElementGuid>3773839a-eb80-47d9-b031-ff18c7568707</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

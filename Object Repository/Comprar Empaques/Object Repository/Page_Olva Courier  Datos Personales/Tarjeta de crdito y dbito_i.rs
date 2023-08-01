@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tarjeta de crdito y dbito_i</name>
+   <tag></tag>
+   <elementGuidId>69b9367e-ad31-4837-9c71-1eb5db469d14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.radio.state-success > i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;paymentMethods&quot;]/div/div/section/label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e194bea9-7173-41f2-9c62-f57b43bd5c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethods&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col col-11&quot;]/section[1]/label[@class=&quot;radio state-success&quot;]/i[1]</value>
+      <webElementGuid>7dc3e716-a3a0-4f06-a8c7-c350508ebd50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Comprar Empaques/Object Repository/Page_Olva Courier  Datos Personales/iframe_Aceptar_visaNetJS</value>
+      <webElementGuid>5a5e6c84-ecb8-4ca6-b513-defebe8543f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentMethods']/div/div/section/label/i</value>
+      <webElementGuid>f49ef6ef-2116-4182-ad4f-12e8365ff5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/section/label/i</value>
+      <webElementGuid>feb40cca-06eb-448b-9a3a-111a70fe99b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[contains(.,'PAGAR')]</value>
+         <value>//button[@id='btn-pagar']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f3d07129-cb17-4e76-85b7-9d3ddb9149ca</webElementGuid>
+      <webElementGuid>ee929748-3542-4ee1-a716-862c54e34fa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-pagar</value>
-      <webElementGuid>2adbbf6b-c521-4e7c-83d7-d6ba6be9cf44</webElementGuid>
+      <webElementGuid>a0f4d5be-c41e-425d-9d76-0d9f8178f860</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-warning btn-pagar btn-pagar-2</value>
-      <webElementGuid>43ff61ec-7900-498d-8de8-c8e4f05e427f</webElementGuid>
+      <webElementGuid>2d501e69-9ab7-4163-9724-22a2da382656</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>PagarJS.preGuardarPreventa()</value>
-      <webElementGuid>57e1c0a8-4828-40db-adf0-8a045b557c4a</webElementGuid>
+      <webElementGuid>c8da0654-f1a2-4db2-86b4-995cba7ad597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PAGAR</value>
-      <webElementGuid>82e9a1da-4c1f-446b-95f4-e96aab23c711</webElementGuid>
+      <webElementGuid>dc3d1b8b-dd86-44a3-a74e-97982fb293a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-pagar&quot;)</value>
-      <webElementGuid>f7936e1b-9efa-4cc1-a088-f735088dd7ec</webElementGuid>
+      <webElementGuid>0b77d5c1-51dc-4e4b-9d5b-9a8d64ec3014</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-pagar']</value>
-      <webElementGuid>c27e4250-84ec-4d45-85bb-15c5f86b346b</webElementGuid>
+      <webElementGuid>9eb290a8-7258-41b6-9de1-34eb6f122aa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div_pagar']/button</value>
-      <webElementGuid>a1183838-0442-4492-af08-ecd16d324efe</webElementGuid>
+      <webElementGuid>77f50bd3-c4ff-4e84-8511-92b5df2ce32d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VALIDAR'])[1]/following::button[1]</value>
-      <webElementGuid>12f54427-6e4f-49af-a32b-41ec0f0c61ca</webElementGuid>
+      <webElementGuid>1fc778b7-b291-463f-9beb-61f918680e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 20.80'])[1]/following::button[2]</value>
+      <webElementGuid>3560bb99-8797-4a27-8292-a2995f7dce41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mensaje'])[1]/preceding::button[1]</value>
+      <webElementGuid>3db4e505-09ea-4970-8abd-b42dd1cd30f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/preceding::button[2]</value>
+      <webElementGuid>72e36dc0-fa98-4511-a91d-4eac5477f0a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PAGAR']/parent::*</value>
+      <webElementGuid>ddd3811a-af81-439f-bf1e-ff3853d280aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>120a136e-8b7f-495d-a432-9de14139f6f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-pagar' and (text() = 'PAGAR' or . = 'PAGAR')]</value>
+      <webElementGuid>d85e1164-5f13-44ff-9858-c4ce8be08c64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,45 +143,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 6.44'])[1]/following::button[2]</value>
       <webElementGuid>393e5da6-95e1-4627-b5ea-30b1f938e55c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mensaje'])[1]/preceding::button[1]</value>
-      <webElementGuid>0665cd32-89ca-4470-b929-ab4cb80d1497</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/preceding::button[2]</value>
-      <webElementGuid>2ea34af5-7701-4697-8e2a-22941e4f767a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='PAGAR']/parent::*</value>
-      <webElementGuid>82d2c549-5749-4a9a-adf7-6f4eb7b39e18</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div[2]/button</value>
-      <webElementGuid>a9298c10-4e0c-4265-ab9b-ea3b289ae632</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = 'btn-pagar' and (text() = 'PAGAR' or . = 'PAGAR')]</value>
-      <webElementGuid>f18e26dd-320f-4ba4-9d44-2843141312da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

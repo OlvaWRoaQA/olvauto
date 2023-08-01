@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_panorama_fish_eyeListado de Recojos (1)</name>
+   <tag></tag>
+   <elementGuidId>42129d7a-5913-4b37-8a40-ae5f0c8aa5a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.active > div.collapsible-body > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f91bd9b-0bb5-41f6-a30f-fbe12875c595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/atc/pick/history</value>
+      <webElementGuid>8823fae6-65b5-4ce0-a9e9-e6c3b88a5efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>panorama_fish_eyeListado de Recojos</value>
+      <webElementGuid>6a9651f3-9f9a-43d3-8182-f3ea55364560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slide-out&quot;)/div[@class=&quot;top-list&quot;]/ul[@class=&quot;collapsible expandable&quot;]/li[3]/ul[@class=&quot;collapsible expandable&quot;]/li[@class=&quot;active&quot;]/div[@class=&quot;collapsible-body&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>090d4af0-fc56-425c-8036-d583cbd6e752</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='slide-out']/div/ul/li[3]/ul/li/div/ul/li/a</value>
+      <webElementGuid>318e69df-ccd3-4714-81be-37a583b7c1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_drop_down'])[2]/following::a[1]</value>
+      <webElementGuid>463a7227-3abf-4a73-9b71-e7edbc8c406a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reportes'])[1]/following::a[1]</value>
+      <webElementGuid>f4387e12-42ca-46c5-a989-065a241298e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/atc/pick/history')])[2]</value>
+      <webElementGuid>e87e8dfb-1578-4a89-9107-b93feeed187e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/div/ul/li/a</value>
+      <webElementGuid>1dfdc667-d468-4fcc-97aa-e21368691ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/atc/pick/history' and (text() = 'panorama_fish_eyeListado de Recojos' or . = 'panorama_fish_eyeListado de Recojos')]</value>
+      <webElementGuid>7ac2513c-f336-4452-bb9e-623ddde8708d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

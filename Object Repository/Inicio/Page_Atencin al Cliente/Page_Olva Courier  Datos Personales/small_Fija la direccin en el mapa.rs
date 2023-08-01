@@ -6,12 +6,12 @@
    <elementGuidId>aa997757-a285-4063-8387-2d9c3b9e2064</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>small</value>
+         <key>XPATH</key>
+         <value>//canvas[contains(@height,'600')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//small[contains(.,'Fija la dirección en el mapa')]</value>
+         <key>CSS</key>
+         <value>small</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>small</value>
-      <webElementGuid>6405645b-276f-46f5-89d1-54dad5089c85</webElementGuid>
+      <webElementGuid>5c1d3309-bdcc-4738-a21c-389165f88fe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Fija la dirección en el mapa</value>
-      <webElementGuid>29b3df0a-1cba-43d5-a53e-f480855b7e57</webElementGuid>
+      <webElementGuid>a102cf05-05bf-43fe-9b96-b5f8e6004755</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__BVID__470111___BV___&quot;)/div[1]/div[@class=&quot;list-group addressList mt-2&quot;]/button[@class=&quot;list-group-item list-group-item-action addressListDetailNotFound&quot;]/small[1]</value>
-      <webElementGuid>578f8714-4517-4bef-a115-fa3347874efa</webElementGuid>
+      <webElementGuid>edc13936-a90b-47ab-b82c-aeddf8319a6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/iframe_Cerrar_iframe_response (1)</value>
-      <webElementGuid>87f20fd6-a2c8-4b4a-b17f-d18f3645913a</webElementGuid>
+      <webElementGuid>3f7401b3-7b18-436c-a19e-031a65d25a19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__BVID__470111___BV___']/div/div/button[2]/small</value>
-      <webElementGuid>96089117-9f20-4bca-95d7-81ca6bd41454</webElementGuid>
+      <webElementGuid>a6e476d5-a5f2-46a5-aaca-839e67d2531d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mz, Lote o Referencia'])[1]/preceding::small[1]</value>
-      <webElementGuid>e3242c21-1ec7-415d-884a-065d09cde198</webElementGuid>
+      <webElementGuid>f3d9e978-aaaa-4f03-b850-fede58b8bf9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Fija la dirección en el mapa']/parent::*</value>
-      <webElementGuid>1df86e58-aa26-4523-b5f0-dbdcebee28e3</webElementGuid>
+      <webElementGuid>b5e09c27-0602-46c2-9165-316428cc0503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//small</value>
-      <webElementGuid>20a18a1f-c2c9-4187-863c-46c6d3119934</webElementGuid>
+      <webElementGuid>cc583698-11f6-4208-a82c-fcf23c73a90b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//small[(text() = 'Fija la dirección en el mapa' or . = 'Fija la dirección en el mapa')]</value>
-      <webElementGuid>8b113851-21ab-4178-938a-6981dc14b521</webElementGuid>
+      <webElementGuid>f3c5ae50-0314-4d8b-b013-7d8e5b4c08ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

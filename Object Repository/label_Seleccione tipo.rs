@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Seleccione tipo</name>
+   <tag></tag>
+   <elementGuidId>d6139e87-af12-40b5-80ec-38cabfcd5881</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='frmListGuiasTrans:cbotipoguia_label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a636917b-0903-4459-9ea9-f17dd81d01ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmListGuiasTrans:cbotipoguia_label</value>
+      <webElementGuid>2a975e56-09bf-42c4-b030-6006a3b460e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectonemenu-label ui-inputfield ui-corner-all</value>
+      <webElementGuid>c68e9d90-a4b8-4739-92dc-512262144c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Seleccione tipo]</value>
+      <webElementGuid>0a874997-7b27-4b94-a7aa-2052c5a5b1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmListGuiasTrans:cbotipoguia_label&quot;)</value>
+      <webElementGuid>759330f2-f207-461b-81d0-ce5d8c9a0e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Georreferenciacin Manual_iframePrincipal</value>
+      <webElementGuid>04b75ade-d9fd-4465-9a56-7be314987878</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='frmListGuiasTrans:cbotipoguia_label']</value>
+      <webElementGuid>32362116-8a2f-41cb-acef-2a35c09ee6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmListGuiasTrans:cbotipoguia']/label</value>
+      <webElementGuid>05f0f0ba-934f-4617-9dcc-8841fa47d160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo:'])[1]/following::label[1]</value>
+      <webElementGuid>11458dc3-bb65-4ed5-aa95-3c1a14cc7eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasta:'])[1]/following::label[2]</value>
+      <webElementGuid>cd069c4c-6152-4856-a575-0d7488bef8a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emisión:'])[1]/preceding::label[1]</value>
+      <webElementGuid>5fa731a2-4cec-4465-9015-c87da0a7f50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número:'])[1]/preceding::label[2]</value>
+      <webElementGuid>c09f8155-f4ca-49c9-a40b-814d2faced1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/label</value>
+      <webElementGuid>44fc7a74-0287-4a9d-a8e5-62a4d612d98e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'frmListGuiasTrans:cbotipoguia_label' and (text() = '[Seleccione tipo]' or . = '[Seleccione tipo]')]</value>
+      <webElementGuid>fc1342a3-5e6e-4f5d-98b6-4f793fa3d4c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Reporte_iframePrincipal (1)</name>
+   <tag></tag>
+   <elementGuidId>27c09c12-a653-4fce-8cca-5c3dbfeddb66</elementGuidId>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>111458c8-b135-4d44-a3ca-52b162a64e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iframePrincipal</value>
+      <webElementGuid>867f687e-91ba-4913-aa03-b0dbe06eb9f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget ui-widget-content ui-corner-all iframeLayoutCenter</value>
+      <webElementGuid>67c61e60-5559-4f8b-8b76-37bc209a1f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/OlvaERP-Maestro-web/atencionCliente\ventas.xhtml?nodeTree=Anular / Modificar&amp;codeTree=070102&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY3OTExMzM1NCwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiZDY1OThmY2UtNDViMS00YTVjLWEyM2UtNTkwMTQ3YTY1YjkzIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.cQktVLC6IKB2Q8G9jBB6TWkU1pfJ13HQvm-l-dapZcw</value>
+      <webElementGuid>73026755-273c-4600-8b2a-d9db82556a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iframePrincipal&quot;)</value>
+      <webElementGuid>249b4a45-9b43-4f53-9561-a2b87dc07ee2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@id='iframePrincipal']</value>
+      <webElementGuid>ea538ecd-2874-4c84-a18d-48f67f7a84b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:centerContentPanel']/iframe</value>
+      <webElementGuid>015ff188-6c6a-4bc5-b369-e82d086af2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>c1357bbb-abe0-481f-b7e7-1696d77f4468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@id = 'iframePrincipal' and @src = '/OlvaERP-Maestro-web/atencionCliente\ventas.xhtml?nodeTree=Anular / Modificar&amp;codeTree=070102&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY3OTExMzM1NCwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiZDY1OThmY2UtNDViMS00YTVjLWEyM2UtNTkwMTQ3YTY1YjkzIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.cQktVLC6IKB2Q8G9jBB6TWkU1pfJ13HQvm-l-dapZcw']</value>
+      <webElementGuid>d2988f6b-69c8-4957-a158-5e42bef8cd4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

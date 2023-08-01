@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos 
 WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_telefono_cliente'), 
     '900000001')
 
-WebUI.click(findTestObject('button_LIMA'))
+WebUI.click(findTestObject('Object Repository/button_LIMA'))
 
 WebUI.scrollToPosition(0, 200)
 
@@ -117,10 +117,6 @@ WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Pe
 WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/span_ICA CA GUATEMALA URB SAN FRAN'))
 
 WebUI.click(findTestObject('Olva Corp/Page_Olva Courier  Confirma tus datos/button_ACEPTAR_CA'))
-
-WebUI.click(findTestObject('Object Repository/Registro de Envio/Page_Olva Courier  Medios de pago/button_PAGAR'))
-
-WebUI.click(findTestObject('Olva Corp/Page_Olva Courier  Medios de pago/i_Pago con tarjeta de crdito, dbito y yape'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Registro de Envio/Page_Olva Courier  Medios de pago/button_PAGAR'))
 

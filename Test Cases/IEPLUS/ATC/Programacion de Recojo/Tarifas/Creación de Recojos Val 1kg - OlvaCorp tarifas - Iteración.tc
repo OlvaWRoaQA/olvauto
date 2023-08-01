@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creación de Recojos Val 1kg - OlvaCorp tarifas - Iteración</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ba3276e-0a6d-47a9-909e-23f96f357a19</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ade7741-bffb-4cb6-9187-a6d75e32bf8c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a981f991-29bb-4e50-a4dc-b84ea20c0341</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'destino1'</defaultValue>
+      <description></description>
+      <id>7ade7741-bffb-4cb6-9187-a6d75e32bf8c</id>
+      <masked>false</masked>
+      <name>destino</name>
+   </variable>
+   <variable>
+      <defaultValue>'total1'</defaultValue>
+      <description></description>
+      <id>a981f991-29bb-4e50-a4dc-b84ea20c0341</id>
+      <masked>false</masked>
+      <name>total</name>
+   </variable>
+</TestCaseEntity>

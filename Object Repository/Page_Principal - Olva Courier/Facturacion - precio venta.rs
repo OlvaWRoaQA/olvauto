@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Facturacion - precio venta</name>
+   <tag></tag>
+   <elementGuidId>4976fee1-72b1-40ae-8667-6210a906b93e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='frmConsultaEnvio:panelEnvio:j_idt385']/div/table/tbody/tr[2]/td[12]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>32bad397-dcb0-4899-ab19-5b4ea6c2ef19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>7,30</value>
+      <webElementGuid>2aa425bc-fd2d-4cb4-9f48-1d1207ebc810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmConsultaEnvio:panelEnvio:j_idt385&quot;)/div[@class=&quot;ui-fieldset-content&quot;]/table[1]/tbody[1]/tr[2]/td[12]/span[1]</value>
+      <webElementGuid>d940c8f7-5863-4064-85e0-307176b8bb23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Comprar Empaques/Page_Principal - Olva Courier/iframe_Consulta Envio_iframeConsultaEnvio</value>
+      <webElementGuid>7ec6d589-a6a6-4dc3-b822-49bdf3d39942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Principal - Olva Courier/iframe_Consulta Envio_iframeConsultaEnvio</value>
+      <webElementGuid>22bf93c4-7f7e-4a23-8cb3-b25dc1e9b021</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='frmConsultaEnvio:panelEnvio:j_idt385']/div/table/tbody/tr[2]/td[12]/span</value>
+      <webElementGuid>4034c8a6-4bae-4283-9c4c-8904c8072055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/.'])[8]/following::span[1]</value>
+      <webElementGuid>452eaf88-9be7-459a-88ee-80a33c48d245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRECIO VENTA:'])[1]/following::span[2]</value>
+      <webElementGuid>d36a3904-8b70-449a-9974-f4e156b51439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asignaciones'])[1]/preceding::span[1]</value>
+      <webElementGuid>7daec3b5-eb8c-4f8b-9420-25a9c64df872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sede'])[1]/preceding::span[1]</value>
+      <webElementGuid>74db7b1c-6cf3-4a28-9998-bd37a661060f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='7,30']/parent::*</value>
+      <webElementGuid>553b3d06-a199-4941-beea-8063e29e1252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[12]/span</value>
+      <webElementGuid>4a3f6e73-f630-406c-8bdd-fa14fcc2e16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '7,30' or . = '7,30')]</value>
+      <webElementGuid>92746da7-c8a4-49fa-b2fc-15f8bb0449e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

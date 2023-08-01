@@ -29,9 +29,9 @@ nro_pedido1 = WebUI.getText(findTestObject('Inicio/Page_Olva Courier  Datos Pers
 
 WebUI.delay(5)
 
-WebUI.openBrowser('http://registro.olvacourier.com:8080/OlvaERP-web/login.xhtml')
+WebUI.openBrowser('https://dev-registrodeenvios.olvacourier.com:8080/OlvaERP-web/login.xhtml')
 
-WebUI.navigateToUrl('http://registro.olvacourier.com:8080/OlvaERP-web/login.xhtml')
+WebUI.navigateToUrl('https://dev-registrodeenvios.olvacourier.com:8080/OlvaERP-web/login.xhtml')
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
@@ -61,7 +61,7 @@ WebUI.click(findTestObject('Object Repository/Olva Corp/Distribucion/Page_Princi
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/a_Cerrar sesin'))
 
-WebUI.navigateToUrl('http://registro.olvacourier.com:8080/OlvaERP-web/login.xhtml')
+WebUI.navigateToUrl('https://dev-registrodeenvios.olvacourier.com:8080/OlvaERP-web/login.xhtml')
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Abril (1)</name>
+   <tag></tag>
+   <elementGuidId>9b4e2b6f-5d03-49c4-8a73-e72bf5045ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select-options-6c9fecfb-99c3-6fef-507b-3ee2b3113eba3 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select-options-6c9fecfb-99c3-6fef-507b-3ee2b3113eba3']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab1a5f9e-2c98-485e-bbeb-639fbcd500af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Abril</value>
+      <webElementGuid>65169567-a5e2-4529-9ba2-35840801ac16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-options-6c9fecfb-99c3-6fef-507b-3ee2b3113eba3&quot;)/span[1]</value>
+      <webElementGuid>a04df805-2ce0-420d-a897-95dfa50aef03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='select-options-6c9fecfb-99c3-6fef-507b-3ee2b3113eba3']/span</value>
+      <webElementGuid>d0ec1959-e36f-4fcc-a971-434b796f80a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marzo'])[2]/following::span[1]</value>
+      <webElementGuid>b38d46f3-bfd0-4196-a3ec-a679ad368ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Febrero'])[2]/following::span[2]</value>
+      <webElementGuid>f5d902aa-ebec-4c19-bddb-394e8abe8ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayo'])[2]/preceding::span[1]</value>
+      <webElementGuid>7e8172b6-fcfa-46ec-8ac9-b65b49c88a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Junio'])[2]/preceding::span[2]</value>
+      <webElementGuid>dd1de34a-be97-457e-94d7-b849ed7d6226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[4]/span</value>
+      <webElementGuid>861d0dcd-cee4-4ea2-9f63-e2f5db8aa30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Abril' or . = 'Abril')]</value>
+      <webElementGuid>85e4983b-2f5e-42a0-a6fb-488415b0145a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

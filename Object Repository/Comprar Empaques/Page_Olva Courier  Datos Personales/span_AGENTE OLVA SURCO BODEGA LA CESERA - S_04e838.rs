@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AGENTE OLVA SURCO BODEGA LA CESERA - S_04e838</name>
+   <tag></tag>
+   <elementGuidId>cc615862-347e-4316-9d04-caac136f6531</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso1']/div[4]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>90821a1f-fd42-4d3f-9941-34fde154140e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1d00863b-be74-43bf-ab79-5f8ec48d7c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AGENTE OLVA SURCO &quot;BODEGA LA CESERA&quot; - SANTIAGO DE SURCO - AV AVIACION NRO 5111 (BODEGA LA CESERA)</value>
+      <webElementGuid>ad50b4fa-c001-4391-b595-adad1152cf9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_tienda_caja&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-12 col-xs-12 cls_element_item espacio_vista_xs_2 m-code&quot;]/div[@class=&quot;col-md-8 col-sm-12 col-xs-12&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt dropup open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[2]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>1df686f8-561a-4a8a-a7dd-98b9597da97c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[4]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>4f961bc8-612b-44a0-a7a4-310305a687c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/following::span[2]</value>
+      <webElementGuid>b543bb7a-1a0c-4a25-a14a-aa50749f33fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/following::span[4]</value>
+      <webElementGuid>be877e4c-a8f7-40d5-8940-a9ae3bf0528d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OLVA SURCO - AV. EL POLO 108 - SANTIAGO DE SURCO - AV EL POLO NRO 108'])[2]/preceding::span[2]</value>
+      <webElementGuid>23956dfa-aaf9-486a-a508-05d24c06db05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/preceding::span[4]</value>
+      <webElementGuid>28eabff9-9eff-44b6-8cf1-589a1ed16259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>b6ef5b47-babc-42d9-908e-4d1079ffcafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'AGENTE OLVA SURCO &quot;BODEGA LA CESERA&quot; - SANTIAGO DE SURCO - AV AVIACION NRO 5111 (BODEGA LA CESERA)' or . = 'AGENTE OLVA SURCO &quot;BODEGA LA CESERA&quot; - SANTIAGO DE SURCO - AV AVIACION NRO 5111 (BODEGA LA CESERA)')]</value>
+      <webElementGuid>47705b30-955a-4a32-be6b-eec6e9d3a2c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

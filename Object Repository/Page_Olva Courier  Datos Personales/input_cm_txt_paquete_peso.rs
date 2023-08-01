@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b66d2bc2-dc6e-49cd-ae1f-e9cc0513f649</webElementGuid>
+      <webElementGuid>6f36c274-7f25-4d66-979c-1c02828d0bdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b6803946-70e4-493f-a4df-4fab810bd8b2</webElementGuid>
+      <webElementGuid>b8998ed5-b764-40b3-b4f8-37fa7ef62468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d2c37d70-7bf4-4578-abda-03201516a580</webElementGuid>
+      <webElementGuid>261b441d-4e69-4027-859c-e790213544a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>txt_paquete_peso</value>
-      <webElementGuid>30c0cd67-a1de-4e90-83b1-dad94d98d4f9</webElementGuid>
+      <webElementGuid>25739420-5d7f-410d-aa55-6aba5b267981</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Peso</value>
-      <webElementGuid>6c104919-5f57-461a-959f-48bad1d131af</webElementGuid>
+      <webElementGuid>cb448bf9-c681-41b7-8416-f2f16eb22690</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_paquete_peso</value>
-      <webElementGuid>98f4177d-1ccf-479f-8eea-f5b14e72e113</webElementGuid>
+      <webElementGuid>6c3ed641-8e49-447d-81f1-a9c5c5f16115</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f1-first-name input-name place-color</value>
-      <webElementGuid>974209f5-65be-4be2-aa94-e4b833c4b8f0</webElementGuid>
+      <webElementGuid>fc83021a-69a3-4b8f-a760-63284de77772</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>title</name>
       <type>Main</type>
       <value>.</value>
-      <webElementGuid>c12fbde8-25c3-49ed-a0cc-0d65a1b0e54d</webElementGuid>
+      <webElementGuid>d2f9ac8e-6cda-4b88-9f21-c02ef73e269c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_paquete_peso&quot;)</value>
-      <webElementGuid>a9cf1a02-641a-4ab8-8529-9aa42e9a4750</webElementGuid>
+      <webElementGuid>9fb2d8d8-42bc-457f-9f2c-b935bb2df881</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_paquete_peso']</value>
-      <webElementGuid>2b6406d0-e906-4116-b311-dab9645e542c</webElementGuid>
+      <webElementGuid>17d16d03-ca88-4a9a-a6ab-5338deb4eeff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div_paquete_peso']/div/input</value>
-      <webElementGuid>71282d94-4658-4baa-9eb4-1311ce17f5db</webElementGuid>
+      <webElementGuid>5731ce72-9342-4f36-8e1d-ba58f224bbd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/input</value>
+      <webElementGuid>8b79cbf9-cc03-4696-af86-b7671b415afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'txt_paquete_peso' and @placeholder = 'Peso' and @id = 'txt_paquete_peso' and @title = '.']</value>
+      <webElementGuid>9f2e2a4d-5a77-4d27-b7db-e7411917b05e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,13 +127,5 @@
       <type>Main</type>
       <value>//div[3]/div[5]/div/div/input</value>
       <webElementGuid>bb13e5e0-e9c2-4a90-87ff-1bd672b93a4d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'txt_paquete_peso' and @placeholder = 'Peso' and @id = 'txt_paquete_peso' and @title = '.']</value>
-      <webElementGuid>55c42c62-f265-4786-b27d-0f11f62da0a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

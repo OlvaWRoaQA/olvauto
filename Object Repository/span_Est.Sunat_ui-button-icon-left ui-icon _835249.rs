@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Est.Sunat_ui-button-icon-left ui-icon _835249</name>
+   <tag></tag>
+   <elementGuidId>fa903581-2be9-4b8a-83f7-cdd0bbd09e2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-icon.ui-c.ui-icon-print</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmListGuiasTrans:guiasTable:0:reImprimir']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55f0dee6-0720-4e7b-846f-2c411d695de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-print</value>
+      <webElementGuid>c1844d9b-23d8-46d9-932f-f7d7452ad730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmListGuiasTrans:guiasTable:0:reImprimir&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-print&quot;]</value>
+      <webElementGuid>a9180ea6-afac-45b5-8664-4d55a543a059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Georreferenciacin Manual_iframePrincipal</value>
+      <webElementGuid>6f850787-4596-45f7-8928-b86e54ebeefa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmListGuiasTrans:guiasTable:0:reImprimir']/span</value>
+      <webElementGuid>6987e89c-cef4-47ff-ac28-42fafcb3c515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/button/span</value>
+      <webElementGuid>9b60e6c7-8c66-458c-a483-6f049027a392</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

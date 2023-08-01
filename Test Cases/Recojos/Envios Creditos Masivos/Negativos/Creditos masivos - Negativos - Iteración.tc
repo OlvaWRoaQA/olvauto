@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creditos masivos - Negativos - Iteración</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>458dae7d-75ae-4015-9f37-05febb463ca3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a2034af-a95f-4a30-a917-86240306c429</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'RutaExcel01'</defaultValue>
+      <description></description>
+      <id>2a2034af-a95f-4a30-a917-86240306c429</id>
+      <masked>false</masked>
+      <name>RutaExcel</name>
+   </variable>
+</TestCaseEntity>

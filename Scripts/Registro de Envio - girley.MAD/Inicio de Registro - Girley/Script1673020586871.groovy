@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://registro.olvacourier.com/registrar_envios_geo_beta/')
+WebUI.openBrowser('https://dev-registrodeenvios.olvacourier.com/registrar_envios/')
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Confirma tus datos/button_Cerrar'))
+WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Confirma tus datos/button_Cerrar'))
 

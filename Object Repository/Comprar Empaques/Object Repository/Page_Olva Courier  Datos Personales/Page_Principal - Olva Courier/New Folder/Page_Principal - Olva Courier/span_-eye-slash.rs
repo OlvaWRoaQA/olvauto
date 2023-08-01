@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-eye-slash</name>
+   <tag></tag>
+   <elementGuidId>c00ff392-a7e1-4146-aea3-06bd78c90f34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmComprobante:tblComprobante:37:btnBuscar']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2df4f36-54b2-4e91-b966-7338fe29fe91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c fa fa-eye-slash</value>
+      <webElementGuid>e64bb99e-4453-4fdb-b653-a0fc09bd6a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmComprobante:tblComprobante:37:btnBuscar&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c fa fa-eye-slash&quot;]</value>
+      <webElementGuid>4d8aa27c-45c5-4fc3-b0d7-9cad2138f684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Comprar Empaques/Object Repository/Page_Olva Courier  Datos Personales/Page_Principal - Olva Courier/New Folder/Page_Principal - Olva Courier/ifram</value>
+      <webElementGuid>fd033f65-3e3b-455f-9bfb-d3bff5c47910</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmComprobante:tblComprobante:37:btnBuscar']/span</value>
+      <webElementGuid>68b190b2-b075-4908-b0ce-9b7176d23c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[38]/td[15]/button/span</value>
+      <webElementGuid>de3728df-33e9-4af2-88fd-2070fca5b41a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

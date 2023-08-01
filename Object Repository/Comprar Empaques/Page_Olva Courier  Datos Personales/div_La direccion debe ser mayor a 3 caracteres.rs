@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_La direccion debe ser mayor a 3 caracteres</name>
+   <tag></tag>
+   <elementGuidId>a49c7f7b-379d-427b-9078-209703d64099</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_direccion_entrega_msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txt_direccion_entrega_msg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c55b7509-af21-4f29-837a-e120ea06e493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_direccion_entrega_msg</value>
+      <webElementGuid>810b75ef-a24f-4817-8a44-9cd24228e610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>24561387-ff21-4433-8286-d0a8b5d323ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>La direccion debe ser mayor a 3 caracteres</value>
+      <webElementGuid>ea178b91-0f12-44fd-9235-540a671b9d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_direccion_entrega_msg&quot;)</value>
+      <webElementGuid>e99c7c21-24c8-4441-b352-382fdbc947ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='txt_direccion_entrega_msg']</value>
+      <webElementGuid>9b0185d9-7882-48d3-9afe-21d6ff798582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[3]/div/div[2]/div</value>
+      <webElementGuid>6d6ceb17-530e-42f5-89ec-7415cf199c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe seleccionar un distrito destino para continuar'])[1]/following::div[6]</value>
+      <webElementGuid>4398278f-e248-46b1-ae2a-dec8934c8824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UCAYALI - PURUS - PURUS'])[4]/following::div[7]</value>
+      <webElementGuid>631e6ef9-a68c-4257-b1fd-ab704de942b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='La referencia debe ser mayor a 3 caracteres'])[1]/preceding::div[3]</value>
+      <webElementGuid>30097018-3ff8-4b25-950b-bb87b6d79283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/preceding::div[8]</value>
+      <webElementGuid>d387460a-1d98-4e7d-8c7a-9c1bf5368050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='La direccion debe ser mayor a 3 caracteres']/parent::*</value>
+      <webElementGuid>8245005c-ae09-4a33-bb11-7dc19cc70669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>b3fd825a-93c4-48da-bfba-f3e976dc7f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_direccion_entrega_msg' and (text() = 'La direccion debe ser mayor a 3 caracteres' or . = 'La direccion debe ser mayor a 3 caracteres')]</value>
+      <webElementGuid>d8391464-7cae-43e4-b524-48fee2853185</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

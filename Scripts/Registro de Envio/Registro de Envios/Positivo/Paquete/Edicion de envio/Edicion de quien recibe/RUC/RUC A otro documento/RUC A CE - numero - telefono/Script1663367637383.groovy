@@ -36,7 +36,12 @@ WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Persona
     '900000001')
 
 //WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_Hola,_txt_email_cliente'), 'email1@correo.com')
-WebUI.click(findTestObject('button_LIMA'))
+WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/span_Departamento - Provincia - Distrito'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_Departamento - Provincia - Distrito_f_f56910'), 
+    'callao - callao - callao')
+
+WebUI.click(findTestObject('Object Repository/Registro de Envio/Page_Olva Courier  Datos Personales/a_CALLAO - CALLAO - CALLAO'))
 
 WebUI.scrollToPosition(0, 200)
 
@@ -84,7 +89,7 @@ WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Datos Personale
 
 WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_RUC (2)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_documento_receptor'), '20000000002')
+WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_documento_receptor'), '2000000002')
 
 WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_telefono_receptor'), '900000002')
 

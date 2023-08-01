@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Guia de Despacho (1)</name>
+   <tag></tag>
+   <elementGuidId>a3ed7cdc-3a81-4586-8d4d-68f6b78e88e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='frmPrincipal:tree:0_6:lblNode']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4ffe8cd-a621-4d14-9eef-cf99d3521db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmPrincipal:tree:0_6:lblNode</value>
+      <webElementGuid>46c43973-75b7-4fe7-b693-9dcc01263efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Guia de Despacho</value>
+      <webElementGuid>6c413dce-5ac7-4dbe-90e9-94dc5d017996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guia de Despacho</value>
+      <webElementGuid>52d414ba-ce58-44c3-a27f-834617cd5e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:tree:0_6:lblNode&quot;)</value>
+      <webElementGuid>6f0651fa-30a6-42fc-ac5d-4e09aadc2251</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:tree:0_6:lblNode']</value>
+      <webElementGuid>ce8ccd4e-581d-4135-836b-61d2998cb55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='frmPrincipal:tree:0_6']/span/span[3]/span</value>
+      <webElementGuid>35ce96ce-55d5-4cf0-a10e-cdfeffa0527d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importar Imagen O/S'])[1]/following::span[5]</value>
+      <webElementGuid>dee5c3dd-26da-4521-839b-d268709ce1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orden Servicio'])[2]/following::span[10]</value>
+      <webElementGuid>54f4299a-21e4-4515-9d01-bad4e6385039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guia Transportista'])[1]/preceding::span[3]</value>
+      <webElementGuid>3b096706-f54b-46f2-9933-7afaf12ba845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consulta Envio'])[1]/preceding::span[8]</value>
+      <webElementGuid>a0e58b59-8d91-4b57-83e9-75ca42594ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guia de Despacho']/parent::*</value>
+      <webElementGuid>59fe2425-5bb2-4ff7-be30-2962884bb6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/span/span[3]/span</value>
+      <webElementGuid>d3ce7fee-a145-44c9-b4aa-d18d7565e556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'frmPrincipal:tree:0_6:lblNode' and @title = 'Guia de Despacho' and (text() = 'Guia de Despacho' or . = 'Guia de Despacho')]</value>
+      <webElementGuid>6b117455-a825-4c6d-bd35-6174277db547</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Domicilio - tarifas Venta- 2kg - iteracion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01edb7d6-8631-4a4f-8109-3eaecce091b7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76e25968-1d5e-4579-b1c1-83225e6f570a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>72205a93-a49b-4ef8-9336-bd9b731285a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ubigeo01'</defaultValue>
+      <description></description>
+      <id>76e25968-1d5e-4579-b1c1-83225e6f570a</id>
+      <masked>false</masked>
+      <name>ubigeo</name>
+   </variable>
+   <variable>
+      <defaultValue>'tarifa2k'</defaultValue>
+      <description></description>
+      <id>72205a93-a49b-4ef8-9336-bd9b731285a1</id>
+      <masked>false</masked>
+      <name>tarifa2k</name>
+   </variable>
+</TestCaseEntity>

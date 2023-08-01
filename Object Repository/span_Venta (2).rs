@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Venta (2)</name>
+   <tag></tag>
+   <elementGuidId>d4ee466e-4428-443f-b32b-946dd6442a83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-treenode-label.ui-corner-all.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='frmPrincipal:tree:0_0_2']/span/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>77d49ac3-dd75-4a98-abc8-bbfd0b962097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-treenode-label ui-corner-all ui-state-hover</value>
+      <webElementGuid>2446305d-0792-473f-8f02-b0ad17ca3969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>11a2dd90-3f2e-4ba2-b6bd-840d74f82daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>77b4a976-1877-4e8c-a30f-2c095c47d7e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Venta</value>
+      <webElementGuid>63c02181-3e6c-43d8-b892-f0d649d0bb57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:tree:0_0_2&quot;)/span[@class=&quot;ui-treenode-content ui-tree-selectable&quot;]/span[@class=&quot;ui-treenode-label ui-corner-all ui-state-hover&quot;]</value>
+      <webElementGuid>54723a67-1a9a-4ef9-bed8-df102b68f5b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='frmPrincipal:tree:0_0_2']/span/span[3]</value>
+      <webElementGuid>b7518137-361e-422c-863b-780ec6c3ef71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporte'])[1]/following::span[4]</value>
+      <webElementGuid>eb46200b-a5b2-45fe-8ab6-0617f9192686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anular / Modificar'])[1]/following::span[9]</value>
+      <webElementGuid>c70966fb-f14d-45e7-b88f-7cd52ef6eb24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nota Credito / Debito'])[1]/preceding::span[4]</value>
+      <webElementGuid>fcd20124-345c-4fa8-ba9c-6e6e5d76a493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/ul/li[3]/span/span[3]</value>
+      <webElementGuid>e9d5a671-9436-4c68-90d6-b38a226853f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Venta' or . = 'Venta')]</value>
+      <webElementGuid>f73044cc-0569-459b-94a1-0926d67c2ffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

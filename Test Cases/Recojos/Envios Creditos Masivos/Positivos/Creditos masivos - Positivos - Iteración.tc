@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creditos masivos - Positivos - Iteración</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>139688c5-66e6-459a-afa0-84f0fc6c4d70</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0552ac66-47d4-419f-a927-859ba3a259e0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'PositivosExcel01'</defaultValue>
+      <description></description>
+      <id>0552ac66-47d4-419f-a927-859ba3a259e0</id>
+      <masked>false</masked>
+      <name>PositivosExcel</name>
+   </variable>
+</TestCaseEntity>

@@ -6,11 +6,11 @@
    <elementGuidId>0456774b-d891-42d2-a20c-51b409baa413</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//a[@tabindex='0'][contains(.,'ACCESORIOS Y EQUIPOS ELECTRONICOS')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//span[contains(.,'ACCESORIOS Y EQUIPOS  ELECTRONICOS')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1b5f45ca-2947-4ad1-900f-dea4737930ce</webElementGuid>
+      <webElementGuid>03d7c4a6-3f86-4cce-a31c-9648d4f12bad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8bfde9dd-9b4f-439d-bc8e-f4229b02bdb9</webElementGuid>
+      <webElementGuid>70f77cf0-5eb1-40fd-932a-e8e7447214f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>UTILES DE OFICINA</value>
-      <webElementGuid>75b8c506-514d-467d-a4f0-4a4ee6cb0f7c</webElementGuid>
+      <webElementGuid>e4d84081-fcc5-48ac-8734-83f5f0c10695</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;div_articulo&quot;)/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt dropup open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[21]/a[1]/span[@class=&quot;text&quot;]</value>
-      <webElementGuid>5ee90a76-37e6-483d-b436-2510d5ec36c4</webElementGuid>
+      <webElementGuid>3223e0de-6b83-4baf-9135-91d7242265dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div_articulo']/div/div/ul/li[21]/a/span</value>
-      <webElementGuid>b426c76f-bead-4cb3-9e42-64fa3e1719e7</webElementGuid>
+      <webElementGuid>f95da138-8a30-4200-a55b-4c6dcb683316</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='UTILES DE ESCRITORIO'])[3]/following::span[2]</value>
-      <webElementGuid>f9c57e13-90ef-4d1f-9824-f6bd9063df23</webElementGuid>
+      <webElementGuid>d4470c45-79db-482a-8cbb-71c53b1b94de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VALIJA-DOCUMENTOS'])[2]/following::span[4]</value>
-      <webElementGuid>6a22fef9-a52c-4c08-b383-4a5f4c18fa40</webElementGuid>
+      <webElementGuid>f805f84c-9da6-4069-95fa-69cba154f792</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[1]/preceding::span[2]</value>
-      <webElementGuid>5a74a523-8096-4c6e-8d39-bc0068f32a0d</webElementGuid>
+      <webElementGuid>4f072ad4-7cf6-4a6b-b22a-a234956ae34a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[2]/preceding::span[3]</value>
-      <webElementGuid>e051b6f1-4976-4f6c-9ea9-9fc075abbd8d</webElementGuid>
+      <webElementGuid>50bf43d8-aa30-4551-9a47-9f1e3e46ad74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div[2]/div/div/ul/li[21]/a/span</value>
-      <webElementGuid>8cf19d21-86c9-4d40-94d6-d43f6f003f88</webElementGuid>
+      <webElementGuid>2aa44212-327e-4ef9-b17b-332537060474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'UTILES DE OFICINA' or . = 'UTILES DE OFICINA')]</value>
-      <webElementGuid>457d0667-c5e3-4700-a100-4bb09206621d</webElementGuid>
+      <webElementGuid>f7dd56d7-b735-4396-a7ab-0df343fdf252</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

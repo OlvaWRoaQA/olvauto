@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CARN EXT_col-md-4 cls_element_item</name>
+   <tag></tag>
+   <elementGuidId>cd23f0f8-7cc7-4c63-a01d-5409b40dbc33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='quien_envia']/div[2]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4.cls_element_item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc8312ca-008d-4900-9daa-89bc9efafc3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4 cls_element_item</value>
+      <webElementGuid>a41de21e-d131-465d-a614-234e746a598a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quien_envia&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 cls_element_item&quot;]</value>
+      <webElementGuid>09710e45-cff5-497e-8adf-aeb418d7d261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quien_envia']/div[2]/div[4]</value>
+      <webElementGuid>320de8d4-fb66-4bb9-ad43-8fd93f758eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARNÉ EXT.'])[2]/following::div[2]</value>
+      <webElementGuid>7dcc0e1c-98c3-4b55-8cbe-2d2b54b4e90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RUC'])[2]/following::div[2]</value>
+      <webElementGuid>9c7fcdda-605b-4df3-8814-8c6e164eacdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola,'])[1]/preceding::div[4]</value>
+      <webElementGuid>8b592eab-eb79-4090-9e2d-deb396a4ad71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Dónde te encuentras?'])[1]/preceding::div[10]</value>
+      <webElementGuid>9d095869-249e-48c0-8e2f-1f4f797b927d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[4]</value>
+      <webElementGuid>d824ec41-4757-4e87-a3cd-6b11db2b2866</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

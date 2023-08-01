@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Enviar</name>
+   <tag></tag>
+   <elementGuidId>f2886f22-6bc1-4caf-bf38-378ec7bf4aa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formulario-tracking']/fieldset/div[4]/button/mark/span/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>3633f80a-8c0a-4cb9-b3c4-2883a3703fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enviar</value>
+      <webElementGuid>33b7122b-5f3e-4f02-b0f6-b36d90ca79b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formulario-tracking&quot;)/fieldset[@class=&quot;row row-cols-1&quot;]/div[@class=&quot;col col-lg-15 col-xl-12&quot;]/button[@class=&quot;boton&quot;]/mark[@class=&quot;boton-efecto&quot;]/span[1]/strong[1]</value>
+      <webElementGuid>be08b8f3-567d-4930-a8f0-a11c678f4f9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formulario-tracking']/fieldset/div[4]/button/mark/span/strong</value>
+      <webElementGuid>b2195aa2-4680-495c-95c6-deff7837dc6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Año'])[2]/following::strong[1]</value>
+      <webElementGuid>5bcd0fe1-0fd2-4449-a42f-9c223fb4a309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Número de Tracking'])[1]/following::strong[1]</value>
+      <webElementGuid>5ce661f2-353e-4589-ac4c-3608c70d30bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N° de Orden de Servicio:'])[1]/preceding::strong[1]</value>
+      <webElementGuid>e29c1567-1282-4c4e-bfcd-e46ca5b7a213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese el N° de seguimiento:'])[1]/preceding::strong[2]</value>
+      <webElementGuid>d56b9410-6d5a-49e6-8c0a-2c079a83d56f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enviar']/parent::*</value>
+      <webElementGuid>1c03592f-3663-4c98-8337-aed1dc22b9ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/strong</value>
+      <webElementGuid>3aa9c288-9bcb-49a9-b503-e45949ea43dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Enviar' or . = 'Enviar')]</value>
+      <webElementGuid>b4410b13-16c1-4a84-b3b2-c5d393d48727</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Junio (1)</name>
+   <tag></tag>
+   <elementGuidId>cfd184c2-e8b2-4c4f-a982-89f7358cc1be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select-options-b9b54ca9-2709-67c8-b29b-47cd2c8c43ed5 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select-options-b9b54ca9-2709-67c8-b29b-47cd2c8c43ed5']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b4d4b83-b378-4282-9301-cccce5b9118c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Junio</value>
+      <webElementGuid>1f656480-47f9-474e-a3df-e01d5a477741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-options-b9b54ca9-2709-67c8-b29b-47cd2c8c43ed5&quot;)/span[1]</value>
+      <webElementGuid>a9284773-bdda-4dd7-8948-60c78cdc4bbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='select-options-b9b54ca9-2709-67c8-b29b-47cd2c8c43ed5']/span</value>
+      <webElementGuid>e31e842c-0eec-4602-a4fa-6f39a0a6f37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayo'])[4]/following::span[1]</value>
+      <webElementGuid>86936b42-e98e-4362-837f-8adc16170319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abril'])[4]/following::span[2]</value>
+      <webElementGuid>b8b41bf9-e9e4-454e-8609-3732eae089c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Julio'])[4]/preceding::span[1]</value>
+      <webElementGuid>85583aba-ac7f-4115-90c1-0938d72a5bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agosto'])[4]/preceding::span[2]</value>
+      <webElementGuid>19afd8fc-84d9-4e63-8dae-ac8e854f783e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li[6]/span</value>
+      <webElementGuid>bbb129aa-145a-456d-ad68-2797f5f6e114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Junio' or . = 'Junio')]</value>
+      <webElementGuid>4909e305-0bda-4fd7-b4d0-2a1f6c87e353</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

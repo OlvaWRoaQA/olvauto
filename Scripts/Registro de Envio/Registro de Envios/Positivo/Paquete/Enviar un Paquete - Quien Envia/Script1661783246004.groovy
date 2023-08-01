@@ -36,5 +36,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Olva Courier  Datos Persona
 WebUI.sendKeys(findTestObject('Object Repository/Page_Olva Courier  Datos Personales/input_El apellido ingresado debe ser igual _544e76'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('button_LIMA'))
+WebUI.click(findTestObject('Object Repository/button_LIMA'))
 

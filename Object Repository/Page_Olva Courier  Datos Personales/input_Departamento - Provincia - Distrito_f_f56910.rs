@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.btn-group.bootstrap-select.form-control.dropup.open > div.dropdown-menu.open > div.bs-searchbox > input.form-control</value>
+         <value>div.btn-group.bootstrap-select.form-control.open > div.dropdown-menu.open > div.bs-searchbox > input.form-control</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[6]</value>
+         <value>(//input[@type='text'])[17]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a0191c0f-d18e-4c7d-a05f-90424095037e</webElementGuid>
+      <webElementGuid>ffd646e9-a41d-4b9d-bda8-a06f8bc437fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d25d280a-29ed-4073-9806-00f1e80cf91a</webElementGuid>
+      <webElementGuid>02f509e8-f02b-472a-bedf-4025eb199268</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>318af85c-a6e7-42cb-bfb3-c090d7531993</webElementGuid>
+      <webElementGuid>a405f0cb-061f-48af-8ec4-61ddd63d6c22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,18 +46,50 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>2220fea8-8b2a-4de2-84a0-dae86adfac50</webElementGuid>
+      <webElementGuid>ace696d3-0eec-4b93-9cd9-e042cff99abc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content-select&quot;)/div[@class=&quot;btn-group bootstrap-select form-control dropup open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/div[@class=&quot;bs-searchbox&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>8182114e-e13f-400c-ba81-83bcebf445de</webElementGuid>
+      <value>id(&quot;content-ubigeo&quot;)/div[@class=&quot;btn-group bootstrap-select form-control open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/div[@class=&quot;bs-searchbox&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>daec03b6-82bd-4df1-9f0d-75d9a8e88737</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[17]</value>
+      <webElementGuid>70152f54-ca54-4ccd-b377-387945be50e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-ubigeo']/div/div/div/input</value>
+      <webElementGuid>20a59354-46d4-46e9-9d86-b7493334fde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/input</value>
+      <webElementGuid>94d7bf3f-6f9b-472c-b4f4-cf5b28b490e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>b89cc9d4-6a7d-49c2-8033-5cd3d72a1ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -79,13 +111,5 @@
       <type>Main</type>
       <value>//div[2]/div[2]/div[2]/div/div/div/input</value>
       <webElementGuid>d41d47f8-d3a0-4a38-b396-c1155cfb7ab2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text']</value>
-      <webElementGuid>d2f5f662-3a60-473b-b47f-fd3deef9dc03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

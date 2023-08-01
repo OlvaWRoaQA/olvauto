@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OLVA PLAZA TEC - AV. GARCILASO DE LA V_017a17</name>
+   <tag></tag>
+   <elementGuidId>9aa0d79a-22b7-4ba8-9226-624746f41d8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c17087ae-c353-47e8-a90d-d98289d468a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a329316f-2492-4517-9464-8c110699eb82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OLVA PLAZA TEC - AV. GARCILASO DE LA VEGA 1358 - LIMA - Avenida Garcilaso de la Vega 1358, Lima, Perú(PLAZA TEC)</value>
+      <webElementGuid>e5b09b75-d63e-4fa7-8379-3f32be157a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_tienda&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-12 col-xs-12 cls_element_item espacio_vista_xs_2 m-code&quot;]/div[@class=&quot;col-md-8 col-sm-12 col-xs-12&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[2]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>b8c75be5-5e5d-41eb-abd9-9174a778e2d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>ac01596c-76ad-4716-a4fa-b08a53a64d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/following::span[2]</value>
+      <webElementGuid>97593819-ce32-4fe0-a2bb-edcd35044020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/following::span[4]</value>
+      <webElementGuid>20705760-5eac-4a64-b688-4e25b82668f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OLVA CERCADO DE LIMA - PSJE ACUÑA 131 - LIMA - PJ SANTIAGO ACUÑA NRO 131'])[2]/preceding::span[4]</value>
+      <webElementGuid>f8ee16fa-03c7-4dbf-afe9-ee5c2e450668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>3e86cbc8-7d71-4a14-aaff-72d1954c090b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OLVA PLAZA TEC - AV. GARCILASO DE LA VEGA 1358 - LIMA - Avenida Garcilaso de la Vega 1358, Lima, Perú(PLAZA TEC)' or . = 'OLVA PLAZA TEC - AV. GARCILASO DE LA VEGA 1358 - LIMA - Avenida Garcilaso de la Vega 1358, Lima, Perú(PLAZA TEC)')]</value>
+      <webElementGuid>e094ba9c-373c-43e6-8f7d-90a251952038</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

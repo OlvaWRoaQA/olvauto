@@ -17,17 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://desa.olva.com.pe:8080/OlvaERP-web/')
-
-WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Olva Corp/Inicio de corp'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Olva Corp/Page_Login  Olva Courier/input_Acceder para continuar a Olva_frmLogi_1df1ac'), 
-    'garce')
+    'jsrios')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Olva Corp/Page_Login  Olva Courier/input_Acceder para continuar a Olva_frmLogi_dbfc6f'), 
-    'n6MrA7ftZ0I=')
+    'XbqNmg2rXss=')
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Login  Olva Courier/input_Acceder para continuar a Olva_frmLogi_81423f'))
 
@@ -49,15 +45,15 @@ WebUI.click(findTestObject('Object Repository/Olva Corp/Distribucion/Page_Princi
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/a_Cerrar sesin'))
 
-WebUI.navigateToUrl('http://desa.olva.com.pe:8080/OlvaERP-web/')
+WebUI.navigateToUrl('http://aws-wap.olvacourier.com:8080/OlvaERP-web/')
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Olva Corp/Page_Login  Olva Courier/input_Acceder para continuar a Olva_frmLogi_1df1ac'), 
-    'garce')
+    'jsrios')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Olva Corp/Page_Login  Olva Courier/input_Acceder para continuar a Olva_frmLogi_dbfc6f'), 
-    'n6MrA7ftZ0I=')
+    'XbqNmg2rXss=')
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Login  Olva Courier/input_Acceder para continuar a Olva_frmLogi_81423f'))
 

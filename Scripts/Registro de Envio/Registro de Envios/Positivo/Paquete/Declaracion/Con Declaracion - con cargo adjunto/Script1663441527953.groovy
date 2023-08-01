@@ -60,7 +60,7 @@ WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos 
 
 WebUI.scrollToPosition(0, 600)
 
-WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (13)'))
 

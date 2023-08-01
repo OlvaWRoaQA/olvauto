@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>0dc4dcb2-fab3-4157-8a11-385a10d71839</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#datepicker-title-lh > button.month-prev > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>24dce60e-5117-4970-84f9-a2ec6aa8834d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M15.41 16.09l-4.58-4.59 4.58-4.59L14 5.5l-6 6 6 6z</value>
+      <webElementGuid>aa5bd3f5-0652-404a-9b4c-c8e34b7352e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datepicker-title-lh&quot;)/button[@class=&quot;month-prev&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>c6136a46-4d06-48cf-9f74-f29320d50773</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Destino Tienda - Iteración</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f3c4497-d735-46d3-8360-36bdb329c74b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>52b9d8d2-c1f2-4ab9-86e9-0bb822a4a071</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b8193f3-46dc-44f7-ac0c-6c6c5e822514</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'DestinoTienda_1\r\n'</defaultValue>
+      <description></description>
+      <id>52b9d8d2-c1f2-4ab9-86e9-0bb822a4a071</id>
+      <masked>false</masked>
+      <name>DestinoTienda</name>
+   </variable>
+   <variable>
+      <defaultValue>'Monto_1'</defaultValue>
+      <description></description>
+      <id>9b8193f3-46dc-44f7-ac0c-6c6c5e822514</id>
+      <masked>false</masked>
+      <name>Monto</name>
+   </variable>
+</TestCaseEntity>

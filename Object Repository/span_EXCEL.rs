@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_EXCEL</name>
+   <tag></tag>
+   <elementGuidId>93c21939-f912-470e-83ac-b529b1340aa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='eecc_wrapper']/div[2]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.buttons-excel.buttons-html5.btn-small > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6454095e-d040-44ab-90e6-6df26eb6e9f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EXCEL </value>
+      <webElementGuid>41a89bd4-8e6f-43fe-9769-68d85e578413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eecc_wrapper&quot;)/div[@class=&quot;dt-buttons btn-group&quot;]/button[@class=&quot;btn btn-default buttons-excel buttons-html5 btn-small&quot;]/span[1]</value>
+      <webElementGuid>bc1c6557-a30a-4357-a77f-07ef1b3fdb76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eecc_wrapper']/div[2]/button[2]/span</value>
+      <webElementGuid>3776442f-76f4-47c9-a9e5-da114363f1c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV'])[1]/following::span[1]</value>
+      <webElementGuid>87410e57-ec6c-4a0f-80b6-dda406ebfe5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar:'])[1]/following::span[2]</value>
+      <webElementGuid>a03c81ac-6330-421d-9b6a-7af7ab2fcf13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/preceding::span[1]</value>
+      <webElementGuid>c88ea230-5f83-4074-89ff-d58f039ea75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columnas'])[1]/preceding::span[2]</value>
+      <webElementGuid>223d473a-0a46-468a-bd5a-1a3c92028874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EXCEL']/parent::*</value>
+      <webElementGuid>2a692ff1-1a41-45c2-97f1-786b322d7257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>ba53d898-7108-400e-b8b4-891991367c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'EXCEL ' or . = 'EXCEL ')]</value>
+      <webElementGuid>2965661a-0540-40fe-b1b3-136aafd4f987</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

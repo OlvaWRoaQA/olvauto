@@ -6,12 +6,12 @@
    <elementGuidId>de643cee-1a26-48ef-8965-3efe614c22e6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@class='filter-option pull-left'][contains(.,'Tipo De Documento')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#quien_recibe > div.row > div.col-md-3.cls_element_item.first_item > div.btn-group.bootstrap-select.form-control.msg_alert_tt > button.btn.dropdown-toggle.form-control.selectpicker.btn-default > span.filter-option.pull-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;quien_recibe&quot;]/div[2]/div[2]/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>98d2be10-5957-4ded-aa36-5967e052a1b3</webElementGuid>
+      <webElementGuid>f2d970da-c5b7-4178-b9ae-8763ccf107e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-option pull-left</value>
-      <webElementGuid>af034890-a310-456f-a37d-152dc6830f25</webElementGuid>
+      <webElementGuid>5b19db34-c1b9-4c77-a6e1-f3a3436436f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tipo De Documento</value>
-      <webElementGuid>ac690b2a-b0de-4e73-95ee-2bf0f2c1679c</webElementGuid>
+      <webElementGuid>5e0b4256-4ccc-4864-9501-562f9d14b034</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;quien_recibe&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 cls_element_item first_item&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
-      <webElementGuid>b1a4f3ec-c4b9-4ed9-9dc5-d28c39a604ed</webElementGuid>
+      <webElementGuid>b6d71c59-9bb7-49fe-ac99-9d4331cc481f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='quien_recibe']/div[2]/div[2]/div/button/span</value>
-      <webElementGuid>1c7549cc-a365-4d47-ac0f-ac70f0808778</webElementGuid>
+      <webElementGuid>6096d022-c7df-490f-b7f4-49d47efc8c84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Quién recibe?'])[1]/following::span[1]</value>
-      <webElementGuid>fde1e5a5-943b-4d62-99ed-7b12624b52b6</webElementGuid>
+      <webElementGuid>6a068dea-834f-4265-9580-fb03455a6a8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Si'])[2]/following::span[10]</value>
-      <webElementGuid>41f1b0a6-21d1-4e8e-ba08-930e50ab67c3</webElementGuid>
+      <webElementGuid>b19d0d37-dcf0-4382-8830-57164cc51631</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo De Documento'])[5]/preceding::span[2]</value>
-      <webElementGuid>1b0c0df2-86fe-4f83-ab35-2b6798bc10a6</webElementGuid>
+      <webElementGuid>1f5e7f10-c3eb-4a04-9789-4c53d1d71567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DNI'])[4]/preceding::span[4]</value>
-      <webElementGuid>91005ad7-d565-4437-b0b0-53341d776b55</webElementGuid>
+      <webElementGuid>20210485-239a-465a-a686-c213b3e3be72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div[2]/div[2]/div/button/span</value>
-      <webElementGuid>18389165-7cae-4901-97e3-bb06eed18c3f</webElementGuid>
+      <webElementGuid>faebebf4-b8ab-4652-862c-62bec3f675f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Tipo De Documento' or . = 'Tipo De Documento')]</value>
-      <webElementGuid>31450de0-1e6b-468a-a67f-43bdc4d5b45c</webElementGuid>
+      <webElementGuid>4698002a-4828-469f-92ba-714b915db02f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creación de Recojos SOBPQ - Iteración</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be009372-e7c5-450f-aa54-a37a6d38504e</testCaseGuid>
+   <variable>
+      <defaultValue>'destino1'</defaultValue>
+      <description></description>
+      <id>e2e8cbad-c3b9-406b-ade9-0a14e7b67c62</id>
+      <masked>false</masked>
+      <name>destino</name>
+   </variable>
+   <variable>
+      <defaultValue>'total1'</defaultValue>
+      <description></description>
+      <id>01ba8331-5254-4862-95b5-d0448584c237</id>
+      <masked>false</masked>
+      <name>total</name>
+   </variable>
+</TestCaseEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>45461129-ca42-4df5-bc53-a070243f28db</webElementGuid>
+      <webElementGuid>d1532827-d9f1-47ff-8096-c13e074caf09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c2f6069b-bdf8-49fd-ac8f-525548462dcf</webElementGuid>
+      <webElementGuid>27d7489f-d5e3-4130-9a23-dd27823468a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4aca4acb-dd05-45fa-987f-06ea847f34d2</webElementGuid>
+      <webElementGuid>9f582585-edd6-433b-8d00-99cb20572d8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>txt_paquete_altura</value>
-      <webElementGuid>f95be9b3-145c-4489-8476-4b7757c578fa</webElementGuid>
+      <webElementGuid>6a1ba078-c7c5-4380-b4fa-b6531e29f9e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_paquete_altura</value>
-      <webElementGuid>dd333532-71c0-46a3-b820-a9cc21d9c20b</webElementGuid>
+      <webElementGuid>76da96e8-6dbb-4f78-8f06-117413097aee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>return nuevoEnvioJS.validateNumber(event);</value>
-      <webElementGuid>35539233-0f22-44b8-8cf7-1fd5d526740b</webElementGuid>
+      <webElementGuid>ac31caeb-3b5e-48ca-8404-981f860081b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Altura</value>
-      <webElementGuid>a9d54641-1087-4c96-9636-09f6430e2b13</webElementGuid>
+      <webElementGuid>82222c4f-08b7-4efa-9694-2cc868393bfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f1-first-name input-name place-color</value>
-      <webElementGuid>db29efdf-e87b-4b6e-afbf-6e70b3ab79cc</webElementGuid>
+      <webElementGuid>08f1cde7-1ed8-4dd0-ad2b-7df62a4cdcef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>title</name>
       <type>Main</type>
       <value>.</value>
-      <webElementGuid>5ee05a33-f0f3-4ea9-b6c2-814490b3fa46</webElementGuid>
+      <webElementGuid>2a7124f6-1af7-40a1-aad5-5e4b09375b64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_paquete_altura&quot;)</value>
-      <webElementGuid>d33a284f-1893-4502-8988-3c33910e6633</webElementGuid>
+      <webElementGuid>fba6b603-dc27-4a05-bd50-6aa4b0577cf7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_paquete_altura']</value>
-      <webElementGuid>bbb8a9f2-2c05-45a2-b569-11f585e63d5a</webElementGuid>
+      <webElementGuid>85a637f5-59a2-4d9c-bf9e-660a91c53265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div_paquete_altura']/div/input</value>
-      <webElementGuid>4aeec200-f611-4ae1-9fa4-354b5e50ae1e</webElementGuid>
+      <webElementGuid>144ebda7-acb1-41e9-81b1-104aa9a219ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[4]/div/div/input</value>
-      <webElementGuid>0e3ee640-f30d-4c10-a524-3faf2d4abffc</webElementGuid>
+      <webElementGuid>24a16b91-844f-4798-82d0-6e5807f77fee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'txt_paquete_altura' and @id = 'txt_paquete_altura' and @placeholder = 'Altura' and @title = '.']</value>
-      <webElementGuid>b25acb4d-d8de-42e1-8266-97e13b0237fa</webElementGuid>
+      <webElementGuid>36496e10-70ac-4155-905f-dcc635ff08b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

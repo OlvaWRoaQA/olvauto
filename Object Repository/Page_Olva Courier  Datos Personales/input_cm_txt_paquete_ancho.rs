@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>eee918b9-099a-4c46-ab4e-5d90d8eef151</webElementGuid>
+      <webElementGuid>a7d97105-a7d2-4dc3-9f33-8f7e61b89ce4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>11a73072-532a-475b-859b-4425e5406aaa</webElementGuid>
+      <webElementGuid>f0d13835-dcd0-4448-b809-eec2fdbdf692</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2c8bf6be-8a48-4c75-96eb-d1d4d091a52b</webElementGuid>
+      <webElementGuid>2ccb78ce-4e22-479e-8194-5c50da748d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>txt_paquete_ancho</value>
-      <webElementGuid>7ce5c236-ac3f-48bf-a8c1-1c8fc6c838f2</webElementGuid>
+      <webElementGuid>0835ad9c-d40d-4ece-91e2-cd33b187eb00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_paquete_ancho</value>
-      <webElementGuid>84b0f05f-53c5-415f-b27a-49347abf06b3</webElementGuid>
+      <webElementGuid>3db6fb0c-7ba1-4087-a1dd-3f6a4c23edf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Ancho</value>
-      <webElementGuid>1fd18b83-4d48-449a-8257-49e3738d66a5</webElementGuid>
+      <webElementGuid>4aea5039-1cb0-4c61-9cdb-1f898268e49d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f1-first-name input-name place-color</value>
-      <webElementGuid>4e73eb43-bf0f-4028-ac45-cbc76e1459c9</webElementGuid>
+      <webElementGuid>dab8cb49-9627-482a-8463-fc56dad1184e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>title</name>
       <type>Main</type>
       <value>.</value>
-      <webElementGuid>c85d410b-a2a4-4d94-a276-abc7c2f8bc24</webElementGuid>
+      <webElementGuid>87031b81-cf0f-4ec5-9743-805a4e19556a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>return nuevoEnvioJS.validateNumber(event);</value>
-      <webElementGuid>eb782963-c70f-4726-8d23-8047c663d48a</webElementGuid>
+      <webElementGuid>01ba77f5-7c09-4b7c-8a9c-625b6a59b47a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_paquete_ancho&quot;)</value>
-      <webElementGuid>275b7646-344f-4c8e-8ec2-7374c1962cb7</webElementGuid>
+      <webElementGuid>ef3c31fc-f782-4257-b46e-9c6ba7aded4f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_paquete_ancho']</value>
-      <webElementGuid>2595747d-a766-4090-a95b-1e91770b8661</webElementGuid>
+      <webElementGuid>22f7cdf0-af05-4536-a566-0a0d3ecc943d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='div_paquete_ancho']/div/input</value>
-      <webElementGuid>9fc22adf-5419-41de-8f6a-c8f7499ee067</webElementGuid>
+      <webElementGuid>9df61a95-d456-4710-af06-7b7276dfe738</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[3]/div/div/input</value>
-      <webElementGuid>28fe7f3d-c6dd-4b14-9ad1-b9d7bfc1c71e</webElementGuid>
+      <webElementGuid>6e67d312-8176-4d1b-8fee-c2a051bb1b53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'txt_paquete_ancho' and @id = 'txt_paquete_ancho' and @placeholder = 'Ancho' and @title = '.']</value>
-      <webElementGuid>a3f74044-604d-44b8-9efd-2feb9221a01f</webElementGuid>
+      <webElementGuid>3573c71c-7d51-46fb-b82c-94f5c9a0434e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

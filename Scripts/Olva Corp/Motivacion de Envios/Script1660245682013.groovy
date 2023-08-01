@@ -44,7 +44,7 @@ WebUI.sendKeys(findTestObject('Object Repository/Olva Corp/Distribucion/Distribu
     Keys.chord(Keys.ENTER))
 
 WebUI.setText(findTestObject('Object Repository/Olva Corp/Distribucion/Distribucion/input_CODIGO DE BARRAS_frmAsignaciontxtCodi_2f39f3'), 
-    '02230860104')
+    '02230860103')
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Distribucion/Distribucion/li_Direccin Incorrecta'))
 

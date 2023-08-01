@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cotizar - Con recojo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40c7f589-42de-4c33-8fb3-b7527a267268</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c0c08e5-d38f-4ea4-a8c3-ddc254b1f4de</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3c79db2-d134-4a07-8470-bd31c6df93cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a990e810-9a17-4ef8-b59a-5651179e4a0b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'departamento1'</defaultValue>
+      <description></description>
+      <id>0c0c08e5-d38f-4ea4-a8c3-ddc254b1f4de</id>
+      <masked>false</masked>
+      <name>departamento</name>
+   </variable>
+   <variable>
+      <defaultValue>'provincia1'</defaultValue>
+      <description></description>
+      <id>e3c79db2-d134-4a07-8470-bd31c6df93cd</id>
+      <masked>false</masked>
+      <name>provincia</name>
+   </variable>
+   <variable>
+      <defaultValue>'distrito1'</defaultValue>
+      <description></description>
+      <id>a990e810-9a17-4ef8-b59a-5651179e4a0b</id>
+      <masked>false</masked>
+      <name>distrito</name>
+   </variable>
+</TestCaseEntity>

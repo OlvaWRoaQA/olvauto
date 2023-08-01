@@ -38,7 +38,13 @@ WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos 
 WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_Hola,_txt_email_cliente'), 
     'email1@correo.com')
 
-WebUI.click(findTestObject('button_LIMA'))
+//WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_Hola,_txt_email_cliente'), 'email1@correo.com')
+WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/span_Departamento - Provincia - Distrito'))
+
+WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_Departamento - Provincia - Distrito_f_f56910'), 
+    'lima - lima - santiago')
+
+WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/a_LIMA - LIMA - SANTIAGO DE SURCO (1)'))
 
 WebUI.scrollToPosition(0, 200)
 
@@ -162,11 +168,9 @@ WebUI.scrollToElement(findTestObject('Object Repository/Page_Olva Courier  Confi
 
 WebUI.click(findTestObject('Object Repository/Page_Olva Courier  Confirma tus datos/button_IR A PAGAR'))
 
-WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/i_Pago agencias y banca'))
-
-WebUI.click(findTestObject('Page_Olva Courier  Medios de pago/button_PAGAR'))
-
 WebUI.click(findTestObject('Olva Corp/Page_Olva Courier  Confirma tus datos/button_Aceptar'))
+
+WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/i_Pago agencias y banca'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Olva Courier  Medios de pago/td_Dcto. PROMOCION'), 'Dcto. PROMOCION')
 

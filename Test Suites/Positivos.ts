@@ -884,8 +884,15 @@
    <testCaseLink>
       <guid>5cb1a042-32f6-427c-9e66-5fd8035687fd</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Registro de Envio/Registro de Envios/Positivo/Paquete/Pago en agencias</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7f2def7c-b07b-4c7f-b005-ad3b1dd02b91</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio/Registro de Envios/Positivo/Paquete/Promociones/Con Declaracion - con cargo adjunto</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -938,6 +945,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>a6302d2a-67aa-476d-aa8a-d1645d632d15</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio/Registro de Envios/Positivo/Paquete/Promociones/Sin Declaracion - con cargo adjunto</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>fcc2dde4-bf4b-458a-8fed-23476d044234</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -964,6 +978,58 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Registro de Envio/Registro de Envios/Positivo/Paquete/Selecciona el Destino de tu envío - Recojo en tienda</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0e023dd5-fb98-49de-9ecf-47d1820c18a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio/Registro de Envios/Positivo/Paquete/Todos los destinos - domicilio</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ba9ec5ef-3f8f-45a8-a753-060821b3db40</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bceaf612-12ed-4c28-bc98-c03f826401a1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio/Registro de Envios/Positivo/Paquete/Todos los destinos - tiendas</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a1e76076-4282-4ba7-abc3-9b146f63e921</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a1996df3-c4f3-439d-96cc-aa1c3f40facd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio/Registro de Envios/Positivo/Paquete/todos los origenes - pago efectivo</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>04c97bf7-a330-4d39-ab8f-777bf22ff73f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>35c4cbab-b3f5-4789-aee1-44e4fa88901f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio/Registro de Envios/Positivo/Paquete/todos los origenes - pago en tienda</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>438e83c5-fd43-47ec-bb90-fd1ef7b3bbdc</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>2f598389-b5e8-4f17-ab47-6c10633ea49f</guid>

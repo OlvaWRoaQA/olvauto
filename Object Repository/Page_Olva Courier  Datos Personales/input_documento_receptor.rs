@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>169bbcc6-e09c-449c-b86e-763b5b0df904</webElementGuid>
+      <webElementGuid>adc4982d-82f4-4688-ab06-d5501a055cb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a636cca6-47a2-4cd6-9d3b-0dc530058f5b</webElementGuid>
+      <webElementGuid>30cc4285-de06-4d7a-a86b-7b2b2c82fcf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d8d0476c-0328-4223-9ec4-9f761ac90c2a</webElementGuid>
+      <webElementGuid>5b640452-95a4-40e5-aae1-e675a610bcd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>txt_consignado_dni</value>
-      <webElementGuid>371fd9dc-1d58-476f-8730-7f2e128b39a0</webElementGuid>
+      <webElementGuid>d48b1ba5-36eb-4633-b17e-4353fa19f298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>DNI/RUC/CE</value>
-      <webElementGuid>9a5d92e4-5e45-4d60-b1fe-4bb4ab430cd5</webElementGuid>
+      <webElementGuid>fa4d636b-cde9-4ac3-84d6-426ee026da23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>f1-last-name form-control msg_alert_tt inputRE</value>
-      <webElementGuid>b6aefbbf-d96c-44b2-83ca-8d6c3ddb510b</webElementGuid>
+      <webElementGuid>c1eb0ba6-1503-413a-8058-2791d5890379</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>e955b7da-239f-43e6-941c-9ed25ab294dd</webElementGuid>
+      <webElementGuid>51d374ba-b853-42f3-b714-7031a7b12fe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_consignado_dni</value>
-      <webElementGuid>afb1a1e1-e370-4704-8210-5cd14813399e</webElementGuid>
+      <webElementGuid>a62da419-b2c4-49af-9e56-1bb988bb70f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>title</name>
       <type>Main</type>
       <value>.</value>
-      <webElementGuid>f0afa633-2ca1-4166-b501-fe845477335d</webElementGuid>
+      <webElementGuid>db3e00c9-aa31-46f8-97e7-1b2fe1d848c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_consignado_dni&quot;)</value>
-      <webElementGuid>f116001f-9a8a-41d8-b546-ed8593ed10d2</webElementGuid>
+      <webElementGuid>c6cc5bf6-5338-4274-bb47-28e05a20d1b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt_consignado_dni']</value>
-      <webElementGuid>29194b69-11f5-4e62-b5f2-74f7652d5f0f</webElementGuid>
+      <webElementGuid>325b2e09-30cd-4916-aeaf-ee478ac1eea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='quien_recibe']/div[2]/div[3]/input</value>
-      <webElementGuid>58217f44-3f58-4a78-8ff4-cd4c0c5e8afa</webElementGuid>
+      <webElementGuid>570e3fe1-9c48-464c-a59d-7f769edf1ce1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div[2]/div[3]/input</value>
-      <webElementGuid>63dd1e4a-53d5-4789-9f2e-52ba74acf6a9</webElementGuid>
+      <webElementGuid>4e720cf5-6f50-49ef-9724-0b14a0806e8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'txt_consignado_dni' and @placeholder = 'DNI/RUC/CE' and @id = 'txt_consignado_dni' and @title = '.']</value>
-      <webElementGuid>63a8852a-8029-4fa9-8b82-fb37a9582e17</webElementGuid>
+      <webElementGuid>5cf9d2c2-fc04-42b3-8c62-4028fd2818da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

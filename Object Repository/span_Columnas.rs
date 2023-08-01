@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Columnas</name>
+   <tag></tag>
+   <elementGuidId>3613a256-2fe2-49fe-b4fa-5ad815167b3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#comprobante_wrapper > div.dt-buttons.btn-group > button.btn.btn-default.buttons-collection.buttons-colvis.btn-small > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comprobante_wrapper']/div[2]/button[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>468b47c0-dace-449b-85c4-8369820fc142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Columnas</value>
+      <webElementGuid>e2a9ca3d-466a-4e62-915f-391db795d02a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comprobante_wrapper&quot;)/div[@class=&quot;dt-buttons btn-group&quot;]/button[@class=&quot;btn btn-default buttons-collection buttons-colvis btn-small&quot;]/span[1]</value>
+      <webElementGuid>1b336d25-1866-4cb7-82d0-740956469e70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comprobante_wrapper']/div[2]/button[4]/span</value>
+      <webElementGuid>1edb88a3-97d1-4698-97dc-e37f7e0592b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[2]/following::span[1]</value>
+      <webElementGuid>f4d2a634-c8f0-4795-8a70-20b76ed14546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXCEL'])[2]/following::span[2]</value>
+      <webElementGuid>239a6df8-4e46-4ffe-b0c4-c3666c1157c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrando registros del 1 al 1 de un total de 1 registros'])[1]/preceding::span[1]</value>
+      <webElementGuid>29acacb0-7e13-4296-af9c-9183baa25a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Comprobante'])[1]/preceding::span[1]</value>
+      <webElementGuid>4b543590-44d0-4cf7-948c-73ce132540b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button[4]/span</value>
+      <webElementGuid>efbc5a68-84fb-4236-98e5-a9035c151aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Columnas' or . = 'Columnas')]</value>
+      <webElementGuid>a5350341-a9cd-43ca-a368-1d6bf1183715</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -79,13 +79,22 @@ WebUI.setText(findTestObject('Object Repository/Negativo/Page_Olva Courier  Dato
 
 WebUI.click(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/input_Direccin_1ra'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(4)
+
 WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/button_Tienda cercana'))
+
+WebUI.delay(4)
 
 WebUI.clickOffset(findTestObject('Page_Olva Courier  Datos Personales/canvas_tienda'), 100, 200)
 
 WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/button_Guardar Direccin'))
+
+WebUI.click(findTestObject('Page_Olva Courier  Datos Personales/span_Tienda'))
+
+WebUI.click(findTestObject('objetos Laura/Page_Olva Courier  Datos Personales/span_AGENTE OLVA SURCO BODEGA LA CESERA - SANTIAGO DE SURCO - AV AVIACION NRO 5177 (INTERIOR A3 PRIMER NIVEL DENTRO DE LA GALERIA WILTON )'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Inicio/Page_Olva Courier  Datos Personales/input_clave_recojo_tienda'), '0000')
 
@@ -112,8 +121,6 @@ WebUI.scrollToElement(findTestObject('Object Repository/Olva Corp/Page_Olva Cour
     0)
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Confirma tus datos/button_IR A PAGAR'))
-
-WebUI.click(findTestObject('Olva Corp/Page_Olva Courier  Confirma tus datos/button_Aceptar'))
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/i_Pago agencias y banca'))
 

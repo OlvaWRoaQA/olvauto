@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creación de Recojos TIEN- Iteración</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e8f786b-8f64-4336-9a8f-d839d7e2e71d</testCaseGuid>
+   <variable>
+      <defaultValue>'destino1'</defaultValue>
+      <description></description>
+      <id>31a7d464-f74e-40c6-a7cf-19942854a490</id>
+      <masked>false</masked>
+      <name>destino</name>
+   </variable>
+   <variable>
+      <defaultValue>'total1'</defaultValue>
+      <description></description>
+      <id>fe55b1af-e958-49c9-93b5-3ff021f7dedb</id>
+      <masked>false</masked>
+      <name>total</name>
+   </variable>
+</TestCaseEntity>

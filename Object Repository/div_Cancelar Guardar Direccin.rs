@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cancelar Guardar Direccin</name>
+   <tag></tag>
+   <elementGuidId>7d8edcef-e952-46aa-b5b2-19e3efc0f5bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__815588___BV___']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__BVID__815588___BV___ > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cecf09a-c40b-4fec-bd53-528b83d927d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancelar Guardar Dirección </value>
+      <webElementGuid>27053932-fd4e-4f84-934f-936bdbb4d96a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__815588___BV___&quot;)/div[1]</value>
+      <webElementGuid>eda41f88-cfbc-418e-b035-600c28c9f82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Aceptar_iframe_response</value>
+      <webElementGuid>217a2104-ed74-4b5d-ad8f-df260893107a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__815588___BV___']/div</value>
+      <webElementGuid>30029d94-9844-49a6-896a-d9ae76964f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referencia'])[1]/following::div[2]</value>
+      <webElementGuid>fa450c42-3264-4a81-894a-8fb67135e54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show traffic incidents'])[1]/following::div[7]</value>
+      <webElementGuid>245a9117-f3d1-4f97-92fa-64201df9da04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[3]/div</value>
+      <webElementGuid>f9cb78f8-da17-46d0-bdc2-2a755871b72a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cancelar Guardar Dirección ' or . = 'Cancelar Guardar Dirección ')]</value>
+      <webElementGuid>6cece0d4-220b-4f7c-a3b0-5583aba440b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

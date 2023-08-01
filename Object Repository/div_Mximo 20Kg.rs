@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mximo 20Kg</name>
+   <tag></tag>
+   <elementGuidId>6dc72ee5-e17b-44c6-a7dd-36cc1c49d990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-form-vue']/div/form/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-6.col-md-3.col-xl-3.col-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18c4a41b-c957-4bde-b48a-78e0e5ef56f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-6 col-md-3 col-xl-3 col-6</value>
+      <webElementGuid>f45372a1-6934-4283-a622-b2bba7a0e4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Máximo 20Kg</value>
+      <webElementGuid>e37b91df-59f5-4ee5-8044-b3bed432cfca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-form-vue&quot;)/div[1]/form[@class=&quot;pr-3 vue-form-express&quot;]/div[2]/div[1]/div[@class=&quot;card mt-0 v-step-9&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-sm-6 col-md-3 col-xl-3 col-6&quot;]</value>
+      <webElementGuid>8a6166d5-3d4d-4d76-a08a-78e937385433</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-form-vue']/div/form/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>7dfe1414-ed09-4aac-b49c-c5f89c89befc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VALIJA-DOCUMENTOS'])[1]/following::div[4]</value>
+      <webElementGuid>0930271f-bca4-45fd-a33a-1ab0db89d8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UTILES DE ESCRITORIO'])[1]/following::div[5]</value>
+      <webElementGuid>34dc8cc9-c82f-4eb3-80d0-6b087ce91acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máximo 40cm'])[1]/preceding::div[2]</value>
+      <webElementGuid>c1a73a8c-1f57-4603-97f6-6f26b7d633b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>f20e086c-0b1d-4f2b-93f3-679396db42a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Máximo 20Kg' or . = 'Máximo 20Kg')]</value>
+      <webElementGuid>8fa5f777-9fbf-424e-ad73-a063378a24e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
