@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_114 Coordinaciones  -</name>
+   <tag></tag>
+   <elementGuidId>1c7fc312-d42f-47e4-9a75-22e58194360f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'114 Coordinaciones  -')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ab581c37-5df0-4230-bcaa-675ff8ce9d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../intranet/reporte_coordinaciones/contenido/lista_coordinaciones.php?codUsuario=usci</value>
+      <webElementGuid>0129adb4-808d-4dbf-9c69-ffe2be79057f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>a9d32552-d1cb-4e0d-aa0c-76ac3d7affdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>615fe574-00a8-4338-b9ec-9719b4c99cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>114 Coordinaciones  -</value>
+      <webElementGuid>0b32b995-88e0-41b6-9a67-a50ed35ba5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;menubar&quot;]/a[@class=&quot;menu&quot;]</value>
+      <webElementGuid>d98ab17f-58c7-4396-9d14-b969730ce4cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'114 Coordinaciones  -')]</value>
+      <webElementGuid>ad37fea4-b89c-4192-8a6c-6e900d26865d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[1]/preceding::a[81]</value>
+      <webElementGuid>c1a1fd0a-5450-44f0-bd9b-477495f163ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intranet OLVA :: Principal'])[2]/preceding::a[82]</value>
+      <webElementGuid>f645c794-050b-42da-9cf9-4b9c07b4e15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../intranet/reporte_coordinaciones/contenido/lista_coordinaciones.php?codUsuario=usci')]</value>
+      <webElementGuid>1b4618ce-79b1-4a7c-b9ba-bb2eee01a618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[102]</value>
+      <webElementGuid>af2b1880-fe83-4c63-8c4c-ff06082bd6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../intranet/reporte_coordinaciones/contenido/lista_coordinaciones.php?codUsuario=usci' and (text() = '114 Coordinaciones  -' or . = '114 Coordinaciones  -')]</value>
+      <webElementGuid>917c2612-d54b-4d22-83d7-b162c6903197</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

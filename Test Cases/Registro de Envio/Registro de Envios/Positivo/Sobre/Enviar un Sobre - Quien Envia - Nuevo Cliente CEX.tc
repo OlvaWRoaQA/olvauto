@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Sobre - Quien Envia - Nuevo Cliente CEX</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>936736c8-117b-4ec9-8471-aca24d653792</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b80fa8a0-8cf6-4a0c-a8a6-85701e9fd6a8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>b80fa8a0-8cf6-4a0c-a8a6-85701e9fd6a8</id>
+      <masked>false</masked>
+      <name>nro_fila</name>
+   </variable>
+</TestCaseEntity>

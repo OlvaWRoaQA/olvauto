@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tipo de entrega</name>
+   <tag></tag>
+   <elementGuidId>7bfecba0-a084-4708-a5c8-d43b9d03af48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-3.cls_element_item.espacio_vista_xs_2.first_item > div.btn-group.bootstrap-select.form-control.msg_alert_tt > button.btn.dropdown-toggle.form-control.selectpicker.btn-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e24ee5f7-5b94-4fd8-8b8c-39d4d8190063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>01e98310-bd2a-4355-990d-ce08f0d5db04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-toggle form-control selectpicker btn-default</value>
+      <webElementGuid>f5dc77ab-2df4-4ae2-874f-074c287f0fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>ccecab8f-7a51-42cd-8199-a03dfde40c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>radioTipoReparto</value>
+      <webElementGuid>40434536-55e1-4fde-bb9c-6487cd6172f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Tipo de entrega</value>
+      <webElementGuid>ac6b8301-2ca3-4b8e-924f-0f7bcc967972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo de entrega </value>
+      <webElementGuid>24e25a2c-f681-4278-a704-f028429c431e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 cls_element_item  espacio_vista_xs_2 first_item&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]</value>
+      <webElementGuid>8bc2654c-9533-4da1-abe8-5d484028071d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>941760fa-2ac1-48d8-bf0e-fe5ac6c91404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adonde_enviamos']/div[2]/div[2]/div/button</value>
+      <webElementGuid>56d84ce7-5253-4a83-9800-d6b76c00851f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kg'])[1]/following::button[1]</value>
+      <webElementGuid>620bfb5a-3293-4a5e-8b3d-d7738f8d1d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de entrega'])[3]/preceding::button[1]</value>
+      <webElementGuid>b8d4787f-bdbc-43bd-981d-6f6a36a5c4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div/button</value>
+      <webElementGuid>1dea509e-9d98-4049-829f-ac5626febc69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Tipo de entrega' and (text() = 'Tipo de entrega ' or . = 'Tipo de entrega ')]</value>
+      <webElementGuid>ef1c4e9c-e717-4477-84ef-34aaef387263</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

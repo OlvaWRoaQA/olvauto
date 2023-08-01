@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Declaracion Jurada - Registro de envio - 2kg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d99545e-9a76-4420-a511-7df87eada687</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f990786-d944-4323-a8fc-0515f2f4bbdb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destinos_1'</defaultValue>
+      <description></description>
+      <id>9f990786-d944-4323-a8fc-0515f2f4bbdb</id>
+      <masked>false</masked>
+      <name>Destinos</name>
+   </variable>
+</TestCaseEntity>

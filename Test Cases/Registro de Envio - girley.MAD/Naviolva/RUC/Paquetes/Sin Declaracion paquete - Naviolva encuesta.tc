@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sin Declaracion paquete - Naviolva encuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9495a3d-3d55-428c-b916-0a77ae4c3e97</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0de60f9d-5417-4e52-8113-d4f01b274b74</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>0de60f9d-5417-4e52-8113-d4f01b274b74</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

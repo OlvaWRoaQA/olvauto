@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LIMA - CAETE - MALA</name>
+   <tag></tag>
+   <elementGuidId>a0dbe92d-1772-4238-a276-6cf93b491664</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-select']/div/div/ul/li[7]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4a36f73-aef2-4629-ac0f-4835cca0c47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>edda33a6-8921-4f41-992a-2866b5884e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIMA - CAÑETE - MALA</value>
+      <webElementGuid>2aceae90-658b-41e0-8bce-06633e4a0389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-select&quot;)/div[@class=&quot;btn-group bootstrap-select form-control dropup open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[7]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>3326859c-ac62-4afe-8339-aebb571bef3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-select']/div/div/ul/li[7]/a/span</value>
+      <webElementGuid>aade9e06-d32a-4906-8ac7-dd89b21d80d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LA LIBERTAD - TRUJILLO - TRUJILLO'])[2]/following::span[2]</value>
+      <webElementGuid>a2bd29a4-da39-46ab-9616-948721f2080b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JUNIN - HUANCAYO - HUANCAYO'])[2]/following::span[4]</value>
+      <webElementGuid>34887e6c-7889-41ae-8c94-94b3a2da38bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIMA - LIMA - LIMA'])[2]/preceding::span[2]</value>
+      <webElementGuid>11ba3543-8cdc-4ab3-8a70-16b48f6a4111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIURA - PIURA - PIURA'])[2]/preceding::span[4]</value>
+      <webElementGuid>175b2ba6-9a91-49b3-a83a-2a69034752cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/span</value>
+      <webElementGuid>d13a094c-7f16-4de5-a36e-c8f0052d726d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'LIMA - CAÑETE - MALA' or . = 'LIMA - CAÑETE - MALA')]</value>
+      <webElementGuid>b0dfa1d8-80fb-49e4-a33c-3eab0c7fccb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

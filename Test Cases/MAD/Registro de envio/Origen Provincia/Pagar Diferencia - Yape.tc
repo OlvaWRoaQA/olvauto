@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pagar Diferencia - Yape</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42f26664-aa5a-48bd-8e63-39ab990568ff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26ce9d39-a933-4af3-81fa-7330eb59a49d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'linkp'</defaultValue>
+      <description></description>
+      <id>26ce9d39-a933-4af3-81fa-7330eb59a49d</id>
+      <masked>false</masked>
+      <name>linkP</name>
+   </variable>
+</TestCaseEntity>

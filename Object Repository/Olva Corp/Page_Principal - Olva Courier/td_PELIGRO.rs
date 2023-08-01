@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_PELIGRO</name>
+   <tag></tag>
+   <elementGuidId>85275f45-bd1a-4b7d-b799-15fbf6a345e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.ui-widget-content.ui-datatable-even.ui-datatable-selectable.ui-state-highlight > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'PELIGRO' or . = 'PELIGRO')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7287e3a3-491d-465b-b809-9a392e4a6f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>4ba74614-dcce-4943-a40d-63d06ab63a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PELIGRO</value>
+      <webElementGuid>61b8300e-3a47-4ede-9e56-1ea4ccdf4901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmOperadorDialog:dtbOperadores_data&quot;)/tr[@class=&quot;ui-widget-content ui-datatable-even ui-datatable-selectable ui-state-highlight&quot;]/td[1]</value>
+      <webElementGuid>69c144e7-2f11-4d20-b896-529b343ae8b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Page_Principal - Olva Courier/iframe_Reporte Destajo por Operador_iframePrincipal</value>
+      <webElementGuid>7d7be95b-8d4e-46e9-ab99-cf2c2797fc6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='frmOperadorDialog:dtbOperadores_data']/tr[9]/td</value>
+      <webElementGuid>dab711f3-86c1-4909-bc47-8cdbb09a6f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONP'])[2]/following::td[1]</value>
+      <webElementGuid>f0fdcc95-eade-43c2-83d4-280f1c236ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONP'])[1]/following::td[2]</value>
+      <webElementGuid>29e60e2a-baf0-4342-a695-7b72cd4ee05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PELIGRO'])[2]/preceding::td[1]</value>
+      <webElementGuid>4a149f74-46a9-4488-afd1-8b0dfa87152d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RNI'])[1]/preceding::td[2]</value>
+      <webElementGuid>98cb8069-22d0-466d-9f34-3ebc8c105614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PELIGRO']/parent::*</value>
+      <webElementGuid>6fac7902-0349-4853-b98f-f3b5e6419a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td</value>
+      <webElementGuid>19556f6b-cbe6-4ad6-944c-149a18c47607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'PELIGRO' or . = 'PELIGRO')]</value>
+      <webElementGuid>e52cb4a3-9aef-4e6b-9457-cac5a0836230</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

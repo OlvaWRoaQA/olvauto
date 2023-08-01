@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Todos los destinos - tiendas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0a42df7-b473-43aa-9d50-95d96aa5518f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1e76076-4282-4ba7-abc3-9b146f63e921</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino'</defaultValue>
+      <description></description>
+      <id>a1e76076-4282-4ba7-abc3-9b146f63e921</id>
+      <masked>false</masked>
+      <name>destinos</name>
+   </variable>
+</TestCaseEntity>

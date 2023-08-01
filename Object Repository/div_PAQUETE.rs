@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PAQUETE</name>
+   <tag></tag>
+   <elementGuidId>741aa107-0311-410d-869c-d14b960fdda9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu.visible > div.item.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__29']/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f1c6f65-9791-42d4-8903-95fa48a11af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item selected</value>
+      <webElementGuid>a19536fc-52df-439b-98e7-fcbcead36005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      PAQUETE
+    </value>
+      <webElementGuid>517679f8-f11b-4e21-ba01-db1c73ea3bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__29&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;ui fluid search selection dropdown active visible&quot;]/div[@class=&quot;menu visible&quot;]/div[@class=&quot;item selected&quot;]</value>
+      <webElementGuid>f3646e63-1c18-439d-8d03-3f85ee37503d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__29']/div/div/div[2]/div[2]</value>
+      <webElementGuid>31669ec2-c18d-4b49-adce-7312bc24d8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOBRE'])[1]/following::div[1]</value>
+      <webElementGuid>07b2753c-fdbc-46e8-a99e-960c76f383ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contenedor*'])[1]/following::div[3]</value>
+      <webElementGuid>12393159-5f57-4fed-b72e-c675b0ed1062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artículo*'])[1]/preceding::div[1]</value>
+      <webElementGuid>f70bd920-d26c-4607-a3b8-d826eb7de2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCESORIOS PARA FIESTAS'])[1]/preceding::div[2]</value>
+      <webElementGuid>544b6e5f-66c6-4521-9ca7-fccf28d07721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PAQUETE']/parent::*</value>
+      <webElementGuid>02edfbe8-1a74-426d-bc2a-b95579e13950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div/fieldset/div/div/div[2]/div[2]</value>
+      <webElementGuid>1111f3ba-d9c8-4514-a2dd-827dd440ffce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+      PAQUETE
+    ' or . = '
+      PAQUETE
+    ')]</value>
+      <webElementGuid>769c52b4-b913-40f9-a1b2-84a571e3dd1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

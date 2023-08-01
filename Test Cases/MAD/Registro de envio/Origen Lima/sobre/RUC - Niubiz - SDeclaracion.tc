@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RUC - Niubiz - SDeclaracion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83db7f66-fe3c-4549-a6fc-162d9f25b965</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ebe8c39-04c6-460f-b54d-70d31563bdfa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>1ebe8c39-04c6-460f-b54d-70d31563bdfa</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

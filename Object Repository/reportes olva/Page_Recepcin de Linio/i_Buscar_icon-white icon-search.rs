@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Buscar_icon-white icon-search</name>
+   <tag></tag>
+   <elementGuidId>3f338794-797d-445d-a8af-de3ddf583762</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='buscar_recepcion']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-white.icon-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d130998a-c916-4603-b494-48f673ffd205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-white icon-search</value>
+      <webElementGuid>3cad6a89-7a51-4bb2-b0e3-d4ee3e0da150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buscar_recepcion&quot;)/i[@class=&quot;icon-white icon-search&quot;]</value>
+      <webElementGuid>3cc2a914-6792-4d07-82cc-3457a72ca090</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='buscar_recepcion']/i</value>
+      <webElementGuid>fd9493d2-ee18-43bd-ba94-d4f35afe03da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>18928760-6451-4eb1-a52e-56fa5229917a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_mensaje_promo</name>
+   <tag></tag>
+   <elementGuidId>3e51fa92-d048-421f-80a2-454a77a356b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formulario1']/section/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>1abf9ef8-7781-4dce-a54e-8ad183ab90df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recuerda, a más números de tracking, mayores  posibilidades tendrás de ganar.</value>
+      <webElementGuid>e705b8d4-c602-40b9-888c-c68d749e2ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formulario1&quot;)/section[@class=&quot;tittle&quot;]/h1[1]</value>
+      <webElementGuid>64c2e12a-fdc2-40b4-a0b8-3c58cbd45f4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formulario1']/section/h1</value>
+      <webElementGuid>0aeeaac8-0a55-4952-90e4-e2a096b35ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Términos y condiciones'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e81f6775-3663-439b-9fea-4006eaf801c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>071ac6cb-149f-4f26-8722-48478d8e8568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Recuerda, a más números de tracking, mayores  posibilidades tendrás de ganar.' or . = 'Recuerda, a más números de tracking, mayores  posibilidades tendrás de ganar.')]</value>
+      <webElementGuid>7105da5a-5814-4ef6-9239-021d78519534</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

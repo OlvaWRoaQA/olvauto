@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alto Peso_Volumen</name>
+   <tag></tag>
+   <elementGuidId>fb9ca343-6cf8-44e4-a9aa-aa2f42130f05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@id,'frmVolumen:dAlto')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0fca6225-8839-4985-a24b-06f7e92c3ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>c0d84bd5-7010-4848-9645-8a09a50332bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S/.0.00</value>
+      <webElementGuid>8ef2a076-8bf6-4eaa-813b-af3356a7d72b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmNewEnvio:montos&quot;)/div[@class=&quot;ui-fieldset-content&quot;]/table[@class=&quot;olvBordersNulo fontOpenSans&quot;]/tbody[1]/tr[1]/td[5]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>ebe91f45-6d33-44ed-a959-d24680b29799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inicio/Page_Atencin al Cliente/Page_Principal - Olva Courier/iframe_R</value>
+      <webElementGuid>86a91544-fe08-4530-a01d-be8e7c4d7a29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='frmNewEnvio:montos']/div/table/tbody/tr/td[5]/span</value>
+      <webElementGuid>62a3f861-60ca-4ad2-914d-c35e88249dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXCESO:'])[1]/following::span[1]</value>
+      <webElementGuid>a82f6a70-9ac6-472b-9d11-95ab1299f4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/.0.00'])[1]/following::span[1]</value>
+      <webElementGuid>3530e625-21b7-42e9-8df9-9d448d8ff743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMBALAJE:'])[1]/preceding::span[1]</value>
+      <webElementGuid>e75f9968-30cc-4547-8cfd-dc3d940727c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/.0.00'])[3]/preceding::span[1]</value>
+      <webElementGuid>407fa84b-5281-43aa-98fa-6c7816c83607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/fieldset/div/table/tbody/tr/td[5]/span</value>
+      <webElementGuid>1780b6d9-a146-47fa-937e-a5ee0601bdb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'S/.0.00' or . = 'S/.0.00')]</value>
+      <webElementGuid>dd55ebeb-b19c-4c43-9b93-98b7269fe284</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

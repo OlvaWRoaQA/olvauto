@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ver tiendas</name>
+   <tag></tag>
+   <elementGuidId>ac6e1b9c-9a62-4437-9838-1a01c2886fbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-rounded.vc_btn3-style-modern.vc_btn3-color-inverse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-9768']/div/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4ec2cbef-9480-4e62-ac70-4f23061c7c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-inverse</value>
+      <webElementGuid>043d8658-a181-4283-88f5-40f53d35faa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.olvacourier.com/wp-content/uploads/2022/07/TIENDAS-PROVINCIAS.pdf</value>
+      <webElementGuid>7bb8dc1c-a7ae-4e55-8ad9-19111a716734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ver tiendas</value>
+      <webElementGuid>67c7496d-d2c2-49b2-8adc-56991a8499f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-9768&quot;)/div[@class=&quot;entry-content consulting_elementor_wrapper&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;vc_btn3-container vc_btn3-inline&quot;]/a[@class=&quot;vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-inverse&quot;]</value>
+      <webElementGuid>48ab2427-d317-44c0-a88f-32eece42012c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-9768']/div/div/div/div/div/div/a</value>
+      <webElementGuid>4fb3732c-5379-4409-8beb-06c44a14d9fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ver tiendas')]</value>
+      <webElementGuid>332b3a25-d0ca-4ff8-927d-5755b24544a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiendas provincias'])[1]/following::a[1]</value>
+      <webElementGuid>12c9dddb-3c2c-4d59-a85b-e318f618639c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atención al Cliente'])[2]/following::a[1]</value>
+      <webElementGuid>cca150a7-3420-4a30-a408-e1f866dd4cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Noticias Recientes'])[1]/preceding::a[7]</value>
+      <webElementGuid>69bf6e81-823a-4e9a-9010-887a303a9293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nuevos ingresos y mudanzas Tiendas Olva'])[1]/preceding::a[7]</value>
+      <webElementGuid>0f220217-89e5-49d4-9743-a41380457435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ver tiendas']/parent::*</value>
+      <webElementGuid>027a9497-9076-4aa8-ad1f-ad351aed5ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.olvacourier.com/wp-content/uploads/2022/07/TIENDAS-PROVINCIAS.pdf')]</value>
+      <webElementGuid>deecf534-b3ff-458b-80b1-128cb5492042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a</value>
+      <webElementGuid>223c109e-e0da-45ef-a94c-a03e46480d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.olvacourier.com/wp-content/uploads/2022/07/TIENDAS-PROVINCIAS.pdf' and (text() = 'Ver tiendas' or . = 'Ver tiendas')]</value>
+      <webElementGuid>7c2c39ee-b285-443f-8d88-bc2cab95a827</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

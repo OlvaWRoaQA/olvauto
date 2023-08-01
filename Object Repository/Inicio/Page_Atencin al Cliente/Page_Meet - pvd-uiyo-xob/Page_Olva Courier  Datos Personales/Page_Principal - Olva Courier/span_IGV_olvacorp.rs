@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_IGV_olvacorp</name>
+   <tag></tag>
+   <elementGuidId>77246b82-8b0f-46b6-a59c-0321d523c758</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmNewEnvio:totales&quot;]/div/table/tbody/tr[2]/td[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>02e98bc1-e0c2-4b2b-8aea-c4caf2237961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>27a93ed2-f430-4f56-a200-9c049310ddea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S/.53.01</value>
+      <webElementGuid>e2d077c8-d5df-4377-95eb-8fafa1da8274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmNewEnvio:totales&quot;)/div[@class=&quot;ui-fieldset-content&quot;]/table[@class=&quot;olvBordersNulo fontOpenSans&quot;]/tbody[1]/tr[2]/td[5]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>efb6720e-7e5a-4fed-910b-a5fb610a9bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inicio/Page_Atencin al Cliente/Page_Meet - pvd-uiyo-xob/Page_Olva Courier  Datos Personales/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>ae9a855b-812e-4361-973b-f1433119409a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='frmNewEnvio:totales']/div/table/tbody/tr[2]/td[5]/span</value>
+      <webElementGuid>0b2b114f-87ee-40bd-b709-65dfb7fb056e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRECIO VENTA:'])[2]/following::span[1]</value>
+      <webElementGuid>8005246e-b404-4ac1-ac33-e44993ddf7f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/.0.00'])[4]/following::span[2]</value>
+      <webElementGuid>e8b64792-4e15-44c4-950c-983bdf1bec9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis Tramites'])[1]/preceding::span[2]</value>
+      <webElementGuid>45d783ab-f3f2-43d9-bbaf-6253629723ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grabar'])[2]/preceding::span[4]</value>
+      <webElementGuid>ff8de975-9134-4eaa-a50a-991adf8bb460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/fieldset/div/table/tbody/tr[2]/td[5]/span</value>
+      <webElementGuid>e671c77d-73ac-44a1-92fb-6a3139672e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'S/.53.01' or . = 'S/.53.01')]</value>
+      <webElementGuid>b5209536-daab-451d-b474-e70dd85e28a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

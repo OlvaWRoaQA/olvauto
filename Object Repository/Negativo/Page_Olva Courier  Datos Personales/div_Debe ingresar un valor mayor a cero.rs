@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debe ingresar un valor mayor a cero</name>
+   <tag></tag>
+   <elementGuidId>a21d189e-aa3b-4a09-97cf-7a8b178916d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_paquete_valor_msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txt_paquete_valor_msg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d65f9a62-db8e-425c-90d7-4d133aa2482a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_paquete_valor_msg</value>
+      <webElementGuid>d0c79c73-3bcd-4ce5-a4f6-f2505e83d636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>62e800c9-bf95-41e8-af98-def2422f2a83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Debe ingresar un valor mayor a cero</value>
+      <webElementGuid>40c8bde3-7088-4799-8895-2bccdace3dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_paquete_valor_msg&quot;)</value>
+      <webElementGuid>8e5784f0-ad8e-4465-8ccb-73154f46fb21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='txt_paquete_valor_msg']</value>
+      <webElementGuid>3376b17a-aac2-4883-8cd2-6f8cc71753ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='que_envias']/div[2]/div[4]/div</value>
+      <webElementGuid>c7050989-3579-4ac6-9196-04df0231a750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe ingresar la descripción del artículo'])[1]/following::div[2]</value>
+      <webElementGuid>5a5de416-1c06-48e5-8525-4028d43820d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe seleccionar un artículo de la lista'])[1]/following::div[4]</value>
+      <webElementGuid>71c68846-7cd1-4858-a72b-dc8f7f3b1a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[1]/preceding::div[7]</value>
+      <webElementGuid>0d01ce7e-db58-404e-b572-f7346606bdfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Las dimensiones mínimas deben ser 10cm x 10cm x 14cm o el equivalente.'])[1]/preceding::div[8]</value>
+      <webElementGuid>368660c4-5635-43e8-a8d2-30dae506bb05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Debe ingresar un valor mayor a cero']/parent::*</value>
+      <webElementGuid>c7e11824-31cd-4d5c-8109-be9b7f91aa02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div</value>
+      <webElementGuid>a2edf733-4e91-42cb-b521-d6bbc514df34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_paquete_valor_msg' and (text() = 'Debe ingresar un valor mayor a cero' or . = 'Debe ingresar un valor mayor a cero')]</value>
+      <webElementGuid>ac9b4de9-b35c-40f7-8302-472ae5c5531d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

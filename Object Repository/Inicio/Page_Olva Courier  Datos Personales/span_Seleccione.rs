@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Seleccione</name>
+   <tag></tag>
+   <elementGuidId>9a713d8c-864b-4126-a972-9a83a83ee3af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[contains(.,'Seleccione')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-8 > div.btn-group.bootstrap-select.form-control > button.btn.dropdown-toggle.form-control.selectpicker.btn-default > span.filter-option.pull-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f22761d-5365-4bab-87d3-f6a08d7f35b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option pull-left</value>
+      <webElementGuid>a941fa82-c57f-46d5-9078-80ddf1a5d595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccione</value>
+      <webElementGuid>21e4d61d-b191-459e-846d-5d330105bfc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalNuevoCliente&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;btn-group bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
+      <webElementGuid>8404a196-4a89-441b-834c-52448f6627c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalNuevoCliente']/div/div/div[2]/div/div/div/button/span</value>
+      <webElementGuid>c9af3cfa-7493-476b-9bdc-9c4089363576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Persona'])[1]/following::span[1]</value>
+      <webElementGuid>2c37f8b0-2557-44ea-afff-c7c413553dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cliente Nuevo'])[1]/following::span[2]</value>
+      <webElementGuid>cc2bc454-e250-4db0-9449-81c57cb6c2f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione'])[3]/preceding::span[2]</value>
+      <webElementGuid>2bd7d234-e065-436c-8a34-3a9e76b067b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NATURAL'])[2]/preceding::span[4]</value>
+      <webElementGuid>76e70bd3-4c7e-4ece-b767-5035ab46b206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/button/span</value>
+      <webElementGuid>b1780ccf-92b7-4036-be71-0fd186a1814e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Seleccione' or . = 'Seleccione')]</value>
+      <webElementGuid>60ed9c38-4efb-40e1-8221-c9ade3f00cee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

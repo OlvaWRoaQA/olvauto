@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Venta Contado - Girley Domicilio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2da92139-8e70-4692-bb9a-2c4482d1fc2c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08ad77a7-40ac-4ec8-89df-5cfc561fa63f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nro_tracking'</defaultValue>
+      <description></description>
+      <id>08ad77a7-40ac-4ec8-89df-5cfc561fa63f</id>
+      <masked>false</masked>
+      <name>nro_tracking1</name>
+   </variable>
+</TestCaseEntity>

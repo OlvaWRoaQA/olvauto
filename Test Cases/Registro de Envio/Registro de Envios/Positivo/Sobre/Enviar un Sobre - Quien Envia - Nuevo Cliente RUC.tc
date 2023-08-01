@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Sobre - Quien Envia - Nuevo Cliente RUC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b129f15c-9998-48a2-a2f7-d4d246e2145c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c820b4f5-3e8e-470f-af59-d60e9fe9342e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>c820b4f5-3e8e-470f-af59-d60e9fe9342e</id>
+      <masked>false</masked>
+      <name>nro_fila</name>
+   </variable>
+</TestCaseEntity>

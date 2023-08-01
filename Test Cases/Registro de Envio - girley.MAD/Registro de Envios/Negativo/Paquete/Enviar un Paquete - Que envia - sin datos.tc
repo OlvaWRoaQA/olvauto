@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Paquete - Que envia - sin datos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa4684eb-fb8c-4490-99be-969c9268d132</testCaseGuid>
+</TestCaseEntity>

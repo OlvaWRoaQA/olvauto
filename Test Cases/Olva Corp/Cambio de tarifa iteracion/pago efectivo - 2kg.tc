@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pago efectivo - 2kg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf680c2e-94fb-4bd9-8d31-e4286a0af0bd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6bb03671-32f4-48a2-a5af-761a2e812465</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destinos_1'</defaultValue>
+      <description></description>
+      <id>6bb03671-32f4-48a2-a5af-761a2e812465</id>
+      <masked>false</masked>
+      <name>Destinos</name>
+   </variable>
+</TestCaseEntity>

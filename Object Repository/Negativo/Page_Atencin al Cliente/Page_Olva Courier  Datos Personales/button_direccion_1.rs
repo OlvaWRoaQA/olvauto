@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_direccion_1</name>
+   <tag></tag>
+   <elementGuidId>1c921542-f90f-429f-930f-8a19b27b77d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.list-group-item.list-group-item-action.addressListDetail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7f39db1f-5681-400f-9617-c59c0ea7638d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action addressListDetail</value>
+      <webElementGuid>1949b5c1-f811-4ebc-8125-d39fcd8ffe7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1cf0dfc3-eafb-4108-b685-464be3158e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avenida Canadá 181, 15034 La Victoria, Perú</value>
+      <webElementGuid>85032191-bd54-440e-9673-ed3ab819aea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__904643___BV___&quot;)/div[1]/div[@class=&quot;list-group addressList mt-2&quot;]/button[@class=&quot;list-group-item list-group-item-action addressListDetail&quot;]</value>
+      <webElementGuid>a4ec04c3-6dee-43e8-8172-0a51c69853ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Negativo/Page_Olva Courier  Datos Personales/iframe_Cerrar_iframe_response</value>
+      <webElementGuid>c1a1cccb-7638-41d7-81bc-2b1ebcf4317a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Negativo/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/iframe_Cerrar_iframe_response</value>
+      <webElementGuid>ca64e461-59c1-4fb5-bd6c-6eea567dbe42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>440ac968-1108-4815-8512-b2a6b741849d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__904643___BV___']/div/div/button</value>
+      <webElementGuid>b636cf95-ebbe-415a-8654-7d3523f5ca8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dirección de Entrega'])[1]/following::button[1]</value>
+      <webElementGuid>ea1af833-c88a-47ab-a135-a8650bcc88bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avenida Canadá 181, 15034 La Victoria, Perú']/parent::*</value>
+      <webElementGuid>ce53328a-678b-47e6-b1cd-f37e19f83337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f8b65cdb-e350-4d95-978e-84859e67a757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Avenida Canadá 181, 15034 La Victoria, Perú' or . = 'Avenida Canadá 181, 15034 La Victoria, Perú')]</value>
+      <webElementGuid>87b1b640-a9c5-40c1-a20a-e1a43a76b7bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

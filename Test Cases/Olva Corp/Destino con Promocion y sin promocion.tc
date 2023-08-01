@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Destino con Promocion y sin promocion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ac852fa-3270-45ef-b592-ab1d02af08f6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8604c85a-a740-4390-9aef-ac9b75516b00</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'destino'</defaultValue>
+      <description></description>
+      <id>8604c85a-a740-4390-9aef-ac9b75516b00</id>
+      <masked>false</masked>
+      <name>destino_promocion</name>
+   </variable>
+</TestCaseEntity>

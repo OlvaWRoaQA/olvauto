@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Paquete - Quien Envia - email sin formato</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb527d5c-8889-4b0e-ad9f-698002ab1713</testCaseGuid>
+</TestCaseEntity>

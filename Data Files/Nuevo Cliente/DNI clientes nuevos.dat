@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DNI clientes nuevos</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>7eee92db-bcd2-45d1-8e89-eef80c23e201</dataFileGUID>
+   <dataSourceUrl>C:\Users\roasa\OneDrive\Documentos\Olva TI\Interna\QA\Data QA\Pruebas Registro de envio\Datos nuevo cliente DNI.xls</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>DNI</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

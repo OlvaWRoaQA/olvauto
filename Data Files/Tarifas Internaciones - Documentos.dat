@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Tarifas Internaciones - Documentos</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0d305e6b-0d75-466e-b643-7bd71a48ed3f</dataFileGUID>
+   <dataSourceUrl>C:\Users\roasa\OneDrive\Documentos\TARIFAS_INTERNACIONAL - DOCUMENTOS.xls</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Tarifas - Zonas</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

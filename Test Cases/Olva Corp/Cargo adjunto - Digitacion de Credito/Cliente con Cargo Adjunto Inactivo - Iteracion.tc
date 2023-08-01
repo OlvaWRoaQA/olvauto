@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cliente con Cargo Adjunto Inactivo - Iteracion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2786d856-4dbc-4283-8c14-0627afa827c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9ff6d8f-2081-4f71-bf4f-2a70e4bb9588</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino_1'</defaultValue>
+      <description></description>
+      <id>d9ff6d8f-2081-4f71-bf4f-2a70e4bb9588</id>
+      <masked>false</masked>
+      <name>destino</name>
+   </variable>
+</TestCaseEntity>

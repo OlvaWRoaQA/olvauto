@@ -1,0 +1,8 @@
+{
+  "browserName": ["chrome"],
+  "browserName1": ["firefox"],
+  "remoteWebDriverUrl": "https://92619dff9029ee05c1f9a5f3d817c3c7:2cd54bafe61652123c508a7d00844400@hub.testingbot.com/wd/hub",
+  "version": "lastest",
+  "remoteWebDriverType": "Selenium",
+  "platform": "WIN10"
+}

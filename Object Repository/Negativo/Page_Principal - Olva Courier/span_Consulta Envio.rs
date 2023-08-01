@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Consulta Envio</name>
+   <tag></tag>
+   <elementGuidId>a11ef9dd-55d3-4170-a245-353ef1b772d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='frmPrincipal:tree:0_8:lblNode']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>feda3851-adc0-438a-984f-c655596eaa38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmPrincipal:tree:0_8:lblNode</value>
+      <webElementGuid>ca5460b9-6978-496f-8161-ce4b577763dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Consulta Envio</value>
+      <webElementGuid>5639dcfb-2d4a-4a21-ad24-bae6c2a8dbb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consulta Envio</value>
+      <webElementGuid>9bc2fda6-5d52-49be-8417-6e66289101c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:tree:0_8:lblNode&quot;)</value>
+      <webElementGuid>993dee94-f8ca-4865-902e-c7204d37463e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:tree:0_8:lblNode']</value>
+      <webElementGuid>fd2a4655-ee06-474c-8b94-4053deab0ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='frmPrincipal:tree:0_8']/span/span[3]/span</value>
+      <webElementGuid>8edcac54-2775-4890-b258-e5a7f2971b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guia Transportista'])[1]/following::span[5]</value>
+      <webElementGuid>539929c2-ca3f-4dc0-b207-7bd6819174a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guia de Despacho'])[1]/following::span[10]</value>
+      <webElementGuid>6dedfc2c-531a-4f3a-92b6-77258a028fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reportes Despachos'])[1]/preceding::span[3]</value>
+      <webElementGuid>f2c5ac0a-5c62-4ad8-8768-6a71c1b4eaa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporte Envios Despachados'])[1]/preceding::span[8]</value>
+      <webElementGuid>b165ae5a-14db-434c-97ac-9a28aead25d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consulta Envio']/parent::*</value>
+      <webElementGuid>e71562b8-b397-43fb-bcb0-78201009f1ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/span/span[3]/span</value>
+      <webElementGuid>86c24e4c-3f75-4368-9f3a-02c3e262bc5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'frmPrincipal:tree:0_8:lblNode' and @title = 'Consulta Envio' and (text() = 'Consulta Envio' or . = 'Consulta Envio')]</value>
+      <webElementGuid>8e922778-5ce2-4dd1-9e38-e5982663d69b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

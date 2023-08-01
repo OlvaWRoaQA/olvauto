@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Confirmacion de Entrega</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a28ff120-f809-4214-b900-506bff6cfd36</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5d1fc60-2693-4bb4-965f-950e72c833d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f5d1fc60-2693-4bb4-965f-950e72c833d8</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

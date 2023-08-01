@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Paquete - Quien Envia - Nuevo Cliente CEX</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a38cf8a-30ed-41a0-b01b-6fbf3af0f163</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f72a4b6-ad1d-41d8-9fcf-44c438a90b56</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>7f72a4b6-ad1d-41d8-9fcf-44c438a90b56</id>
+      <masked>false</masked>
+      <name>nro_fila</name>
+   </variable>
+</TestCaseEntity>

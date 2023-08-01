@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sin Declaracion paquete - Naviolva modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcce0b64-e031-4887-8b49-5bae65d0e88b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bb99aa07-114e-4c30-9221-dfede3a69965</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>bb99aa07-114e-4c30-9221-dfede3a69965</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

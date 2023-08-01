@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Salir</name>
+   <tag></tag>
+   <elementGuidId>6eef9e51-7471-42fc-b706-4d2853c51c28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmNewEnvio:btnSalirEnvio']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e28a4dd-8d18-4429-9e16-6f48a436acee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>a29eead6-48d5-48d2-a177-87dfc346e962</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Salir</value>
+      <webElementGuid>9e0a7701-1e40-466f-99a1-4104d9ec08c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmNewEnvio:btnSalirEnvio&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>96edbfc8-6beb-4fa0-b6c3-498494e28d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Negativo/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal_1</value>
+      <webElementGuid>14349945-e79c-48d8-aa03-b1812aeaf00d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmNewEnvio:btnSalirEnvio']/span[2]</value>
+      <webElementGuid>77c3ae50-d45a-478a-b3bc-fa27e7b0bfb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[1]/following::span[2]</value>
+      <webElementGuid>170dfc90-0bd6-447e-a891-8c4040398720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grabar'])[2]/following::span[4]</value>
+      <webElementGuid>a65cb820-25f4-4aa6-a0d4-865c1a163ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registro de envíos por cliente'])[1]/preceding::span[1]</value>
+      <webElementGuid>c8f2cd0f-310a-40b1-8f36-5c56a65b4540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[8]/preceding::span[3]</value>
+      <webElementGuid>2b5d2a85-b2f9-4594-8a08-91152fdf42b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button[3]/span[2]</value>
+      <webElementGuid>c7c8a34b-7b18-4c4d-8bd4-8409d4f3e216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Salir' or . = 'Salir')]</value>
+      <webElementGuid>e09379e6-ee4a-4872-b2da-7e99f8cc9267</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

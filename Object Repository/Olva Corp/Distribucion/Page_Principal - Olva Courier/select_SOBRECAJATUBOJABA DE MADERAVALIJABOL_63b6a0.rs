@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SOBRECAJATUBOJABA DE MADERAVALIJABOL_63b6a0</name>
+   <tag></tag>
+   <elementGuidId>4d263f3e-fdc6-42c8-83ac-b9e7e9a79846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='frmNewEnvio:contenedor']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>be8427ff-ee6c-4af2-987f-cb7504b61e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmNewEnvio:contenedor</value>
+      <webElementGuid>88abfc97-bcf8-496e-97b5-104a06c219dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>frmNewEnvio:contenedor</value>
+      <webElementGuid>c9da388d-a19f-4229-a284-b93af26a19b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>0eab2e55-cb73-4420-81af-6fd4b9fd2e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>if (event.keyCode === 13) {                                                                           focusChange('#frmNewEnvio\\:pesoReal');                                                                          return false;                                                                      }</value>
+      <webElementGuid>8e00e1e4-e5dd-48eb-8863-0c8a6b529977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>focusChange('#frmNewEnvio\\:pesoReal');</value>
+      <webElementGuid>aa1c7996-d287-4a28-a931-51650c08c449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-model</name>
+      <type>Main</type>
+      <value>envio.idContenedorArticulo</value>
+      <webElementGuid>b0719ff2-a2bc-4108-be4e-6f97d832a958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>341ca2da-1f84-4a00-9831-8bb78f57dcf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	SOBRE
+	CAJA
+	TUBO
+	JABA DE MADERA
+	VALIJA
+	BOLSA
+	BULTO
+	OTROS
+	PAQUETE
+</value>
+      <webElementGuid>6b8e84c9-1df3-4c4d-a437-c3337f41bece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmNewEnvio:contenedor&quot;)</value>
+      <webElementGuid>0ddd4b69-f6ad-45e3-9941-611b8a548ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal_1</value>
+      <webElementGuid>1e461e85-e7c9-40a2-8062-c60efac3b3c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal_1</value>
+      <webElementGuid>e06111a2-4ac3-40fa-8999-0d5208a934b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='frmNewEnvio:contenedor']</value>
+      <webElementGuid>bcb68525-509e-4f71-a491-4fd6b4af2f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='frmNewEnvio:pnlArticulo']/tbody/tr/td[6]/label/select</value>
+      <webElementGuid>c4aed0b6-8c52-4721-97f7-d9a5b77c94c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONT ART:'])[1]/following::select[1]</value>
+      <webElementGuid>366a3b9e-44a1-45f4-beea-de5a859ebdf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar Artículo'])[1]/following::select[1]</value>
+      <webElementGuid>ebb7149b-2ed4-40b5-a2c6-30e5785fc2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P. REAL:'])[1]/preceding::select[1]</value>
+      <webElementGuid>430e1ab0-11af-4653-9095-551873c64c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P. VOLUMEN:'])[1]/preceding::select[1]</value>
+      <webElementGuid>a11d0b69-06ce-4e09-ad56-41caad82775a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[4]/tbody/tr/td[6]/label/select</value>
+      <webElementGuid>c3852601-4fc8-4959-acae-cbe6a5becaa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'frmNewEnvio:contenedor' and @name = 'frmNewEnvio:contenedor' and (text() = '	SOBRE
+	CAJA
+	TUBO
+	JABA DE MADERA
+	VALIJA
+	BOLSA
+	BULTO
+	OTROS
+	PAQUETE
+' or . = '	SOBRE
+	CAJA
+	TUBO
+	JABA DE MADERA
+	VALIJA
+	BOLSA
+	BULTO
+	OTROS
+	PAQUETE
+')]</value>
+      <webElementGuid>9c8327d7-2969-4738-8dbe-effcd5ac339a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

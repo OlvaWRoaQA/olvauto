@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Las dimensiones mnimas deben ser 10cm x 10cm x 14cm o el equivalente</name>
+   <tag></tag>
+   <elementGuidId>0f2c3ec0-151e-4f0c-8164-417c6fa82a13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#div_paquete_largo_msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(.,'Las dimensiones mínimas deben ser 10cm x 10cm x 14cm o el equivalente.')])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>77afd759-dd20-4474-a169-c6ec9c066073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>div_paquete_largo_msg</value>
+      <webElementGuid>07ddc07e-8cd2-47af-bd52-625677c038f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>2d3264c9-e223-48aa-8b39-3bc0703957ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Las dimensiones mínimas deben ser 10cm x 10cm x 14cm o el equivalente.</value>
+      <webElementGuid>4e7c2ffa-3b5a-42e5-b6fb-4937e43df7ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_paquete_largo_msg&quot;)</value>
+      <webElementGuid>b81c0690-e2ea-4abe-ab3e-13f3dda0f711</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='div_paquete_largo_msg']</value>
+      <webElementGuid>a160b4b6-f22c-477e-89f3-79ad239d6699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='que_envias']/div[3]/div[2]/div[2]</value>
+      <webElementGuid>f2c984cd-10a1-440e-8685-54d779b0380c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[1]/following::div[1]</value>
+      <webElementGuid>fe4cb952-b52a-4ec7-b138-118dc05d7c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe seleccionar un artículo de la lista'])[1]/following::div[12]</value>
+      <webElementGuid>8e96b1e7-5af2-44d4-890b-9be160baa58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[2]/preceding::div[5]</value>
+      <webElementGuid>7ad78c1e-395d-45cf-9676-cb13a2244bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[3]/preceding::div[12]</value>
+      <webElementGuid>10e308a8-b1a6-454a-8a9a-50c3c0894f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Las dimensiones mínimas deben ser 10cm x 10cm x 14cm o el equivalente.']/parent::*</value>
+      <webElementGuid>129b709f-33a2-45dd-880c-e6550a0cddc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]</value>
+      <webElementGuid>e263f3c8-3c36-4138-8a72-58ebabda1f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'div_paquete_largo_msg' and (text() = 'Las dimensiones mínimas deben ser 10cm x 10cm x 14cm o el equivalente.' or . = 'Las dimensiones mínimas deben ser 10cm x 10cm x 14cm o el equivalente.')]</value>
+      <webElementGuid>67a13b23-bbe4-43c9-8b4e-2546da0b9ff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

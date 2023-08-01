@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ACEPTAR</name>
+   <tag></tag>
+   <elementGuidId>8a2ed459-fd8c-44ed-8144-76bd18dbcf5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fmrAlert:pnlAlerta_content']/table/tbody/tr[2]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>030030f3-3b63-467a-a09b-21d1e504c8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACEPTAR
+                            </value>
+      <webElementGuid>e8a525a9-a49f-4c5d-acaa-5c5187cd60a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fmrAlert:pnlAlerta_content&quot;)/table[1]/tbody[1]/tr[2]/td[1]</value>
+      <webElementGuid>4806b312-ccfa-4a33-aa1d-8c49dd516778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/iframe_Reporte Destajo por Operador_iframeP_aa3353</value>
+      <webElementGuid>d7fc24e3-86f3-4491-89d3-f07e7941f31e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fmrAlert:pnlAlerta_content']/table/tbody/tr[2]/td</value>
+      <webElementGuid>bea970fc-ba39-4dfe-ba7b-0b72bdfb16e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerta'])[1]/following::td[2]</value>
+      <webElementGuid>2f5fb07c-338b-4c9c-bd22-c988fd99708f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCELAR'])[1]/following::td[2]</value>
+      <webElementGuid>478f3889-a7e6-4a28-a47e-896a5fda65e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCELAR'])[2]/preceding::td[1]</value>
+      <webElementGuid>6bbb9b54-f69b-4a2e-9f2e-41c560926023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/table/tbody/tr[2]/td</value>
+      <webElementGuid>008b4cae-aa39-4ed0-ac1f-e5bdeaf426ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ACEPTAR
+                            ' or . = 'ACEPTAR
+                            ')]</value>
+      <webElementGuid>5f189612-4bfb-4507-9992-b32af0ae410d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

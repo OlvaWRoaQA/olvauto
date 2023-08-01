@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_AREQUIPA - AREQUIPA - MIRAFLORES</name>
+   <tag></tag>
+   <elementGuidId>d15c4d48-a536-4124-a722-2c43f8ae838b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='adonde_enviamos']/div[2]/div[3]/div/div/ul/li[43]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad8a7663-07c7-4914-85e2-e8bc63050549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f0f2fa2b-d7d0-48a9-93e6-d755749f6fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AREQUIPA - AREQUIPA - MIRAFLORES</value>
+      <webElementGuid>0b1ee9fd-bd7f-435e-8c22-fb1b07f141cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_tienda&quot;]/div[@class=&quot;btn-group bootstrap-select form-control open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[43]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>da050d6c-0285-454f-a44f-e9841d8a805c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adonde_enviamos']/div[2]/div[3]/div/div/ul/li[43]/a/span</value>
+      <webElementGuid>44b3ea2a-b994-4c45-9fa9-6987670e7d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AREQUIPA - AREQUIPA - CERRO COLORADO'])[2]/following::span[2]</value>
+      <webElementGuid>9b521ff3-6b6b-4576-9f99-53eabd584f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AREQUIPA - ISLAY - MOLLENDO'])[2]/following::span[4]</value>
+      <webElementGuid>6c71d255-ade8-4e03-a58c-e00702b63784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AREQUIPA - CAYLLOMA - EL PEDREGAL'])[2]/preceding::span[2]</value>
+      <webElementGuid>6a45ab8b-f029-4904-ae8b-4caa6896f79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AREQUIPA - AREQUIPA - JOSE LUIS BUSTAMANTE Y RIVERO'])[2]/preceding::span[4]</value>
+      <webElementGuid>284bdcf1-efd1-4c0c-a34b-f339c2e70ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[43]/a/span</value>
+      <webElementGuid>7a6330bc-73d2-444c-9ff3-024a77eb33e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'AREQUIPA - AREQUIPA - MIRAFLORES' or . = 'AREQUIPA - AREQUIPA - MIRAFLORES')]</value>
+      <webElementGuid>409ef239-893b-44d3-afc7-1c8459cee987</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_total_olvacorp</name>
+   <tag></tag>
+   <elementGuidId>f21cc979-8ef0-40c0-b552-4f40b53dd552</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmVentaContado:ventaTotales&quot;]/div/table/tbody/tr/td[11]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acb28f5c-240c-4da6-9abb-1fc497cfe3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21.50</value>
+      <webElementGuid>deba1e8e-81b5-4a98-a035-187ee7076dd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmVentaContado:ventaTotales&quot;)/div[@class=&quot;ui-fieldset-content&quot;]/table[@class=&quot;olvBordersNulo fontOpenSans&quot;]/tbody[1]/tr[1]/td[11]/span[2]</value>
+      <webElementGuid>7f0bd180-7901-4303-8427-0bebb8ce1ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inicio/Page_Olva Courier  Datos Personales/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal_1</value>
+      <webElementGuid>be7009a7-03fb-4b98-9f3e-04ae232f1cda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='frmVentaContado:ventaTotales']/div/table/tbody/tr/td[11]/span[2]</value>
+      <webElementGuid>7422c5bd-0ddd-44b6-b181-78e58656b39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/.'])[1]/following::span[1]</value>
+      <webElementGuid>b043a829-942f-4b7a-ae26-f7ffe8823a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRECIO VENTA:'])[1]/following::span[2]</value>
+      <webElementGuid>2ba2bc04-17d4-4961-9aa5-d889040dd81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nueva Venta'])[1]/preceding::span[2]</value>
+      <webElementGuid>d3210ca9-360b-4e79-b6bb-0c3d0abcea60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grabar'])[1]/preceding::span[4]</value>
+      <webElementGuid>b31f8b57-0b21-4c59-950f-d4e7cd9058a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='21.50']/parent::*</value>
+      <webElementGuid>d2d6e847-2770-437e-b2d8-86ae6d9e90f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/span[2]</value>
+      <webElementGuid>273c3bbf-e9f3-4c52-a62b-d5f2beeb58aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '21.50' or . = '21.50')]</value>
+      <webElementGuid>0a4cd49b-aa98-421d-bebb-4cc8210feed5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

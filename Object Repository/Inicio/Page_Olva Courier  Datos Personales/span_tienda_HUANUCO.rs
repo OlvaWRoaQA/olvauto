@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_tienda_HUANUCO</name>
+   <tag></tag>
+   <elementGuidId>2a74726b-4527-4e8e-b78b-802f35761f4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='text'][contains(.,'OPERACIONES HUANUCO - HUANUCO - JR DAMASO BERAUN NRO 999 HUANUCO')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec9fca96-52a8-4ade-867c-fb397b5b179b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a75da58e-ba7b-4f66-90e2-bea5814c89a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OLVA SURCO - AV. EL POLO 108 - SANTIAGO DE SURCO - AV EL POLO NRO 108 </value>
+      <webElementGuid>f496445b-d113-477d-81ec-76d717c91c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_tienda&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-12 col-xs-12 cls_element_item espacio_vista_xs_2 m-code&quot;]/div[@class=&quot;col-md-8 col-sm-12 col-xs-12&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[3]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>be2d31ff-5a9e-4826-8b4b-8e175bb5b03a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>8b7a1b7b-244a-4270-bff3-039daeb3ad28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/following::span[4]</value>
+      <webElementGuid>08c7a166-465d-40a4-a45c-175ce614ea25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/following::span[6]</value>
+      <webElementGuid>6ae84265-0109-412d-bc8e-e700a1b789a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué es esto?'])[1]/preceding::span[2]</value>
+      <webElementGuid>5e26313f-eb2a-4d19-91ee-e8e9dc0c94af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>24fcf520-e2af-4b4d-a0ad-680350061e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OLVA SURCO - AV. EL POLO 108 - SANTIAGO DE SURCO - AV EL POLO NRO 108 ' or . = 'OLVA SURCO - AV. EL POLO 108 - SANTIAGO DE SURCO - AV EL POLO NRO 108 ')]</value>
+      <webElementGuid>7f134551-2cb3-4efe-b133-cd8be7e33d54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

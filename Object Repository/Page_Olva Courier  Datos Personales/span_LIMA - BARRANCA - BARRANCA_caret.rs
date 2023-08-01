@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_LIMA - BARRANCA - BARRANCA_caret</name>
+   <tag></tag>
+   <elementGuidId>6e70a1fd-7134-43e1-b99c-a45ea7046d03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-7.cls_element_item.espacio_vista_xs_2.ver_si_dir > div.btn-group.bootstrap-select.form-control > button.btn.dropdown-toggle.form-control.selectpicker.btn-default > span.caret</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso1']/div[5]/div[2]/div[4]/div/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da7ad8b0-9c69-408e-bd1d-7029d64bd917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+      <webElementGuid>9eb061df-2045-48ae-9d0f-33d8153069e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[5]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_dir&quot;]/div[@class=&quot;btn-group bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;caret&quot;]</value>
+      <webElementGuid>23c9857d-bf6a-4a64-b428-b0418347b673</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[5]/div[2]/div[4]/div/button/span[2]</value>
+      <webElementGuid>dd7ceba9-9a15-4d97-bb15-8f1bae005ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/span[2]</value>
+      <webElementGuid>e667757e-8167-433e-890c-5095443a7715</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Grabar - imagenes</name>
+   <tag></tag>
+   <elementGuidId>54b43bbb-dff2-4619-9177-ea0a62efc80a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[contains(.,'Grabar')])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8ba8fd1e-249c-4385-aafd-b85f23a6f620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>5e6e85a9-033b-42a4-984b-2898cd9204cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grabar</value>
+      <webElementGuid>bed97e2f-dc6d-4055-b205-8d0c1201adeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmNewEnvio:btnGrabarEnvio&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>dad29b99-b045-4291-a2cf-c2c05b0be548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/despacho/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal</value>
+      <webElementGuid>635400bd-4357-476a-9afa-f70a4f4c5957</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmNewEnvio:btnGrabarEnvio']/span[2]</value>
+      <webElementGuid>4b29f607-bded-4250-a95e-b496a79e5f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cambiar precio'])[1]/following::span[2]</value>
+      <webElementGuid>13b2face-214b-4b2c-ad9c-a9d76ef3e7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/.9.00'])[1]/following::span[4]</value>
+      <webElementGuid>65616dc2-ef5b-42ad-8363-aaca1953094e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[1]/preceding::span[2]</value>
+      <webElementGuid>09178c08-4723-4e71-8896-db16ae1910b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[2]/preceding::span[4]</value>
+      <webElementGuid>3392ab44-7508-45ae-a834-54c24d4c80cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Grabar']/parent::*</value>
+      <webElementGuid>2daf46b1-fac5-431f-8ef9-24b785fd4d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/form/div/div/div/div/button[2]/span[2]</value>
+      <webElementGuid>f14f8ffb-4b48-4ec6-a739-584b7d4b7702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Grabar' or . = 'Grabar')]</value>
+      <webElementGuid>bdb68e19-297f-4972-9e0a-469940104cd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

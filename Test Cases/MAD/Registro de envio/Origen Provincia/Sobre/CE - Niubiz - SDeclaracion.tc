@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CE - Niubiz - SDeclaracion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afed2ed9-d6dc-4af9-b6f2-763517b30c40</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79bd47f1-5829-4398-b7a3-349c2cb40a78</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>79bd47f1-5829-4398-b7a3-349c2cb40a78</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

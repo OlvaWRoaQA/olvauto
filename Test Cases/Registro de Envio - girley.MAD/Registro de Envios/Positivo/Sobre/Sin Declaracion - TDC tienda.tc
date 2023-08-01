@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sin Declaracion - TDC tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa598ec4-8ded-4d49-99ff-2cbc3ee1365a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d5f8e53-db69-4ff2-8d74-71d79b692cfe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>0d5f8e53-db69-4ff2-8d74-71d79b692cfe</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

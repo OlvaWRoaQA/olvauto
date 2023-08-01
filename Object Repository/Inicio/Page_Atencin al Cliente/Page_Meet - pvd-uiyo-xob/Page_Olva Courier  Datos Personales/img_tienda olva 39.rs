@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_tienda olva 39</name>
+   <tag></tag>
+   <elementGuidId>bef1f263-c4bb-4acf-9b6b-21a853e93f19</elementGuidId>
+   <imagePath>C:\Users\roasa\OneDrive\Documentos\Olva TI\Interna\QA\Data QA\Pruebas Registro de envio\Screenshot_4.jpg</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(.,'Dirección de Entrega')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/marker-olva.png' and @alt = 'Marker' and @ref_element = 'Object Repository/Inicio/Page_Atencin al Cliente/Page_Meet - pvd-uiyo-xob/Page_Olva Courier  Datos Personales/iframe_Cerrar_iframe_response']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\Users\roasa\OneDrive\Documentos\Olva TI\Interna\QA\Data QA\Pruebas Registro de envio\Screenshot_4.jpg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>58b6af5d-8192-44aa-b1ae-397d4f82be79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/marker-olva.png</value>
+      <webElementGuid>64161f41-86ef-4301-b179-ec73715bc970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leaflet-marker-icon leaflet-zoom-hide leaflet-interactive</value>
+      <webElementGuid>ead0c43c-035c-4dd0-8b89-e5536452c324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Marker</value>
+      <webElementGuid>6dd6e160-7f8c-4a2b-a57b-79fd81957767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>73277861-4d6e-4052-bb74-c4e6679fbd41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bd23f6a3-5845-4d9c-ae20-8dd7e9e9140d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__530387___BV___&quot;)/div[1]/div[@class=&quot;map rounded leaflet-container leaflet-touch leaflet-grab leaflet-touch-drag leaflet-touch-zoom&quot;]/div[@class=&quot;leaflet-pane leaflet-map-pane&quot;]/div[@class=&quot;leaflet-pane leaflet-marker-pane leaflet-zoom-hide&quot;]/img[@class=&quot;leaflet-marker-icon leaflet-zoom-hide leaflet-interactive&quot;]</value>
+      <webElementGuid>8f69f005-c118-4cbe-8b2d-d52580d66d46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__530387___BV___']/div/div/div/div[4]/img[9]</value>
+      <webElementGuid>370ea219-3893-41fb-baa4-4db8f2191aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Marker'])[9]</value>
+      <webElementGuid>f0c4bf5b-742a-46ef-a131-2467ebb4eb03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/img[9]</value>
+      <webElementGuid>4c07a8ce-3116-44dd-bc7b-a8c0b7988d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/marker-olva.png' and @alt = 'Marker']</value>
+      <webElementGuid>78da558b-da72-49ca-8ee0-58fa5ebf70cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

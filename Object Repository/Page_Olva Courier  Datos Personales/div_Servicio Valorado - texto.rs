@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Servicio Valorado - texto</name>
+   <tag></tag>
+   <elementGuidId>1a0870ec-cf8a-4104-9c8a-6382056f0ed3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'descripcionServicio')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tituloServicio</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dfdb1031-3fc0-4867-a512-6e4b2b98ae16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tituloServicio</value>
+      <webElementGuid>5157a7a5-899c-4a3b-a14d-9c57146d9e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Servicio Valorado</value>
+      <webElementGuid>a20b9712-5c2e-411b-bdc6-155c9730d3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-html-container&quot;)/div[@class=&quot;tituloServicio&quot;]</value>
+      <webElementGuid>51b980bc-b967-4480-974c-7c470c29e30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Olva Courier  Datos Personales/ifra</value>
+      <webElementGuid>3f475eec-4b4e-4548-9d22-4dd905311881</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='swal2-html-container']/div</value>
+      <webElementGuid>b5971477-2ed3-4cbb-9076-f0baeb8abc27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[3]</value>
+      <webElementGuid>efecf9c0-dacd-44f5-8428-e153ed526c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'swal2-html-container', '&quot;', ')/div[@class=', '&quot;', 'tituloServicio', '&quot;', ']')])[1]/following::div[5]</value>
+      <webElementGuid>f61fe25c-cbcb-4e20-a669-4aaa5ae641c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ir a dirección entrega'])[1]/preceding::div[6]</value>
+      <webElementGuid>428a67e3-a0ed-41fc-a617-f7ead620e496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[6]</value>
+      <webElementGuid>031cd024-22d3-4f2d-bdfd-f79aa2110eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Servicio Valorado']/parent::*</value>
+      <webElementGuid>7b40518e-42c9-4448-816d-07208ee33336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>bae8e977-825e-44ba-80a7-fc3dba67ec3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Servicio Valorado' or . = 'Servicio Valorado')]</value>
+      <webElementGuid>adc4e267-17b9-464e-8aa4-57ecb4f3d62e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

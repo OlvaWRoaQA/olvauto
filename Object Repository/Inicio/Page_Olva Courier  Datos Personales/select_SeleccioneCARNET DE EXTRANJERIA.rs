@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SeleccioneCARNET DE EXTRANJERIA</name>
+   <tag></tag>
+   <elementGuidId>a666dd52-1a3f-4c76-b905-88c7ad2f1cc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'cbo_tipo_documento' and (text() = 'SeleccioneDNIRUCCARNET DE EXTRANJERIA' or . = 'SeleccioneDNIRUCCARNET DE EXTRANJERIA')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;cbo_tipo_documento&quot;]/option[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cbo_tipo_documento</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>90b0b2f5-b503-4dac-a5fc-2ef56ecffa44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cbo_tipo_documento</value>
+      <webElementGuid>4637ea6d-2b4c-47c5-aa14-e3ea945e709f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>8a8ee685-40c8-45c6-a20c-cb9d9626c4d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SeleccioneDNIRUCCARNET DE EXTRANJERIA</value>
+      <webElementGuid>5c386c8c-27df-4a56-acd6-2fdcc7f72c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbo_tipo_documento&quot;)</value>
+      <webElementGuid>75df854a-5184-4da3-ad26-559784517fb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cbo_tipo_documento']</value>
+      <webElementGuid>8209a238-6840-4669-8307-e589b0e159da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cambioColor']/select</value>
+      <webElementGuid>51ce94f8-7a37-41fb-8bb3-bb80486f94a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Documento'])[1]/following::select[1]</value>
+      <webElementGuid>bef2ebd3-3224-49e5-b89c-646090a4459a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JURIDICO'])[2]/following::select[1]</value>
+      <webElementGuid>b40b2202-9233-446b-8e69-99138d40badd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Num. Doc.'])[1]/preceding::select[1]</value>
+      <webElementGuid>49ae36a4-ca55-45c5-a65d-8cefb82d0986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apellidos'])[1]/preceding::select[1]</value>
+      <webElementGuid>582aed1d-7746-420c-92bc-59ef87a2ecdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]/div/select</value>
+      <webElementGuid>5f263861-8c3e-4f3e-9125-704ef99baf47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'cbo_tipo_documento' and (text() = 'SeleccioneDNIRUCCARNET DE EXTRANJERIA' or . = 'SeleccioneDNIRUCCARNET DE EXTRANJERIA')]</value>
+      <webElementGuid>767a2598-7814-4ceb-9527-ff0619629bfe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

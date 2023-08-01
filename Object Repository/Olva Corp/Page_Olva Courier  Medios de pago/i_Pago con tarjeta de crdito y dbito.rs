@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pago con tarjeta de crdito y dbito</name>
+   <tag></tag>
+   <elementGuidId>1f65afff-e04f-42ff-9890-77ca534f7dcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pago2 > div.col-md-12 > i.fa.fa-circle-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pago1&quot;]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6d82e1dc-cef6-4911-8a75-16c8cb723eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-circle-o</value>
+      <webElementGuid>d70af47c-c348-4461-8c06-8df410ab66b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pago2&quot;)/div[@class=&quot;col-md-12&quot;]/i[@class=&quot;fa fa-circle-o&quot;]</value>
+      <webElementGuid>a0cc1f1b-b137-45fe-a5ca-37fda0a4ae27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pago2']/div/i</value>
+      <webElementGuid>5874646c-c214-4383-962b-395c9a281f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/i</value>
+      <webElementGuid>67497959-4d6b-4a72-a7df-453903fce2bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

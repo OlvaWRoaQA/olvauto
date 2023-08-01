@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Entrega en Tienda_dropdown icon (2)</name>
+   <tag></tag>
+   <elementGuidId>1ea21a61-f575-44ba-a90a-020bc1aa62f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__BVID__47 > div.bv-no-focus-ring > div.ui.fluid.search.selection.dropdown > i.dropdown.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__47']/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6a869cc0-59b3-4677-83e2-d60d93844ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown icon</value>
+      <webElementGuid>78e0e29b-b0fa-4c88-a44a-ad87b836d67e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__47&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;ui fluid search selection dropdown&quot;]/i[@class=&quot;dropdown icon&quot;]</value>
+      <webElementGuid>4a5e63f9-f12c-4b6b-8ece-89d54987facb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__47']/div/div/i</value>
+      <webElementGuid>11f0b35a-b1a6-4fa5-ab8b-5a185bd7b430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/fieldset/div/div/i</value>
+      <webElementGuid>a62bde16-ac83-439f-9d63-4e50d9e26fe6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

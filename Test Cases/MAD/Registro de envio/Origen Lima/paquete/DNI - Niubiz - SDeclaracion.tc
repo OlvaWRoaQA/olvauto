@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DNI - Niubiz - SDeclaracion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6dc53b9c-c02b-4b8c-bc73-94db961e0de5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>61490b15-c357-46e8-ad01-ec8fc28497f7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>61490b15-c357-46e8-ad01-ec8fc28497f7</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

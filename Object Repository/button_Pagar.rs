@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pagar</name>
+   <tag></tag>
+   <elementGuidId>438e7515-a29c-454b-8f9f-7affb06a574e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-control.btn.btn-submit.btn-success.btn-block.btn-pay.j-secure-form-submit.btn-decorator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a1df8a4a-5987-4433-8bee-c0f522298d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-control btn btn-submit btn-success btn-block btn-pay j-secure-form-submit btn-decorator</value>
+      <webElementGuid>0d6ee40b-30a6-4f62-83f7-f54a5cbb7a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1958268e-ca33-482f-94ca-b010f59294c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pagar S/ 5.42</value>
+      <webElementGuid>37c4399e-b218-42b9-9343-9a10170ff7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;modal-holder j-secure-modal&quot;]/form[@class=&quot;sky-form secure-form center show&quot;]/div[@class=&quot;form&quot;]/div[@class=&quot;form-groupnoborder btn-holder&quot;]/button[@class=&quot;btn-control btn btn-submit btn-success btn-block btn-pay j-secure-form-submit btn-decorator&quot;]</value>
+      <webElementGuid>7fa9b81c-0f34-43ae-95a9-86eeb77c6f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Volver_visaNetJS</value>
+      <webElementGuid>adb3742d-6658-456a-a73a-1df18b491d77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>c444570d-4dfd-49e5-bde7-93ae1357c9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regístrate a:'])[1]/following::button[1]</value>
+      <webElementGuid>5b0df01e-0ade-47ea-be92-9c42cf0f1abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paga más rápido y fácil!'])[1]/following::button[1]</value>
+      <webElementGuid>48723468-2bf1-4b79-826f-cf39cd91f8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuar'])[2]/preceding::button[1]</value>
+      <webElementGuid>6d9d6db9-2e44-4b42-9408-6feaca8b8495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regresar'])[1]/preceding::button[2]</value>
+      <webElementGuid>9f30bcdf-27fb-432f-9d6f-736f6c83a004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pagar S/ 5.42']/parent::*</value>
+      <webElementGuid>2ce040c8-9b7f-4f69-9787-03e686379999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/button</value>
+      <webElementGuid>fd9d94bb-b88f-4ab1-b86a-d5215e2a6814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Pagar S/ 5.42' or . = 'Pagar S/ 5.42')]</value>
+      <webElementGuid>fc3a5b1e-3af7-4871-966c-e433ae1c32a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

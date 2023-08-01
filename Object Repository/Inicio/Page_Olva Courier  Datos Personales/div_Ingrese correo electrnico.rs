@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ingrese correo electrnico</name>
+   <tag></tag>
+   <elementGuidId>09f531ca-c1ca-4c35-b709-90e80ca5db15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(.,'Ingrese correo electrónico')])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e9e8da1-3661-4562-84e3-4b8b2eafc07f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_email_cliente_msg</value>
+      <webElementGuid>49601dc9-b85c-48ec-9186-a3ac00abe0a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>0b00028b-ff55-42b4-b5e0-827bb940fa5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingrese correo electrónico</value>
+      <webElementGuid>64952b7c-10e7-4342-bdc3-224b1b252fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;quien_envia&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5 cls_element_item&quot;]/div[@id=&quot;txt_email_cliente_msg&quot;]</value>
+      <webElementGuid>3b6b0e0e-7095-4570-b5ae-3dbdca56abcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='txt_email_cliente_msg'])[2]</value>
+      <webElementGuid>eeaadad5-7bca-46cd-96de-ae79aeac5591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quien_envia']/div[3]/div[3]/div[2]</value>
+      <webElementGuid>fe72bfd7-f2dc-490d-9334-3a4efe267549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese formato correo electrónico'])[1]/following::div[1]</value>
+      <webElementGuid>34a52939-6552-42a0-878a-6876d0cda729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola,'])[1]/following::div[3]</value>
+      <webElementGuid>289aae98-7905-4004-a35b-6521f6e2aeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona origen de tu envío'])[1]/preceding::div[3]</value>
+      <webElementGuid>f0dcbfbc-a63a-485e-8825-fe7823c53388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departamento - Provincia - Distrito'])[2]/preceding::div[7]</value>
+      <webElementGuid>cb27d046-f337-4267-8568-ef1db95733b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingrese correo electrónico']/parent::*</value>
+      <webElementGuid>9d550a13-12ff-4a19-9603-7380a1e219d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[2]</value>
+      <webElementGuid>bc783e21-1781-4e74-a2fd-aeb32fb35e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_email_cliente_msg' and (text() = 'Ingrese correo electrónico' or . = 'Ingrese correo electrónico')]</value>
+      <webElementGuid>69cbd949-1061-43a5-8dd9-bea5b78bc3bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

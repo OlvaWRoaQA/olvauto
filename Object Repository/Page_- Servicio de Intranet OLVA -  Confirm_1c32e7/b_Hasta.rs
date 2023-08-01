@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Hasta</name>
+   <tag></tag>
+   <elementGuidId>439dabeb-6714-4152-9992-2e0f803ebe88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Regresar a P�gina Principal'])[1]/following::b[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>0d10766e-2c36-469d-ba3d-b36183907ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasta : </value>
+      <webElementGuid>c1edef8a-ff73-4b7b-80b5-3540c3ba7b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/form[1]/table[@class=&quot;simple_text&quot;]/tbody[1]/tr[1]/td[3]/b[1]</value>
+      <webElementGuid>009c3877-954d-411b-91bf-deb5cde59fe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regresar a P�gina Principal'])[1]/following::b[2]</value>
+      <webElementGuid>e9fb09e0-5a82-4b8b-8a09-6849d07e6777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/b</value>
+      <webElementGuid>f0e607d0-081e-4e53-9f4b-e09030f95e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Hasta : ' or . = 'Hasta : ')]</value>
+      <webElementGuid>f2f3c0ff-dfa1-41e7-b158-89088d8f9983</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

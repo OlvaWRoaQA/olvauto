@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Completa los espacios para conocer tus _746101</name>
+   <tag></tag>
+   <elementGuidId>b8bea04a-b342-4148-95ea-e8655092434f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='default']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>835fce22-4466-4603-b974-27059f31bf1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>ff48df1b-e5bd-4d05-ae22-f03859e068f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>default-view active</value>
+      <webElementGuid>e7918bbf-8f8d-470e-b142-bd32c3cffec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    Completa los espacios para conocer tus Puntos o Millas disponibles     Recuerda activar las compras por internetcon tu banco              Scotiabank: Revisa el limite de consumo diario en tu app Scotiabank: Check the daily consumption limit in your app                                      DNICarnet de extranjeríaPasaporte                            Dirección de facturación de la tarjeta:                    Divide tu compra con           Sin cuotas1 cuota2 cuotas3 cuotas4 cuotas                                                                                  </value>
+      <webElementGuid>f4b471fc-e795-4f7c-a3af-88a08583ef01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;default&quot;)</value>
+      <webElementGuid>ea535d8a-5219-4c46-8ac1-8c81c9ef8783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Volver_visaNetJS</value>
+      <webElementGuid>f7581b2c-83af-49e2-b0ee-ff28e484d84e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='default']</value>
+      <webElementGuid>b7d75e81-9fb0-40da-8ef2-5667a47c802e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Encuéntralo en el menú de Yape'])[1]/following::div[2]</value>
+      <webElementGuid>cba042de-2c14-4271-aece-11a737ad8f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código de aprobación'])[1]/following::div[18]</value>
+      <webElementGuid>f37fd40c-aa6b-46e8-a2e7-a92099e8eb49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]</value>
+      <webElementGuid>bd639b5d-ba9f-4818-abb4-edef2fa32474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'default' and (text() = '    Completa los espacios para conocer tus Puntos o Millas disponibles     Recuerda activar las compras por internetcon tu banco              Scotiabank: Revisa el limite de consumo diario en tu app Scotiabank: Check the daily consumption limit in your app                                      DNICarnet de extranjeríaPasaporte                            Dirección de facturación de la tarjeta:                    Divide tu compra con           Sin cuotas1 cuota2 cuotas3 cuotas4 cuotas                                                                                  ' or . = '    Completa los espacios para conocer tus Puntos o Millas disponibles     Recuerda activar las compras por internetcon tu banco              Scotiabank: Revisa el limite de consumo diario en tu app Scotiabank: Check the daily consumption limit in your app                                      DNICarnet de extranjeríaPasaporte                            Dirección de facturación de la tarjeta:                    Divide tu compra con           Sin cuotas1 cuota2 cuotas3 cuotas4 cuotas                                                                                  ')]</value>
+      <webElementGuid>1add97cc-e242-462d-8670-be3b029bd505</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

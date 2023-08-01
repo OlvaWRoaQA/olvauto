@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pago Diferencia - Niubiz</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00ed2684-a6a1-425f-94c0-aad13cf643a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0760cc04-f2ca-407e-b8d1-1dfa19245fb5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'link'</defaultValue>
+      <description></description>
+      <id>0760cc04-f2ca-407e-b8d1-1dfa19245fb5</id>
+      <masked>false</masked>
+      <name>link</name>
+   </variable>
+</TestCaseEntity>

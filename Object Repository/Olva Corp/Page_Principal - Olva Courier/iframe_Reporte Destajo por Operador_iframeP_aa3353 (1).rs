@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Reporte Destajo por Operador_iframeP_aa3353 (1)</name>
+   <tag></tag>
+   <elementGuidId>79c908d1-9ce4-473e-94da-b794b03f441d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class,'ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>591da47f-9ff8-4312-8b98-365a6d607728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iframePrincipal</value>
+      <webElementGuid>4638de20-cc31-4aef-8964-7177316d2a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget ui-widget-content ui-corner-all iframeLayoutCenter</value>
+      <webElementGuid>66feed49-c7d3-49b6-bf1d-4430d1ccddfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/OlvaERP-Maestro-web/distribucion/liquidacion/frmLiquidacion.xhtml?nodeTree=Liquidación&amp;codeTree=040602&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY2MDI2Nzg3MCwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiN2FmYTBkZmMtNGM5Mi00ZWFmLTlkNGUtNDdhMTIwNmIzOTEwIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.YXQYH9rN5CepETNKOmMAY4OD-qlIkzQSn8WyW9Cmjvc</value>
+      <webElementGuid>1aae645d-97e3-42f0-98d9-d66fa241d024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iframePrincipal&quot;)</value>
+      <webElementGuid>63d4cb43-2bc2-4329-bfa1-8506e5f493ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@id='iframePrincipal']</value>
+      <webElementGuid>85ae8ac9-8ec9-4b98-a009-822ed83d5efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:centerContentPanel']/iframe</value>
+      <webElementGuid>ec13c2e3-b787-40b9-a0c6-b465504dcbf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>623d20d0-6a70-4737-8a16-71287d323e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@id = 'iframePrincipal' and @src = '/OlvaERP-Maestro-web/distribucion/liquidacion/frmLiquidacion.xhtml?nodeTree=Liquidación&amp;codeTree=040602&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY2MDI2Nzg3MCwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiN2FmYTBkZmMtNGM5Mi00ZWFmLTlkNGUtNDdhMTIwNmIzOTEwIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.YXQYH9rN5CepETNKOmMAY4OD-qlIkzQSn8WyW9Cmjvc']</value>
+      <webElementGuid>f033cf31-1895-4118-95f6-bb4ea51e0699</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

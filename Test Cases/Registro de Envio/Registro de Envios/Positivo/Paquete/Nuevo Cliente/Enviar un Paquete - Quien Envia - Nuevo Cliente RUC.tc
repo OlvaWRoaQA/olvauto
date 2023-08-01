@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Paquete - Quien Envia - Nuevo Cliente RUC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaddfb05-10fd-477c-88b2-47c3598e37ae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3209041-b7e3-4b2f-bec7-4bef6408d296</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>e3209041-b7e3-4b2f-bec7-4bef6408d296</id>
+      <masked>false</masked>
+      <name>nro_fila</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debe Ingresar Nombre</name>
+   <tag></tag>
+   <elementGuidId>9736adb2-cc2c-41fd-b473-61999a3a69f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_consignado_nombres_msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txt_consignado_nombres_msg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6da5b1f1-63a8-4490-8465-66a122a0113a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_consignado_nombres_msg</value>
+      <webElementGuid>f3a31ca2-1440-4bfe-ad7b-07a84eebdc0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>ba266360-feaa-4e3d-91bf-dbc4cf248680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Debe Ingresar Nombre</value>
+      <webElementGuid>1a43c2d1-dfbc-4a1e-8b29-42ca00a9b6f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_consignado_nombres_msg&quot;)</value>
+      <webElementGuid>bbe3b430-18ed-4a60-b2b1-0c672791a3eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='txt_consignado_nombres_msg']</value>
+      <webElementGuid>666cd9b6-fbeb-4730-8821-4e68e2e15d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quien_recibe']/div[3]/div[2]/div</value>
+      <webElementGuid>c89c932c-41fc-4b1a-a0ba-899bb0aa85c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe ingresar Número Celular/Teléfono'])[1]/following::div[5]</value>
+      <webElementGuid>98700b10-fd77-4524-a039-3f5bf68768c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe Ingresar Número Documento'])[1]/following::div[7]</value>
+      <webElementGuid>1daa5611-e684-476c-b0dc-f7d7e16b70da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/preceding::div[2]</value>
+      <webElementGuid>454e98ee-3541-495e-a5eb-82c54da872ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validación del primer apellido'])[1]/preceding::div[3]</value>
+      <webElementGuid>e1810a50-e7d4-4104-964e-0194ea2dbf4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Debe Ingresar Nombre']/parent::*</value>
+      <webElementGuid>270d486a-e21f-4039-9d88-28c5708f1758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[3]/div[2]/div</value>
+      <webElementGuid>20eb2b95-07c0-4197-abb5-e8201efaf031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_consignado_nombres_msg' and (text() = 'Debe Ingresar Nombre' or . = 'Debe Ingresar Nombre')]</value>
+      <webElementGuid>d87f1acb-97fd-4b48-9b04-14a37c051a8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

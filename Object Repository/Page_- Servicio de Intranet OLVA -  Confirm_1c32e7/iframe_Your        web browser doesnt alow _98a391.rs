@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Your        web browser doesnt alow _98a391</name>
+   <tag></tag>
+   <elementGuidId>ac57d494-ad07-41eb-bbe0-e601a978168c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@name='tema']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe[name=&quot;tema&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>cbafe678-f55f-4541-b095-32e345077fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tema</value>
+      <webElementGuid>f4d909fe-dc0e-47da-9c3b-a4b54a29d852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>2d583acf-fbd9-428a-a369-d4abf85fac87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>framespacing</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b7a5c902-695c-4746-b53d-af51c7c76ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrolling</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>b515bb47-91a0-42e7-a94a-e697e3aba5f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>border</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>91d20289-64b9-4a2f-92fc-9c8f49787d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Your
+        web browser doesn't alow the use of IFRAMEs &lt;!--z-index:5; left: 11px;-->
+</value>
+      <webElementGuid>50779741-ad19-46e0-a4ca-a5e3f01c564c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/iframe[1]</value>
+      <webElementGuid>9cf6a885-7f80-44ed-9aad-3c8e91ca6e79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@name='tema']</value>
+      <webElementGuid>916d6729-530a-4067-940e-a6d8a4215ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descargar Manual'])[1]/following::iframe[1]</value>
+      <webElementGuid>fc1f1392-fdcc-4316-92b2-e39514c5c664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/html[1]/body[1]/iframe[1]'])[1]/preceding::iframe[1]</value>
+      <webElementGuid>2762d852-8add-4277-a35f-c4ec59ba8ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>73c66dd4-45f7-4193-97c6-c7b9cbde48c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@name = 'tema' and (text() = concat(&quot;
+	Your
+        web browser doesn&quot; , &quot;'&quot; , &quot;t alow the use of IFRAMEs &lt;!--z-index:5; left: 11px;-->
+&quot;) or . = concat(&quot;
+	Your
+        web browser doesn&quot; , &quot;'&quot; , &quot;t alow the use of IFRAMEs &lt;!--z-index:5; left: 11px;-->
+&quot;))]</value>
+      <webElementGuid>ef27f7ac-a19f-455a-a85b-c6e7d2603b9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

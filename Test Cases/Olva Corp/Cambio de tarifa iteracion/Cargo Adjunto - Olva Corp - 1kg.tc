@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cargo Adjunto - Olva Corp - 1kg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b48e202-e12c-4baa-86cc-995a04614c7c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44abc284-a6f6-449d-8ed9-5abe65edb32f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino_1'</defaultValue>
+      <description></description>
+      <id>44abc284-a6f6-449d-8ed9-5abe65edb32f</id>
+      <masked>false</masked>
+      <name>Destino</name>
+   </variable>
+</TestCaseEntity>

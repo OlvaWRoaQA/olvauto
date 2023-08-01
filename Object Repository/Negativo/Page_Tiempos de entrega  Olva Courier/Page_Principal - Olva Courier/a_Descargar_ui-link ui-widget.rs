@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Descargar_ui-link ui-widget</name>
+   <tag></tag>
+   <elementGuidId>8dfb5ead-864d-4e2e-acef-13105a263384</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmImagenEntregaInterWs&quot;]/div[1]/ul[2]/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>24aef35b-f879-424e-850d-09f721e66090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#https://olva-ti.nyc3.digitaloceanspaces.com/img/internacional/registro/20221201/e63f9d42.jpg</value>
+      <webElementGuid>fec0cdc5-d98f-4f96-aef6-d484ab009cdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-link ui-widget</value>
+      <webElementGuid>3d5b71b8-3521-42d9-a741-879810604bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>cargarUrlInter('https://olva-ti.nyc3.digitaloceanspaces.com/img/internacional/registro/20221201/e63f9d42.jpg'.replace('//', '*'));</value>
+      <webElementGuid>3add80c5-4d18-4040-95d9-8be52d87ca62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmImagenEntregaInterWs&quot;)/div[@class=&quot;container&quot;]/ul[@class=&quot;menu&quot;]/li[2]/a[@class=&quot;ui-link ui-widget&quot;]</value>
+      <webElementGuid>48684495-a8bb-4e97-91e0-1e82deb437e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Negativo/Page_Tiempos de entrega  Olva Courier/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>889e8638-b2ee-4936-9734-69f843984acb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;cargarUrlInter('https://olva-ti.nyc3.digitaloceanspaces.com/img/internacional/registro/20221201/e63f9d42.jpg'.replace('//', '*'));&quot;]</value>
+      <webElementGuid>b56b775a-b83b-4cf0-bfde-9d69eddac579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmImagenEntregaInterWs']/div/ul[2]/li[2]/a</value>
+      <webElementGuid>e77e885a-585e-40f4-b047-f655c162e74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#https://olva-ti.nyc3.digitaloceanspaces.com/img/internacional/registro/20221201/e63f9d42.jpg')]</value>
+      <webElementGuid>8f0c9936-bcbb-41c2-be91-a18234af1332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]/a</value>
+      <webElementGuid>477eb3cc-6808-46cb-9330-49ebbf6f2ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#https://olva-ti.nyc3.digitaloceanspaces.com/img/internacional/registro/20221201/e63f9d42.jpg']</value>
+      <webElementGuid>f88b22a9-154e-474b-9054-a1fdf1971dc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registro de Envio - Tarifas Iteracion - sin CA - TDC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bd9984c-9d28-4617-aef7-98123f7fabd5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f8c131a-5e1d-40ec-b9f5-1210fec3bcad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino_1'</defaultValue>
+      <description></description>
+      <id>8f8c131a-5e1d-40ec-b9f5-1210fec3bcad</id>
+      <masked>false</masked>
+      <name>Destino</name>
+   </variable>
+</TestCaseEntity>

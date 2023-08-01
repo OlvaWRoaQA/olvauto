@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recepcion Preventa</name>
+   <tag></tag>
+   <elementGuidId>c257e1bc-d8f7-4afe-99ce-d7b0b9bdc8db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='frmPrincipal:tree:0_0_10:lblNode']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c7b62bc-b95c-45ee-a974-cfc483fb6641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmPrincipal:tree:0_0_10:lblNode</value>
+      <webElementGuid>43d660d9-bd17-4285-b64a-aa4e1e11e912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Recepcion Preventa</value>
+      <webElementGuid>e9a5c295-6755-4f4e-bafa-b639617bb7da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recepcion Preventa</value>
+      <webElementGuid>633c6df5-4413-4500-9598-9323f82cf02c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:tree:0_0_10:lblNode&quot;)</value>
+      <webElementGuid>b26b74cd-f62d-4041-a7bb-6d8bc7528f31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:tree:0_0_10:lblNode']</value>
+      <webElementGuid>e26af6cc-9c94-45fc-98b8-e6f662b4166c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='frmPrincipal:tree:0_0_10']/span/span[3]/span</value>
+      <webElementGuid>b16f35be-23c1-41f7-ba19-ea5b72835699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consulta de Comprobantes'])[1]/following::span[5]</value>
+      <webElementGuid>9625d64d-249b-46f2-b29d-89c6245cc3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diversa emisión'])[1]/following::span[10]</value>
+      <webElementGuid>ad4ab196-2d83-4802-a127-31ad477a846c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporte Pre-Ventas'])[1]/preceding::span[3]</value>
+      <webElementGuid>92306a94-9d71-49a9-9ec6-2cfba4d48405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporte Diferencias'])[1]/preceding::span[8]</value>
+      <webElementGuid>d79d5329-f842-4836-abd9-7fe9a0295e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recepcion Preventa']/parent::*</value>
+      <webElementGuid>d8bbe232-72e4-49f4-949a-e163fee1a004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/span/span[3]/span</value>
+      <webElementGuid>a33c33d9-8f7d-41eb-8fe1-b4ee0a8bef98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'frmPrincipal:tree:0_0_10:lblNode' and @title = 'Recepcion Preventa' and (text() = 'Recepcion Preventa' or . = 'Recepcion Preventa')]</value>
+      <webElementGuid>ef5ce642-5feb-424c-bcfc-c2cacd605ef9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_El campo Peso no puede ser mayor a 25kg</name>
+   <tag></tag>
+   <elementGuidId>32e77ca4-f1ff-4202-8c9b-4afaae717702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(.,'El peso no puede exceder los 25 Kgs.')])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#div_paquete_peso_msg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac8b2f68-56fd-4b40-bb06-8345b1100765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>div_paquete_peso_msg</value>
+      <webElementGuid>92a1a43f-7fa1-452f-b925-08a9fc71af5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>3a0d411d-d8a8-4183-9934-c75ab8d9773b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El campo Peso no puede ser menor a uno</value>
+      <webElementGuid>4b32ccb4-4f89-4882-a36b-ba8935014dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_paquete_peso_msg&quot;)</value>
+      <webElementGuid>aa3a08e9-bb5d-4b39-b8f6-04aef86a352d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='div_paquete_peso_msg']</value>
+      <webElementGuid>137f99ed-d1af-4e8b-85cd-3dacc9627a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='que_envias']/div[3]/div[5]/div[2]</value>
+      <webElementGuid>ac26c990-ad14-456b-8d87-b1dc5d878828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kg'])[1]/following::div[1]</value>
+      <webElementGuid>1c77e303-7f7b-484f-aadb-c9e02127f117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[3]/following::div[4]</value>
+      <webElementGuid>dd08ba54-239f-4a37-a616-4deb232742ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de entrega'])[2]/preceding::div[7]</value>
+      <webElementGuid>8dfccdb2-0885-4dd2-aa7b-15af4bdf1067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El campo Peso no puede ser menor a uno']/parent::*</value>
+      <webElementGuid>376e5323-2f68-484b-a30b-752bf97d10c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[5]/div[2]</value>
+      <webElementGuid>5c666750-8ae9-4827-b28a-fc62c7ee88ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'div_paquete_peso_msg' and (text() = 'El campo Peso no puede ser menor a uno' or . = 'El campo Peso no puede ser menor a uno')]</value>
+      <webElementGuid>b5c35f2c-2c50-402b-9364-52047f7b8332</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

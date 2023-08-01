@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(Ver ms)</name>
+   <tag></tag>
+   <elementGuidId>8e664a8b-6f8e-4508-843d-1c2dea7dfcd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myModal']/div/div/div[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3bbc91f0-b7f5-4a17-a015-2ca2581c9673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.olvacourier.com/productos-considerados-mercancia-peligrosa/</value>
+      <webElementGuid>fcbf5e7d-0626-496e-ab49-007458a8b170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Ver más)</value>
+      <webElementGuid>0c0ead32-2e07-47cc-8fd6-f465065c0e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myModal&quot;)/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>0a750c16-c95f-4b10-a1ee-f90475178233</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myModal']/div/div/div[2]/ul/li[2]/a</value>
+      <webElementGuid>ad5120d5-4660-4ce5-b352-5900cec5db5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'(Ver más)')]</value>
+      <webElementGuid>08cdbaf5-4b1b-4a68-ac03-e27351faa600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No se admiten joyas, armas de fuego, artículos de cómputo, vales de consumo y seres vivos.'])[1]/following::a[1]</value>
+      <webElementGuid>5050eab5-453d-4001-a175-3f6594839978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restricciones del servicio'])[1]/following::a[1]</value>
+      <webElementGuid>ffca61cd-bde8-448f-aa1b-deaf60211da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Los traslados de los productos son en condiciones y temperaturas normales.'])[1]/preceding::a[1]</value>
+      <webElementGuid>1b2bd5bd-fcab-4417-b9b3-380a66aee436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Políticas de entrega'])[1]/preceding::a[1]</value>
+      <webElementGuid>297ae735-b233-4a86-abb1-d2037ad97535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(Ver más)']/parent::*</value>
+      <webElementGuid>4d0fe791-e6c2-41ee-b2b3-26ff01fac590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.olvacourier.com/productos-considerados-mercancia-peligrosa/')]</value>
+      <webElementGuid>2b3aee21-4a3e-4436-9cc0-38fb1cc1740a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>31c4bf04-539a-4245-b355-df89d175dc6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.olvacourier.com/productos-considerados-mercancia-peligrosa/' and (text() = '(Ver más)' or . = '(Ver más)')]</value>
+      <webElementGuid>eae720eb-01cc-43c7-a90b-402abb690304</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_COMAS - COMAS - COMAS</name>
+   <tag></tag>
+   <elementGuidId>1e54bcf9-212c-4b34-8387-9f1145e1c6f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[contains(.,'COMAS')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d9d25441-536a-4302-8e25-b4cb2d7946f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>081b7040-da52-4ef6-b5a7-f4931d52dd56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            HUANUCO
+                        </value>
+      <webElementGuid>28a6ccd1-eeb1-42a9-917b-08dbf8f138d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmUbigeoDestino:ubigeoCoincidenciasTbl_data&quot;)/tr[@class=&quot;ui-widget-content ui-datatable-even&quot;]/td[3]</value>
+      <webElementGuid>9daceb93-d8e2-407b-b502-c8dc94023fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/despacho/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>63d670dd-2a12-465d-bbfa-ecd68363712f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='frmUbigeoDestino:ubigeoCoincidenciasTbl_data']/tr/td[3]</value>
+      <webElementGuid>3e3affa4-d12c-450b-92e7-51cb6675c140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUANUCO'])[5]/following::td[1]</value>
+      <webElementGuid>52528a16-823b-4097-b0a3-3f2d70581d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País'])[6]/following::td[3]</value>
+      <webElementGuid>d9b5b9b6-b607-419e-9db4-72fa8882c75b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUANUCO'])[7]/preceding::td[1]</value>
+      <webElementGuid>79ed564d-939f-4595-bc9f-4ccfb87681d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUANUCO'])[8]/preceding::td[2]</value>
+      <webElementGuid>e027a9a5-bd12-4c4c-b216-3509aa7d63ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>8c03c434-5f9e-4b13-b459-b058e8d368aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                            HUANUCO
+                        ' or . = '
+                            HUANUCO
+                        ')]</value>
+      <webElementGuid>be0eb24c-c0b1-483c-9d3d-f4b768c60cc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MIRAFLORES - AV. PROGRESO 631 - MIRAFL_fda3fa</name>
+   <tag></tag>
+   <elementGuidId>c6e575f5-5e70-4029-ad93-0f091e8cf264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5256b61a-a834-4005-a83c-af2c51c53b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d8389982-9250-41ab-bb6a-f920860c9f01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MIRAFLORES - AV. PROGRESO 631 - MIRAFLORES - AV PROGRESO NRO 631 </value>
+      <webElementGuid>eb11439b-69d4-4657-b938-d5957fd7a4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_tienda&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-12 col-xs-12 cls_element_item espacio_vista_xs_2 m-code&quot;]/div[@class=&quot;col-md-8 col-sm-12 col-xs-12&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[2]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>ef50b99f-ba30-4df7-9134-740d373cac1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>fd980eef-6cd0-4390-b0ca-11245e008efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/following::span[2]</value>
+      <webElementGuid>b5828ac6-f0c7-4803-b674-fbef1dc1110c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/following::span[4]</value>
+      <webElementGuid>7e331592-bee5-4b97-88b2-e372d332797c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MIRAFLORES - AV. MANUEL MUÑOZ NAJAR 410 - MIRAFLORES - AV MANUEL MUÑOZ NAJAR NRO 410'])[2]/preceding::span[2]</value>
+      <webElementGuid>8ca39548-cff5-4e33-ab68-81fc44d42db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>570a2355-6173-4f02-96a3-36a153703b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MIRAFLORES - AV. PROGRESO 631 - MIRAFLORES - AV PROGRESO NRO 631 ' or . = 'MIRAFLORES - AV. PROGRESO 631 - MIRAFLORES - AV PROGRESO NRO 631 ')]</value>
+      <webElementGuid>66f9ab4d-033f-45b0-87ed-41487990085d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

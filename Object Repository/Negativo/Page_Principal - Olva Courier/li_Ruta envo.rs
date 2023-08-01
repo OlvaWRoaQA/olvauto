@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Ruta envo</name>
+   <tag></tag>
+   <elementGuidId>b99fc68c-ddb0-44a0-9e50-1610b2fd781e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-state-default.ui-corner-top.ui-state-hover.ui-tabs-outline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = 'Ruta envío' or . = 'Ruta envío')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c7d1d76c-8f96-45b6-b22c-6a2940f554e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-state-default ui-corner-top ui-state-hover ui-tabs-outline</value>
+      <webElementGuid>237f54da-5848-4af6-80ac-3d91b1a6872b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>fc7127ea-1656-4fd2-ab63-09614c7dfccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5c181e91-59a8-493d-a72e-3f30db55566a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>561c84d6-9752-4c81-b9c5-e8332e17edf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bd10e8dc-5690-41af-93c5-20b85fa04573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ruta envío</value>
+      <webElementGuid>b08e23e8-36d5-4b83-aa30-282b44b2f088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmConsultaEnvio:panelEnvio&quot;)/ul[@class=&quot;ui-tabs-nav ui-helper-reset ui-widget-header ui-corner-all&quot;]/li[@class=&quot;ui-state-default ui-corner-top ui-state-hover ui-tabs-outline&quot;]</value>
+      <webElementGuid>88706186-d426-4305-a79c-1c39d64dbd03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/despacho/Page_Principal - Olva Courier/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal</value>
+      <webElementGuid>799b37d4-2626-4191-a5e6-20d0e44ad2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Negativo/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal</value>
+      <webElementGuid>a9cf685e-7ef8-4d8e-9825-a9aba3b4a77d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmConsultaEnvio:panelEnvio']/ul/li[7]</value>
+      <webElementGuid>72ef054a-4762-45f4-a455-4f1969529ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internacional'])[1]/following::li[1]</value>
+      <webElementGuid>e7e2ce5d-1330-41df-a73b-fad35fe29b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recepción Envío'])[1]/following::li[2]</value>
+      <webElementGuid>8ad121e2-344f-4491-9695-80767ddf50ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalle de envío: 22 - 6875'])[1]/preceding::li[1]</value>
+      <webElementGuid>e814a3bf-e90f-4b9b-8b7d-3321bf71da7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]</value>
+      <webElementGuid>91e7b46d-18db-4b26-8642-0f6c8567d2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Ruta envío' or . = 'Ruta envío')]</value>
+      <webElementGuid>cc445624-40d6-48f9-ae28-be7d354deaed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Provincia - Departamento - Distrito_f_0bcffb</name>
+   <tag></tag>
+   <elementGuidId>ba07df8c-d937-4884-b825-573544d78d9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_tienda&quot;]/div[@class=&quot;btn-group bootstrap-select form-control open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/div[@class=&quot;bs-searchbox&quot;]/input[@class=&quot;form-control&quot;][count(. | //*[@type = 'text']) = count(//*[@type = 'text'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;div_cbo_tienda_prov&quot;]/div/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-group.bootstrap-select.form-control.open > div.dropdown-menu.open > div.bs-searchbox > input.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>30b1509d-eccd-4c31-8b8f-7b998c905954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>45d4095e-71e6-4154-9c54-791a7388973c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>38556083-5b25-4c68-bc5c-df52e0493d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>30c79bee-26c4-4990-b0e6-368031051697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_tienda&quot;]/div[@class=&quot;btn-group bootstrap-select form-control open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/div[@class=&quot;bs-searchbox&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>9f1508ad-141e-4cde-a8f7-851f7f10c6a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[14]</value>
+      <webElementGuid>bf4851da-b079-4a29-bc0b-b5e1cb1ac2ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adonde_enviamos']/div[2]/div[3]/div/div/div/input</value>
+      <webElementGuid>651fb18c-3226-4b07-8899-18d2b38df98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/input</value>
+      <webElementGuid>899671ca-2979-40b2-a180-bb10e321827a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>39da1601-59f4-4b63-8301-ab2f81735e94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

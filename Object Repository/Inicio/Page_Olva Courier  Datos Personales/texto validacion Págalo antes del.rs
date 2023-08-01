@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>texto validacion Págalo antes del</name>
+   <tag></tag>
+   <elementGuidId>4de21c79-a81d-4010-9a1a-00de7a8ad6d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/div[2]/div/div[1]/div[2]/div/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>194289ac-e5b8-453c-ba00-265ef2aa1052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e2378f1f-8928-4b9c-abcc-9559422e87bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OLVA SURCO - AV. EL POLO 108 - SANTIAGO DE SURCO - AV EL POLO NRO 108 </value>
+      <webElementGuid>470464a2-db7b-4248-a699-4b21644b90fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_tienda&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-12 col-xs-12 cls_element_item espacio_vista_xs_2 m-code&quot;]/div[@class=&quot;col-md-8 col-sm-12 col-xs-12&quot;]/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[3]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>49459035-fc80-4f25-a43d-e2fa85b51e5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>94a28dce-8aaa-4234-bc35-b7b2610132ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/following::span[4]</value>
+      <webElementGuid>e7eca625-e9e8-4410-8242-2136eb44951b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/following::span[6]</value>
+      <webElementGuid>d0b7f7ab-0ae4-40ef-861f-3227d81aebd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué es esto?'])[1]/preceding::span[2]</value>
+      <webElementGuid>1f7adc23-4c08-4882-badc-38e2e2634ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>d2992afd-c3f5-4488-bcf8-c954c9e2200c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OLVA SURCO - AV. EL POLO 108 - SANTIAGO DE SURCO - AV EL POLO NRO 108 ' or . = 'OLVA SURCO - AV. EL POLO 108 - SANTIAGO DE SURCO - AV EL POLO NRO 108 ')]</value>
+      <webElementGuid>41d5d941-8479-4aa9-84f1-c0e3681e4fb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

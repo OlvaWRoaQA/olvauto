@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Formato 909808707  16113000_dropdown icon (1)</name>
+   <tag></tag>
+   <elementGuidId>1b15aa94-8a3e-4f0d-9e7d-df3dac8af4a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-12.col-md-12.col-xl-12 > div.ui.fluid.search.selection.dropdown > i.dropdown.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-form-vue']/div/form/div[4]/div/div/div/div/div[2]/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>266473e3-a4fa-4dec-afc4-f57e1f5a8514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown icon</value>
+      <webElementGuid>760fd327-ecba-4c4a-a75b-7ca305dadcd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-form-vue&quot;)/div[1]/form[@class=&quot;pr-3 vue-form-express&quot;]/div[4]/div[1]/div[1]/div[@class=&quot;card mt-0 mb-0 v-step-7&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-sm-12 col-md-12 col-xl-12&quot;]/div[@class=&quot;ui fluid search selection dropdown&quot;]/i[@class=&quot;dropdown icon&quot;]</value>
+      <webElementGuid>4aa22e45-cc5a-4d44-9443-61a349ff5ed9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-form-vue']/div/form/div[4]/div/div/div/div/div[2]/div/div/i</value>
+      <webElementGuid>7f4f5f33-6894-417e-8306-03aa4f2ab668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/i</value>
+      <webElementGuid>71144ab3-44a0-468f-bb7b-035e4795cfa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

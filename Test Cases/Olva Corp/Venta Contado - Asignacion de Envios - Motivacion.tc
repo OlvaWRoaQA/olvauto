@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Venta Contado - Asignacion de Envios - Motivacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a1786cc-4ff1-4ecb-988d-74929b53228e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1c7a307-5358-43ce-95b2-8d33df3ea734</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nro_tracking'</defaultValue>
+      <description></description>
+      <id>c1c7a307-5358-43ce-95b2-8d33df3ea734</id>
+      <masked>false</masked>
+      <name>nro_tracking1</name>
+   </variable>
+</TestCaseEntity>

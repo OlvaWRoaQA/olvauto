@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Venta Contado Internacional - paquete iteracion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b42c4e34-1d9d-4bba-8934-eac296db1b30</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63e8323a-24f3-4cbd-b2ee-deefd10cd4ca</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9876aa1b-49d8-46fb-875a-92ea9e79cf3f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5b4faa7-5b28-4b70-8555-24b6575adf91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tarifa'</defaultValue>
+      <description></description>
+      <id>63e8323a-24f3-4cbd-b2ee-deefd10cd4ca</id>
+      <masked>false</masked>
+      <name>tarifa_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'peso'</defaultValue>
+      <description></description>
+      <id>9876aa1b-49d8-46fb-875a-92ea9e79cf3f</id>
+      <masked>false</masked>
+      <name>peso_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'destino'</defaultValue>
+      <description></description>
+      <id>a5b4faa7-5b28-4b70-8555-24b6575adf91</id>
+      <masked>false</masked>
+      <name>destino_1</name>
+   </variable>
+</TestCaseEntity>

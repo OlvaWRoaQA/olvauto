@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debe escribir 4 nmeros</name>
+   <tag></tag>
+   <elementGuidId>1c7989f0-fd3e-46c2-a8b8-a002a902e83c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_clave_seguridad_msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txt_clave_seguridad_msg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68c30235-2bd0-4e81-88e3-f260618142d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_clave_seguridad_msg</value>
+      <webElementGuid>742f5533-3088-487c-97ac-878e9f1cb42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>7b93c776-2e1d-4c3f-b3e9-f3d1e00af40a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Debe escribir 4 números</value>
+      <webElementGuid>914580a0-436b-488b-87fd-9569bb0b472e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_clave_seguridad_msg&quot;)</value>
+      <webElementGuid>7a66d2f6-1d0a-4741-9ed2-e15874266288</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='txt_clave_seguridad_msg']</value>
+      <webElementGuid>f94e7cd5-4da6-4896-8331-19bdbab3b0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[7]/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>057b74d2-ec54-4904-9d88-4ccaa3779884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe Seleccionar Tienda'])[1]/following::div[3]</value>
+      <webElementGuid>293f5d5d-1eab-40b7-adf4-90cf343b24de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/following::div[4]</value>
+      <webElementGuid>22fe1142-5faa-450a-bf29-7182a26a8ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Qué es esto?'])[1]/preceding::div[5]</value>
+      <webElementGuid>222a621e-ea44-45e2-9f04-6644826e5eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Debe escribir 4 números']/parent::*</value>
+      <webElementGuid>34df2e15-8f50-443c-a47a-fa639f178d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>6ac58d20-365d-419d-84aa-f469c0fae2b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_clave_seguridad_msg' and (text() = 'Debe escribir 4 números' or . = 'Debe escribir 4 números')]</value>
+      <webElementGuid>ee828e2e-3595-4cda-aa8a-a7b5ce32397e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

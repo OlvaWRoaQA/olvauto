@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Seleccionar_domicilio</name>
+   <tag></tag>
+   <elementGuidId>95704dd7-55bf-44e7-a536-f235d28c3598</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmTipoDestino:dtTipoDestino_data&quot;]/tr[1]/td</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Seleccionar' or . = 'Seleccionar') and @ref_element = 'Object Repository/Olva Corp/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9fd0dba1-e2ce-49f0-9650-321aaa718d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>deedc23d-7624-4b7c-86e0-b034865d3d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccionar</value>
+      <webElementGuid>6402b904-53e5-42b0-b8b8-ffc8eee46f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPCSearch:tblPCSearch:btnSelectCliente&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>1b02ba09-8ef8-4ec1-a53c-3c81cce99a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>c7fc74b8-f47b-4666-a235-138ae8cb3b09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmPCSearch:tblPCSearch:btnSelectCliente']/span[2]</value>
+      <webElementGuid>0e8300d7-317f-4f7f-b864-10266d0d5f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RUC'])[5]/following::span[2]</value>
+      <webElementGuid>969ed41a-e678-4dc3-8950-1f75720eb513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DNI'])[28]/following::span[2]</value>
+      <webElementGuid>bc75b9d5-b3cc-46ba-bb61-d362cedbf786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[3]/preceding::span[2]</value>
+      <webElementGuid>d51b5047-0fff-4687-b2c9-e0bd37007ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear Persona'])[1]/preceding::span[3]</value>
+      <webElementGuid>44e4ae39-99d3-4097-a29a-e803ae1e5bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[4]/button/span[2]</value>
+      <webElementGuid>7c24b6f5-5bdb-4d62-9740-96640a43e862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Seleccionar' or . = 'Seleccionar')]</value>
+      <webElementGuid>531d5817-1803-43ef-a7b3-81ee4328f142</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

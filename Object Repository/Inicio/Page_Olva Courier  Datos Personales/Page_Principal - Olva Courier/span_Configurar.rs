@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Configurar</name>
+   <tag></tag>
+   <elementGuidId>3be8e2b3-ffc1-4608-8c5f-f38341cde46a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='ui-button-text ui-c'][contains(.,'Configurar')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8fa233c-5ff4-4972-8e57-780ec2c1ecfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text ui-c</value>
+      <webElementGuid>b602bcf5-01b0-49d5-9a41-9ae2fb1c5bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configurar</value>
+      <webElementGuid>dc6f1425-c55d-4d78-a9a6-80fff52d03ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmHost:j_idt9&quot;)/span[@class=&quot;ui-button-text ui-c&quot;]</value>
+      <webElementGuid>171759e6-5ce3-4347-b2ae-28808e0985f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/iframe_Precinto_iframePrincipal</value>
+      <webElementGuid>9c5e4704-3417-4b4d-b1ba-25d1df79014b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inicio/Page_Olva Courier  Datos Personales/Page_Principal - Olva Courier/iframe_Precinto_iframePrincipal (1)</value>
+      <webElementGuid>0507767d-e66e-4064-a881-29b186b0f655</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmHost:j_idt9']/span[2]</value>
+      <webElementGuid>1ec64f60-cc46-4929-8f85-fa34a2e4a8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agregar Nuevo'])[1]/following::span[2]</value>
+      <webElementGuid>18523bb9-7169-4691-8a27-1e658ea5cb4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Host'])[1]/following::span[4]</value>
+      <webElementGuid>d2343c6d-c4c9-44f6-9e66-73e2ed1d7257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Busqueda Avanzada'])[1]/preceding::span[1]</value>
+      <webElementGuid>2c8bc891-1121-4676-a119-bc19e05daf66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOMBRE HOST:'])[1]/preceding::span[2]</value>
+      <webElementGuid>efdd2d9f-0c7c-4d3a-b922-25655a314bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Configurar']/parent::*</value>
+      <webElementGuid>8c66dc23-8dd5-483e-981c-f5d411dbc8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[2]</value>
+      <webElementGuid>2c6def83-8380-4b64-8991-8fd025042e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Configurar' or . = 'Configurar')]</value>
+      <webElementGuid>b1d1b4de-4278-4663-977c-f7da7091e9bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

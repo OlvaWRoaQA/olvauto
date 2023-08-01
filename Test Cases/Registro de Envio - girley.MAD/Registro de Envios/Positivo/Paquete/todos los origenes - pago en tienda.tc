@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>todos los origenes - pago en tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>555baff8-dba5-402f-a1dc-2feaae9c0074</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>438e83c5-fd43-47ec-bb90-fd1ef7b3bbdc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Origen'</defaultValue>
+      <description></description>
+      <id>438e83c5-fd43-47ec-bb90-fd1ef7b3bbdc</id>
+      <masked>false</masked>
+      <name>Origen</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Importacin General_iframePrincipal (1)</name>
+   <tag></tag>
+   <elementGuidId>823eeb09-af32-4315-8581-894b69c74ed9</elementGuidId>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>596efcb1-ba0d-4f47-82f5-3f27c68bf3b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iframePrincipal</value>
+      <webElementGuid>5720c35b-0cf3-49ed-ae25-aa6d467423bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget ui-widget-content ui-corner-all iframeLayoutCenter</value>
+      <webElementGuid>f14a3f1e-017c-475d-ae9d-80f5d8ce2245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/OlvaERP-Maestro-web/envio/consultaEnvio.xhtml?nodeTree=Consulta Envio&amp;codeTree=0309&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY2NTgwMTcyMCwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiNjcwOGQwNGQtMmRiNy00Yjk3LThlYWUtNzViNjJjYjJkNjZmIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.k1wdva0VEZqYRSPv74GOFOG3DMIV53kNK53Oo_g_32Y</value>
+      <webElementGuid>2bfdb4f2-3906-4816-a357-90d39884b299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iframePrincipal&quot;)</value>
+      <webElementGuid>d5ae1d13-a1ec-48b5-8817-27a9ed0cc54a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@id='iframePrincipal']</value>
+      <webElementGuid>d0371dd2-2656-4ff1-a638-4e2f6a12bb4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:centerContentPanel']/iframe</value>
+      <webElementGuid>daac123c-fa81-4b77-912d-1d94d9dfc6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>e0852c64-9060-49fd-ae24-6cdde0ef071b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@id = 'iframePrincipal' and @src = '/OlvaERP-Maestro-web/envio/consultaEnvio.xhtml?nodeTree=Consulta Envio&amp;codeTree=0309&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY2NTgwMTcyMCwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiNjcwOGQwNGQtMmRiNy00Yjk3LThlYWUtNzViNjJjYjJkNjZmIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.k1wdva0VEZqYRSPv74GOFOG3DMIV53kNK53Oo_g_32Y']</value>
+      <webElementGuid>2756634b-900b-46b6-8a6b-1d42490d9dcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

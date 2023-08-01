@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aprobado y completado con exito</name>
+   <tag></tag>
+   <elementGuidId>10fdf00c-c124-410c-ba59-462d0c2c5525</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app&quot;]/div[2]/fieldset/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74a2cb56-2c41-4495-aa29-5b87b55c99c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6e361b4f-0778-433e-b68b-090281c815c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UTILES DE OFICINA</value>
+      <webElementGuid>7b8bc218-cf0e-4ea1-8263-7148bda654a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div_articulo&quot;)/div[@class=&quot;btn-group bootstrap-select form-control msg_alert_tt dropup open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner selectpicker&quot;]/li[21]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>c7ac5544-5e58-4b83-a3ac-a343c4c3d07c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_articulo']/div/div/ul/li[21]/a/span</value>
+      <webElementGuid>1cb8fa89-5397-4c2c-9d86-1f92bf347072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UTILES DE ESCRITORIO'])[3]/following::span[2]</value>
+      <webElementGuid>0cf95158-b23d-48ac-9001-c83a1862724a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VALIJA-DOCUMENTOS'])[2]/following::span[4]</value>
+      <webElementGuid>82d33892-a9eb-4655-aaa2-bd430d5f7c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[1]/preceding::span[2]</value>
+      <webElementGuid>8ff2bcd2-20aa-4bc2-9a4d-e015ab5b555e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[2]/preceding::span[3]</value>
+      <webElementGuid>122f59f0-98af-4931-9102-a63d6583db6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/div/ul/li[21]/a/span</value>
+      <webElementGuid>1634d59c-7ba9-411a-9841-6d8b5924a430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'UTILES DE OFICINA' or . = 'UTILES DE OFICINA')]</value>
+      <webElementGuid>fce04187-a7a3-493c-ae7d-5e18a5efbbd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

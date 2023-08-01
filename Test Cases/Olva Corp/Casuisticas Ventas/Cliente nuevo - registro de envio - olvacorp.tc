@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cliente nuevo - registro de envio - olvacorp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9781a81-dcf1-41c1-97f4-2b7f7117176a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d24aa384-398e-4acb-a348-c5a166d7bfee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>7f72a4b6-ad1d-41d8-9fcf-44c438a90b56</id>
+      <masked>false</masked>
+      <name>nro_fila</name>
+   </variable>
+</TestCaseEntity>

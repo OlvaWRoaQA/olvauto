@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_046 Guias de Despacho  Representaciones -</name>
+   <tag></tag>
+   <elementGuidId>fde59451-736a-41ad-9d85-5805815ff803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'046 Guias de Despacho : Representaciones -')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0a5051cf-f93c-4453-95cd-b89095912b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../intranet/guias_remision/provincia/guias_prov_llegada_cab.php?codUsuario=usci</value>
+      <webElementGuid>1d618356-e133-48ed-98e1-17c912e68987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>1ca04bdb-8f11-41ee-84ca-07f9101f2f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>046 Guias de Despacho : Representaciones -</value>
+      <webElementGuid>2126ffd2-ce4c-4885-9dcf-f564da55254f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;menubar&quot;]/a[@class=&quot;menu&quot;]</value>
+      <webElementGuid>a9ecd895-d22c-42eb-bc32-ac2d989b9474</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'046 Guias de Despacho : Representaciones -')]</value>
+      <webElementGuid>869c08a2-fdbb-4876-a904-2f833ca4fbe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[1]/preceding::a[144]</value>
+      <webElementGuid>2e2423a8-bd6b-4ccf-98a0-8ff47420c286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intranet OLVA :: Principal'])[2]/preceding::a[145]</value>
+      <webElementGuid>e346b155-43d8-4ec3-9cb4-343d2a079f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='046 Guias de Despacho : Representaciones -']/parent::*</value>
+      <webElementGuid>176eee02-e0ef-4e04-9b37-7974f1d03703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../intranet/guias_remision/provincia/guias_prov_llegada_cab.php?codUsuario=usci')]</value>
+      <webElementGuid>eae8fd6d-c981-43e0-bca4-5be150a884e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[39]</value>
+      <webElementGuid>bb2ab9f0-43d9-45f4-9776-898cc4d1ce2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../intranet/guias_remision/provincia/guias_prov_llegada_cab.php?codUsuario=usci' and (text() = '046 Guias de Despacho : Representaciones -' or . = '046 Guias de Despacho : Representaciones -')]</value>
+      <webElementGuid>866f6147-e0d4-4c77-8a07-a996e66dea32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

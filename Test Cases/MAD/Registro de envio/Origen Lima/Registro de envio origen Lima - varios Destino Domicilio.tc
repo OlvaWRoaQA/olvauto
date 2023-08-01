@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registro de envio origen Lima - varios Destino Domicilio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ad4fb55-50c9-4278-848b-71183bb41ad2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76801557-0cc6-4f9c-8613-5246a809c57b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>76801557-0cc6-4f9c-8613-5246a809c57b</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

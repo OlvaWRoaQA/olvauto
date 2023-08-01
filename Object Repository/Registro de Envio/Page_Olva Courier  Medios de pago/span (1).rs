@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span (1)</name>
+   <tag></tag>
+   <elementGuidId>869f8483-30c5-41af-9d7a-7bd2adf4a122</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.buttons > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(.,'He leído la')])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6657d611-6e6d-4e77-bf11-edc465fcf6da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;op_regulacion&quot;)/ul[@class=&quot;buttons&quot;]/span[1]</value>
+      <webElementGuid>0df38f01-f926-4c21-ad19-eb7dcc086d48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='op_regulacion']/ul/span</value>
+      <webElementGuid>f4608fb4-5e0c-452e-ba3b-83d7efb9057d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/span</value>
+      <webElementGuid>739b4de9-c2fb-49d5-aad0-33b08e4fcba9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

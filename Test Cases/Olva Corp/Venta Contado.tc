@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Venta Contado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a857b12-ed91-4a46-a1f3-73020da86ea2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fbc289ba-38c1-48a7-9fbc-f40a8ee36149</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nro_tracking'</defaultValue>
+      <description></description>
+      <id>fbc289ba-38c1-48a7-9fbc-f40a8ee36149</id>
+      <masked>false</masked>
+      <name>nro_tracking1</name>
+   </variable>
+</TestCaseEntity>

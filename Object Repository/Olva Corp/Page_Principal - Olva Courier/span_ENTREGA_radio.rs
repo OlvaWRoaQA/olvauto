@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ENTREGA_radio</name>
+   <tag></tag>
+   <elementGuidId>6078e8d9-63a7-4ee1-8103-cba22ae09657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-radiobutton-icon.ui-icon.ui-icon-blank.ui-c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class,'ui-radiobutton-icon ui-icon ui-icon-blank ui-c')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>844ab632-b429-48e6-8439-eb85c401be39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-radiobutton-icon ui-icon ui-icon-blank ui-c</value>
+      <webElementGuid>f8b86caf-91d8-4816-8812-7348fc224d57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmLiquidacionEnvio:cboOpcion&quot;)/tbody[1]/tr[1]/td[2]/div[@class=&quot;ui-radiobutton ui-widget&quot;]/div[@class=&quot;ui-radiobutton-box ui-widget ui-corner-all ui-state-default ui-state-hover&quot;]/span[@class=&quot;ui-radiobutton-icon ui-icon ui-icon-blank ui-c&quot;]</value>
+      <webElementGuid>fa4e3ec7-44f6-46d4-816c-d3dcb5b139eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Page_Principal - Olva Courier/iframe_Reporte Destajo por Operador_iframePrincipal1</value>
+      <webElementGuid>a92ed5e5-53e4-461b-8f24-5c0eb0807dab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='frmLiquidacionEnvio:cboOpcion']/tbody/tr/td[2]/div/div[2]/span</value>
+      <webElementGuid>21106218-30f9-4ecc-890f-f709eb309eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div[2]/span</value>
+      <webElementGuid>7e16c937-f7ce-47bd-9702-ad8adbb9fab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

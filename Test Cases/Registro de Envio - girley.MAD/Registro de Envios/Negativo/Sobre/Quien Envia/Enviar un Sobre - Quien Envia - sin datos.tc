@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Sobre - Quien Envia - sin datos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3610a82-d2a6-4ba6-adde-4297537d9e21</testCaseGuid>
+</TestCaseEntity>

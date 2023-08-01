@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Mz, Lote o Referencia</name>
+   <tag></tag>
+   <elementGuidId>d2a6cf05-645f-44b6-819f-6b4fefec9cf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id = '__BVID__904245___BV__BV_label___' and (text() = 'Mz, Lote o Referencia' or . = 'Mz, Lote o Referencia')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__BVID__904245___BV__BV_label___</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5b898e9d-f675-4a31-a430-cc892f0124cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__BVID__904245___BV__BV_label___</value>
+      <webElementGuid>c43f31cd-d086-499e-aa4f-b53405c9da1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>reference</value>
+      <webElementGuid>198d12cf-3d83-41b2-a457-b2f67e077ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label d-block</value>
+      <webElementGuid>91d458f2-d01d-42f2-be26-7b1ee1f8075e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mz, Lote o Referencia</value>
+      <webElementGuid>d4057553-c940-4309-a3f6-44311f807651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__904245___BV__BV_label___&quot;)</value>
+      <webElementGuid>b0169201-390e-4946-aa0f-4db24fa7552b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inicio/Page_Principal - Olva Courier/iframe_Dir</value>
+      <webElementGuid>7ebdaa8d-7b5e-4695-88c1-4097c186498c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='__BVID__904245___BV__BV_label___']</value>
+      <webElementGuid>aac32420-fc42-4822-95db-bfd83935e127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__065149___BV___']/label</value>
+      <webElementGuid>4601eae6-02d4-473f-a40b-63708377b4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show traffic incidents'])[1]/following::label[1]</value>
+      <webElementGuid>56d7b812-189d-4f76-8914-be8f03dd9edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traffic conditions'])[1]/following::label[1]</value>
+      <webElementGuid>6bcd148f-b9dc-4d78-996c-a16b512fedd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mz, Lote o Referencia']/parent::*</value>
+      <webElementGuid>9883ef07-838f-43bb-9443-2ffbc6b55e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>8ea2951f-a4e3-4329-8726-c7fb80f5435e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = '__BVID__904245___BV__BV_label___' and (text() = 'Mz, Lote o Referencia' or . = 'Mz, Lote o Referencia')]</value>
+      <webElementGuid>125aa41b-3123-440e-b9f6-d8ba5501c71e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

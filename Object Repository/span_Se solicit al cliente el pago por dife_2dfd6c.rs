@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Se solicit al cliente el pago por dife_2dfd6c</name>
+   <tag></tag>
+   <elementGuidId>2ce5adad-9f1b-43b3-a051-82a6c35bb657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmVentaContado:idgrowl_container']/div[2]/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70f8c0d9-a51c-4fdc-88b5-7dab1d02f250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-growl-title</value>
+      <webElementGuid>40ea143d-d7d6-4f0f-9a86-d87b18cafdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Se solicitó al cliente el pago por diferencia por S/5.15, via email! Link: https://registro.olvacourier.com/web-regularizacion-pagos/devolucion/2701549</value>
+      <webElementGuid>b2f340ef-7075-42be-99e3-2811e27807a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmVentaContado:idgrowl_container&quot;)/div[@class=&quot;ui-growl-item-container ui-state-highlight ui-corner-all ui-helper-hidden ui-shadow ui-growl-info&quot;]/div[@class=&quot;ui-growl-item&quot;]/div[@class=&quot;ui-growl-message&quot;]/span[@class=&quot;ui-growl-title&quot;]</value>
+      <webElementGuid>0d598451-c1e7-4a26-b9e5-48f180091fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>bce36b60-cb96-4b1f-8598-22c23af4c544</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmVentaContado:idgrowl_container']/div[2]/div/div[2]/span</value>
+      <webElementGuid>addf77ed-f9c6-4952-9f01-d1bf9173d54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='La Venta se genero Correctamente!'])[1]/following::span[2]</value>
+      <webElementGuid>5daa0646-f2ab-47ee-8bf0-53d5d1f2841b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCARGAR IMAGEN'])[1]/following::span[34]</value>
+      <webElementGuid>3a16ea36-816a-4601-8bc2-43864e733a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERROR'])[1]/preceding::span[2]</value>
+      <webElementGuid>f514d123-d7ce-44cd-971c-e5d19e6c6b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sí'])[3]/preceding::span[8]</value>
+      <webElementGuid>8afd6ca6-f5e7-478d-b294-fb9e1f231ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Se solicitó al cliente el pago por diferencia por S/5.15, via email! Link: https://registro.olvacourier.com/web-regularizacion-pagos/devolucion/2701549']/parent::*</value>
+      <webElementGuid>ad6f7095-4226-47d3-8611-885f84fe08ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/span</value>
+      <webElementGuid>aba15752-7b15-44e6-a6de-9d696e2e0a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Se solicitó al cliente el pago por diferencia por S/5.15, via email! Link: https://registro.olvacourier.com/web-regularizacion-pagos/devolucion/2701549' or . = 'Se solicitó al cliente el pago por diferencia por S/5.15, via email! Link: https://registro.olvacourier.com/web-regularizacion-pagos/devolucion/2701549')]</value>
+      <webElementGuid>ea4a1496-a476-4db7-85c3-4e3045ef67d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

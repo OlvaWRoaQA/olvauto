@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_compras por internet_icon-prepend fa cvv</name>
+   <tag></tag>
+   <elementGuidId>ea1327d6-2704-4e65-8c1a-c1786875091c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-prepend.fa.cvv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='default']/div[5]/div[3]/section/label/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5ebc70d4-d4bb-46d0-b263-1f5573961c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-prepend fa cvv</value>
+      <webElementGuid>54e98463-9824-48cc-b627-a2f564e43bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;default&quot;)/div[@class=&quot;form-group row landscape-row&quot;]/div[@class=&quot;col col-6-1 landscape-col landscape-col-6-1 callcenter&quot;]/section[1]/label[@class=&quot;input&quot;]/i[@class=&quot;icon-prepend fa cvv&quot;]</value>
+      <webElementGuid>6c537ec0-14e9-4495-8352-78278bbafb16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Olva Courier  Medios de pago/iframe_Aceptar_visaNetJS_1</value>
+      <webElementGuid>159004ed-495e-4ff7-bd9b-16ccea1a813d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='default']/div[5]/div[3]/section/label/i</value>
+      <webElementGuid>060d1bfc-b8e1-43c2-a811-a3710fede70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/section/label/i</value>
+      <webElementGuid>2db322a6-4a7f-4dca-871f-b8a77a3e5276</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

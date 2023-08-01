@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_REGISTRADO</name>
+   <tag></tag>
+   <elementGuidId>cc4b8c7a-4f8f-49d5-88a4-52730e97b10a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='frmConsultaEnvio:panelEnvio:frmRptEnvioRuta:tableRptEnvioRuta_data']/tr/td[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>045ce8c0-cdb7-4811-952d-8e087e5da836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>b68b3ba5-590e-47ed-bafb-1e2e067cd097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REGISTRADO</value>
+      <webElementGuid>53f29e31-1516-4717-b7e1-fe7708918634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmConsultaEnvio:panelEnvio:frmRptEnvioRuta:tableRptEnvioRuta_data&quot;)/tr[@class=&quot;ui-widget-content ui-datatable-even&quot;]/td[8]</value>
+      <webElementGuid>cacbdd2b-6f13-4623-83e3-78cde091d2eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/olvacorp/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal</value>
+      <webElementGuid>2c34815a-9a83-4e3c-9fb5-a9150a3fde90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/despacho/Page_Principal - Olva Courier/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal</value>
+      <webElementGuid>ff5f9fd0-c3ad-41a2-98e9-e2f58efe7fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Negativo/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal (1)</value>
+      <webElementGuid>ceafcc20-ef34-4432-a28b-f3cdba1d7f59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='frmConsultaEnvio:panelEnvio:frmRptEnvioRuta:tableRptEnvioRuta_data']/tr/td[8]</value>
+      <webElementGuid>24a47a56-4a20-4795-be1f-e925e36e72df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USUREGCOM'])[1]/following::td[1]</value>
+      <webElementGuid>98534a69-678d-48fe-a89c-c59df13d0eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIMA'])[1]/following::td[7]</value>
+      <webElementGuid>0fe60388-0034-485d-8ee2-a3f0e8c532bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contado: F477 - 0001126 - Pieza: 1'])[1]/preceding::td[1]</value>
+      <webElementGuid>0e4afe29-5fd4-43bb-a078-9bd2fe6d3786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descargar'])[1]/preceding::td[2]</value>
+      <webElementGuid>17850240-50f6-40cc-8976-cf605174d9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/form/div/div/table/tbody/tr/td[8]</value>
+      <webElementGuid>48f1240c-0e3a-49c6-808f-957731a74b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'REGISTRADO' or . = 'REGISTRADO')]</value>
+      <webElementGuid>8f413448-d232-4c82-b16c-7c134e9b5c1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

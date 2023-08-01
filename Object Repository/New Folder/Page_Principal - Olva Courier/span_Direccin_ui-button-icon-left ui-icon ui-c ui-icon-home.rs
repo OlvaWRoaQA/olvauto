@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Direccin_ui-button-icon-left ui-icon ui-c ui-icon-home</name>
+   <tag></tag>
+   <elementGuidId>abeac742-1127-4c5b-b734-1893382b5027</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-icon.ui-c.ui-icon-home</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmNewEnvio:cmdCargarDireccion']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d3e78f2-c58e-40eb-8d94-a3dd0ebf8cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-home</value>
+      <webElementGuid>d8b229e1-806b-4574-a09e-43f7d7ad4d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmNewEnvio:cmdCargarDireccion&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-home&quot;]</value>
+      <webElementGuid>155906c9-98b7-45ba-9376-1f6c1c48160c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/New Folder/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>3bc61c1f-726f-4f97-9247-44d3d71c09da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmNewEnvio:cmdCargarDireccion']/span</value>
+      <webElementGuid>9960b647-8c59-4240-adac-a7c1698f3d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button/span</value>
+      <webElementGuid>641f7363-ea2c-4b89-a9f0-a17ddec9ae38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_Reporte_iframePrincipal (3)</name>
+   <tag></tag>
+   <elementGuidId>ad1ebcac-3e32-4217-971b-4b1a960ba5ec</elementGuidId>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>8d69f410-2a3d-4306-9524-25a7a6905f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>iframePrincipal</value>
+      <webElementGuid>3b18c73e-a05a-4a91-bfcd-7585a9591b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget ui-widget-content ui-corner-all iframeLayoutCenter</value>
+      <webElementGuid>9a9682f9-4641-4016-b1f4-c1147f7069de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/OlvaERP-Maestro-web/reportes/ventas/reportePreVentas.xhtml?nodeTree=Reporte Pre-Ventas&amp;codeTree=070113&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY2NTcwMjc1NiwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiOWEwODBjYjAtYWZlNC00OTM4LWEyNzAtZWUwMDMwMjA4YzAwIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.kbfy884bS6DyaO_mtTVzvzkHQkMjQStvjJdEI89fIZg</value>
+      <webElementGuid>c3a6832e-a1d3-4a58-824f-5aa15f12db55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iframePrincipal&quot;)</value>
+      <webElementGuid>254ef899-e783-4ff2-ab13-0e742f3c5ee8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//iframe[@id='iframePrincipal']</value>
+      <webElementGuid>df60a3e3-1106-4db1-996a-9aecb75c0cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='frmPrincipal:centerContentPanel']/iframe</value>
+      <webElementGuid>59fc0015-73cf-4bb4-9958-3709d09939c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>bf8e646f-485c-4790-bae4-a29014cc3df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@id = 'iframePrincipal' and @src = '/OlvaERP-Maestro-web/reportes/ventas/reportePreVentas.xhtml?nodeTree=Reporte Pre-Ventas&amp;codeTree=070113&amp;access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aF9zZXJ2ZXJfaWQiXSwidXNlcl9uYW1lIjoiR0FSQ0UiLCJzY29wZSI6WyJyZWFkLHdyaXRlIl0sImV4cCI6MTY2NTcwMjc1NiwiYXV0aG9yaXRpZXMiOlsiQURNSU4iXSwianRpIjoiOWEwODBjYjAtYWZlNC00OTM4LWEyNzAtZWUwMDMwMjA4YzAwIiwiY2xpZW50X2lkIjoiYXV0aG9yaXphdGlvbiJ9.kbfy884bS6DyaO_mtTVzvzkHQkMjQStvjJdEI89fIZg']</value>
+      <webElementGuid>8053b486-51d3-478c-acda-c39bcbca5f36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Venta Contado con Preventa - Asignacion - Entrega</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>046d2c62-64fc-4f8a-aee4-57a8909d9f6c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dde34a31-52d4-4a86-bf16-f624f6c10f14</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nro_tracking'</defaultValue>
+      <description></description>
+      <id>dde34a31-52d4-4a86-bf16-f624f6c10f14</id>
+      <masked>false</masked>
+      <name>nro_tracking1</name>
+   </variable>
+</TestCaseEntity>

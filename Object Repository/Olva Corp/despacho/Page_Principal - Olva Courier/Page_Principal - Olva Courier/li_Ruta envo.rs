@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Ruta envo</name>
+   <tag></tag>
+   <elementGuidId>d748bc18-34bd-42d9-b00a-27651cc01773</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;frmConsultaEnvio:panelEnvio&quot;)/ul[@class=&quot;ui-tabs-nav ui-helper-reset ui-widget-header ui-corner-all&quot;]/li[@class=&quot;ui-state-default ui-corner-top ui-state-hover ui-tabs-outline&quot;][count(. | //li[@class = 'ui-state-default ui-corner-top ui-state-hover ui-tabs-outline' and @role = 'tab' and @aria-expanded = 'false' and @aria-selected = 'false' and @tabindex = '0' and (text() = 'Ruta envío' or . = 'Ruta envío') and @ref_element = 'Object Repository/Olva Corp/despacho/Page_Principal - Olva Courier/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal']) = count(//li[@class = 'ui-state-default ui-corner-top ui-state-hover ui-tabs-outline' and @role = 'tab' and @aria-expanded = 'false' and @aria-selected = 'false' and @tabindex = '0' and (text() = 'Ruta envío' or . = 'Ruta envío') and @ref_element = 'Object Repository/Olva Corp/despacho/Page_Principal - Olva Courier/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;frmConsultaEnvio:panelEnvio&quot;]/ul/li[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-state-default.ui-corner-top.ui-state-hover.ui-tabs-outline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>fed11c4b-6ca3-454d-bbc1-290856dbe233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-state-default ui-corner-top ui-state-hover ui-tabs-outline</value>
+      <webElementGuid>ec8b7323-8863-4ed4-ac16-a3f8011c6923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>0d1a4853-ae21-4fc6-b050-e75ce4015b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7252c1f4-f4d9-4266-94ab-37bf50589d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9340e54e-d785-4e27-bdaa-d21da576cf7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5a6671fa-2061-42b2-93c8-17a55d349539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ruta envío</value>
+      <webElementGuid>c229c7b3-dbce-4ce5-a625-9f476839175f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmConsultaEnvio:panelEnvio&quot;)/ul[@class=&quot;ui-tabs-nav ui-helper-reset ui-widget-header ui-corner-all&quot;]/li[@class=&quot;ui-state-default ui-corner-top ui-state-hover ui-tabs-outline&quot;]</value>
+      <webElementGuid>ea9e3e31-ed1b-48c5-8dc4-9378b2c244f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/despacho/Page_Principal - Olva Courier/Page_Principal - Olva Courier/iframe_Importacin General_iframePrincipal</value>
+      <webElementGuid>8b4673b7-57a0-4260-9926-7b6b41d48451</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmConsultaEnvio:panelEnvio']/ul/li[7]</value>
+      <webElementGuid>d9f34ac7-7255-4b5e-b0c7-491a9b7b527f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internacional'])[1]/following::li[1]</value>
+      <webElementGuid>450756b3-ab73-4cef-a01e-b9eabec10625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recepción Envío'])[1]/following::li[2]</value>
+      <webElementGuid>7a52ac93-ba0f-4ec8-85c2-a80ae2a39ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalle de envío: 22 - 6875'])[1]/preceding::li[1]</value>
+      <webElementGuid>5693f6a2-0aef-4764-b20b-bf6a05d3c1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]</value>
+      <webElementGuid>5561bd13-9f75-435b-b673-99053e54f494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Ruta envío' or . = 'Ruta envío')]</value>
+      <webElementGuid>e21fda7a-5fe6-4a25-9524-750193490b42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AVENIDA (1)</name>
+   <tag></tag>
+   <elementGuidId>7314b5cf-1223-42c4-a7f1-6711bd501c96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu.visible > div.item.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__49']/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2510adac-f3a8-41a0-82c5-daed328762cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item selected</value>
+      <webElementGuid>a4e15cc0-603f-4bf8-a594-677cdbae5d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      AVENIDA
+    </value>
+      <webElementGuid>b0380cc8-8b5a-4b00-9bef-2ee9ecaf0ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__49&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;ui fluid search selection dropdown active visible&quot;]/div[@class=&quot;menu visible&quot;]/div[@class=&quot;item selected&quot;]</value>
+      <webElementGuid>ba518758-726c-4331-98bd-e440505d6096</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__49']/div/div/div[2]/div[2]</value>
+      <webElementGuid>38e6cef5-bad6-4083-bcdb-7442d2b76b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALAMEDA'])[1]/following::div[1]</value>
+      <webElementGuid>3ebb4cc6-3945-4c93-b4f0-23a2ecd9d2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de via'])[1]/following::div[3]</value>
+      <webElementGuid>9a5a07a2-0abb-4fdc-bc65-5a1b2d38037a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BLOCK'])[1]/preceding::div[1]</value>
+      <webElementGuid>93e31a51-8799-4e29-aa2b-1c314be544bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOULEVARD'])[1]/preceding::div[2]</value>
+      <webElementGuid>2bb15e45-aef5-49ee-ac67-a1a3c9a8685f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AVENIDA']/parent::*</value>
+      <webElementGuid>97178917-e55b-428e-bded-8184979c3052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/fieldset/div/div/div[2]/div[2]</value>
+      <webElementGuid>fd370881-6fda-439f-b1b0-add4d0030dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+      AVENIDA
+    ' or . = '
+      AVENIDA
+    ')]</value>
+      <webElementGuid>12cdc7e8-b223-4941-89df-fc557cd41760</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

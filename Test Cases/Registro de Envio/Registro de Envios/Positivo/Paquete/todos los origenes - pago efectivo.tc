@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>todos los origenes - pago efectivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0892ba73-21d1-4cdd-9bb1-457d131254a6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04c97bf7-a330-4d39-ab8f-777bf22ff73f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Origen'</defaultValue>
+      <description></description>
+      <id>04c97bf7-a330-4d39-ab8f-777bf22ff73f</id>
+      <masked>false</masked>
+      <name>Origen</name>
+   </variable>
+</TestCaseEntity>

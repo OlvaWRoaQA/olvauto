@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>RUC clientes nuevos</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a4635103-8722-4ce0-97f9-149d158cdfeb</dataFileGUID>
+   <dataSourceUrl>C:\Users\roasa\OneDrive\Documentos\Olva TI\Interna\QA\Data QA\Pruebas Registro de envio\Datos nuevo cliente RUC.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>data</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

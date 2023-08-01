@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Cambio de Tarifa - solo registro de envio</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f076a8a3-eab8-49da-8773-49971f996d10</testSuiteGuid>
+   <testCaseLink>
+      <guid>2b7ac613-2d10-457e-8742-d59200f1bbbc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'Rotulo_1'</defaultValue>
+         <description></description>
+         <id>24bc1357-8abe-4e8e-ab15-79727a08dd35</id>
+         <masked>false</masked>
+         <name>Rotulo</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Olva Corp/Casuisticas Cambio de Tarifa/Olva Corp - Tarifas Iteracion - sin CA</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ec9908c5-3553-40d3-8e3f-6d60522e8e21</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Tarifas</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ec9908c5-3553-40d3-8e3f-6d60522e8e21</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Rotulos</value>
+         <variableId>24bc1357-8abe-4e8e-ab15-79727a08dd35</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ec9908c5-3553-40d3-8e3f-6d60522e8e21</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TARIFA_BASE_SERVICIO</value>
+         <variableId>6104f0c6-03f3-4c1b-9e17-d655d50e31ba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ec9908c5-3553-40d3-8e3f-6d60522e8e21</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TARIFA_EXCESO_SERVICIO</value>
+         <variableId>81c58dca-3f83-47b9-94ff-a36d54f7bd7f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ec9908c5-3553-40d3-8e3f-6d60522e8e21</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TARIFA_BASE_OLD</value>
+         <variableId>f9fb322b-ba23-4d79-8af2-0ca4fa389668</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ec9908c5-3553-40d3-8e3f-6d60522e8e21</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TARIFA_EXCESO_OLD</value>
+         <variableId>ee11d01a-0742-4f95-b438-cda92c976a83</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

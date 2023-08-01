@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Calculadora de Envos</name>
+   <tag></tag>
+   <elementGuidId>fbd0c80a-9f3f-4e7e-86e2-4cd280c2444f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.consulting-custom-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='https://www.olvacourier.com/calculadora-de-envios/']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>33887c0f-7dba-4767-ab8f-ad9571395d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>consulting-custom-title</value>
+      <webElementGuid>db8dd89a-73e2-4656-af45-c7bebf821024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calculadora de Envíos</value>
+      <webElementGuid>901ffde4-33a0-43f8-a442-1d292915c1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-3902&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12 vc_col-lg-9 vc_col-md-9 vc_col-xs-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;vc_custom_heading text_align_left&quot;]/h2[@class=&quot;consulting-custom-title&quot;]</value>
+      <webElementGuid>479c857d-7466-4691-86cc-d14f4fabf1f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-3902']/div/div/div[2]/div/div/div/h2</value>
+      <webElementGuid>fe9325c3-58fe-43d5-9611-eafd11e76b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internacional'])[5]/following::h2[1]</value>
+      <webElementGuid>c57461b8-4a27-438c-9285-cdb618a10818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Commerce'])[3]/following::h2[1]</value>
+      <webElementGuid>b09e59a1-e3a5-42ec-a1fe-a425a1e125b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Noticias Recientes'])[1]/preceding::h2[1]</value>
+      <webElementGuid>ee026ef2-e88a-4ba4-9dbd-79e3dfe0e7e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nuevos ingresos y mudanzas Tiendas Olva'])[1]/preceding::h2[1]</value>
+      <webElementGuid>1321e457-ff59-48c3-ad2a-442fae0f915b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Calculadora de Envíos']/parent::*</value>
+      <webElementGuid>13b380eb-c03e-43ad-93b1-c29bb3b44b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>42dedc10-55ec-4ca3-9a2c-9a36212db204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Calculadora de Envíos' or . = 'Calculadora de Envíos')]</value>
+      <webElementGuid>c8f1f65c-287f-482b-93ed-b895ec070c70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

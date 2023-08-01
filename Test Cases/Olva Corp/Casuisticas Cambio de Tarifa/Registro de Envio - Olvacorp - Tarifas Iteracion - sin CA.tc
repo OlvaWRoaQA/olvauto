@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registro de Envio - Olvacorp - Tarifas Iteracion - sin CA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fa04f15-c64b-4500-bacb-c1a6698863ec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf20c1ef-dbef-4788-82aa-53bf9c9b19d1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e227ba89-bd40-4202-a68a-05b2dd7f2764</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>701e9d09-c556-47c8-9e9c-8466bf06bb66</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino_1'</defaultValue>
+      <description></description>
+      <id>bf20c1ef-dbef-4788-82aa-53bf9c9b19d1</id>
+      <masked>false</masked>
+      <name>Destino</name>
+   </variable>
+   <variable>
+      <defaultValue>'Monto_Base'</defaultValue>
+      <description></description>
+      <id>e227ba89-bd40-4202-a68a-05b2dd7f2764</id>
+      <masked>false</masked>
+      <name>Base</name>
+   </variable>
+   <variable>
+      <defaultValue>'Monto_Exceso'</defaultValue>
+      <description></description>
+      <id>701e9d09-c556-47c8-9e9c-8466bf06bb66</id>
+      <masked>false</masked>
+      <name>Exceso</name>
+   </variable>
+</TestCaseEntity>

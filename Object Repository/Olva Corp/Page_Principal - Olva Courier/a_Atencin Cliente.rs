@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Atencin Cliente</name>
+   <tag></tag>
+   <elementGuidId>dbda0b67-b6dd-482a-a494-8f496d6c0d3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-menuitem-link.ui-corner-all.modelLayoutHeadItem.blockable.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=concat('PrimeFaces.ab({s:&quot;frmPrincipal:model&quot;,u:&quot;frmPrincipal:tree frmPrincipal:centerContentPanel&quot;,g:false,onst:function(cfg){PF(',&quot;'blockUIWidget1').block();},onco:function(xhr,status,args){PF('blockUIWidget1').unblock();},pa:[{name:&quot;,'&quot;idCodFormMod&quot;,value:&quot;07&quot;},{name:&quot;frmPrincipal:model_menuid&quot;,value:&quot;6&quot;}],f:&quot;frmPrincipal&quot;});return false;')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1417bdc9-372e-4687-b9a6-7544580cba5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f5a7a310-0896-490b-94ae-cb740e6f35b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menuitem-link ui-corner-all modelLayoutHeadItem blockable ui-state-hover</value>
+      <webElementGuid>4d56af2b-5874-4a2b-8bed-bbb9767d8d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5062eae2-71e9-4c25-bed9-cbdcd9340996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>PrimeFaces.ab({s:&quot;frmPrincipal:model&quot;,u:&quot;frmPrincipal:tree frmPrincipal:centerContentPanel&quot;,g:false,onst:function(cfg){PF('blockUIWidget1').block();},onco:function(xhr,status,args){PF('blockUIWidget1').unblock();},pa:[{name:&quot;idCodFormMod&quot;,value:&quot;07&quot;},{name:&quot;frmPrincipal:model_menuid&quot;,value:&quot;6&quot;}],f:&quot;frmPrincipal&quot;});return false;</value>
+      <webElementGuid>0d1ca787-06eb-4b3e-85b1-634d0bef89e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atención Cliente</value>
+      <webElementGuid>289fa883-0b4b-43dd-971a-d7a58c6ec5f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:model&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-menuitem ui-widget ui-corner-all ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-corner-all modelLayoutHeadItem blockable ui-state-hover&quot;]</value>
+      <webElementGuid>4172206c-9c16-4426-95ca-b60a3a4d2bdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=concat('PrimeFaces.ab({s:&quot;frmPrincipal:model&quot;,u:&quot;frmPrincipal:tree frmPrincipal:centerContentPanel&quot;,g:false,onst:function(cfg){PF(',&quot;'blockUIWidget1').block();},onco:function(xhr,status,args){PF('blockUIWidget1').unblock();},pa:[{name:&quot;,'&quot;idCodFormMod&quot;,value:&quot;07&quot;},{name:&quot;frmPrincipal:model_menuid&quot;,value:&quot;6&quot;}],f:&quot;frmPrincipal&quot;});return false;')]</value>
+      <webElementGuid>75376db3-a42a-4925-918f-f89f3e3dde5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPrincipal:model']/ul/li[7]/a</value>
+      <webElementGuid>4af32c3b-529a-41c5-aff9-6fa6a4e3833f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clientes'])[1]/following::a[1]</value>
+      <webElementGuid>6c43148d-2085-4086-aa6b-52eb29e3c006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cobranzas'])[1]/following::a[2]</value>
+      <webElementGuid>782bdd4a-f3d9-4ecc-8863-9a00a2fe3f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recojos'])[1]/preceding::a[1]</value>
+      <webElementGuid>e0530a86-c650-47fe-835e-45b52f76b593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[9]</value>
+      <webElementGuid>9037248b-c70e-4559-ae4c-a06424db8f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>4327c79b-646e-4bfa-be78-72096847f39e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Atención Cliente' or . = 'Atención Cliente')]</value>
+      <webElementGuid>69a2dcb6-1f4a-4aa9-bfc3-1e7fa9a3e732</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

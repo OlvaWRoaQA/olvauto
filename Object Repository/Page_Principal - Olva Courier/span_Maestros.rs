@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Maestros</name>
+   <tag></tag>
+   <elementGuidId>d332e51f-482a-4682-8daf-0c794e509dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-menuitem-link.ui-corner-all.modelLayoutHeadItem.blockable.ui-state-hover > span.ui-menuitem-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmPrincipal:model']/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d60452f4-bb7a-40b0-a7c0-ad73986d6fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menuitem-text</value>
+      <webElementGuid>f06f43bb-3dc9-4b89-b5a3-27ac2568095d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maestros</value>
+      <webElementGuid>81eaf55e-5a42-43f9-93cd-9e6f44f2c2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:model&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-menuitem ui-widget ui-corner-all ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-corner-all modelLayoutHeadItem blockable ui-state-hover&quot;]/span[@class=&quot;ui-menuitem-text&quot;]</value>
+      <webElementGuid>71b65d40-dd92-42f2-a0ff-4acf69a25d6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPrincipal:model']/ul/li[2]/a/span</value>
+      <webElementGuid>91f9c27b-dc64-42fb-9344-c9ab53eb50d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Web'])[1]/following::span[1]</value>
+      <webElementGuid>c88ae7bb-266f-462a-bbd5-38b6eebf68ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Despacho'])[1]/preceding::span[1]</value>
+      <webElementGuid>caad72ed-9d04-43e8-877e-5e8ce6acd138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribucion'])[1]/preceding::span[2]</value>
+      <webElementGuid>1bbf499c-5075-49c2-a0bf-7560e3e488be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Maestros']/parent::*</value>
+      <webElementGuid>35aa77c0-0353-489c-8129-0be4184c4577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>e1c2dfce-b984-4e37-9900-e6449e8510e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Maestros' or . = 'Maestros')]</value>
+      <webElementGuid>2d695f8d-7c1f-4859-863d-e7b8f44acf29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

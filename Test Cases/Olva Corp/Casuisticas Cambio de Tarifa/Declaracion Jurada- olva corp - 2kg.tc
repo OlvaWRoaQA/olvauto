@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Declaracion Jurada- olva corp - 2kg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0274f63a-aa41-44cd-91e7-2fc0ca42891f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d83dd1e8-d1ef-4df9-b20c-9d824ce18c9b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino_1'</defaultValue>
+      <description></description>
+      <id>d83dd1e8-d1ef-4df9-b20c-9d824ce18c9b</id>
+      <masked>false</masked>
+      <name>Destino</name>
+   </variable>
+</TestCaseEntity>

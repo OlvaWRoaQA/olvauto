@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sin Declaracion - TDC domicilio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1381c8dc-bf05-4de5-a643-86d44c0a7a25</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ac82238-fb63-4da2-a273-10962b8cbad1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>8ac82238-fb63-4da2-a273-10962b8cbad1</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

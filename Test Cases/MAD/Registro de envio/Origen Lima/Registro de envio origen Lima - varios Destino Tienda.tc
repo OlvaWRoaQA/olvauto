@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registro de envio origen Lima - varios Destino Tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>131d4004-b554-457e-b401-9f05fa434ae4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7289e521-b76c-4be3-b5da-89066a37195b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destinos'</defaultValue>
+      <description></description>
+      <id>7289e521-b76c-4be3-b5da-89066a37195b</id>
+      <masked>false</masked>
+      <name>destinos</name>
+   </variable>
+</TestCaseEntity>

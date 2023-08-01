@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Acepto los Trminos de uso y polticas _c209bf (2)</name>
+   <tag></tag>
+   <elementGuidId>6f8735bd-caac-4854-bd48-2df3deb3e777</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>//*[@id=&quot;checkread&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(@for,'checkread')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Acepto los Términos de uso y políticas de privacidad. ' or . = ' Acepto los Términos de uso y políticas de privacidad. ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>84549a76-92d9-46ff-b100-bf1eca4a4bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>checkread</value>
+      <webElementGuid>6f99eae3-758a-43b9-baa3-8a31042db222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label declaracion-text</value>
+      <webElementGuid>413769a0-b4ee-472a-9c1d-a2ef329c836d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Acepto los Términos de uso y políticas de privacidad. </value>
+      <webElementGuid>57fa8c70-03c5-432f-9c0a-6e087139705a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-content&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label declaracion-text&quot;]</value>
+      <webElementGuid>6d3dafa1-b610-4eee-b7f7-4dbe68cc7636</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='swal2-content']/div[2]/div/label</value>
+      <webElementGuid>a23569b6-b360-4913-9555-1e70575945f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ver destinos'])[1]/following::label[1]</value>
+      <webElementGuid>2df62dc0-d515-435f-86d3-19f876ba4d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ver rótulo'])[1]/following::label[1]</value>
+      <webElementGuid>b7e20d36-43b8-4f41-b89b-813eaeb9f1a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/preceding::label[2]</value>
+      <webElementGuid>06135446-7df5-4bcf-8e3c-df0b8d66ef07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Acepto los']/parent::*</value>
+      <webElementGuid>da206589-78dd-4400-ba95-43143683b602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>c7a43468-a361-4bb9-b3f1-ed6d9766eebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Acepto los Términos de uso y políticas de privacidad. ' or . = ' Acepto los Términos de uso y políticas de privacidad. ')]</value>
+      <webElementGuid>752ab81d-c4dd-4784-ad20-9f1402fbbf63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

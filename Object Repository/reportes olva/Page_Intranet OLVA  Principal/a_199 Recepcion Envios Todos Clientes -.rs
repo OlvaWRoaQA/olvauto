@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_199 Recepcion Envios Todos Clientes -</name>
+   <tag></tag>
+   <elementGuidId>086ca470-07d4-43a3-98e9-4d22429b674c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'199 Recepcion Envios Todos Clientes -')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08d06ac9-7eb8-4056-9a34-0bbe30463128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.olva.pe/intranet/Recepcion_linio/index_recepcion.php?codUsuario=usci</value>
+      <webElementGuid>b034cea6-1e72-4d4f-a5eb-3697026208d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>df306726-f136-43b1-a404-d7fe0af45105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>be31e30b-127a-4461-a546-7955731a4e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>199 Recepcion Envios Todos Clientes -</value>
+      <webElementGuid>be86a962-bd60-4307-bd34-d7b338a12eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;menubar&quot;]/a[@class=&quot;menu&quot;]</value>
+      <webElementGuid>12b6c633-d189-401e-b965-bed26052766d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'199 Recepcion Envios Todos Clientes -')]</value>
+      <webElementGuid>533e8eb4-a325-4563-8cb1-ca8a3e7438d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[1]/preceding::a[2]</value>
+      <webElementGuid>9fd5d57e-d5e9-4d2c-ada1-90ef3ee29508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intranet OLVA :: Principal'])[2]/preceding::a[3]</value>
+      <webElementGuid>f2ad0a78-bd6c-4991-93f9-ff13747ed8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='199 Recepcion Envios Todos Clientes -']/parent::*</value>
+      <webElementGuid>bea53f43-019a-41db-8114-2756cf7a6ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.olva.pe/intranet/Recepcion_linio/index_recepcion.php?codUsuario=usci')]</value>
+      <webElementGuid>e6553f8c-a983-4516-8b95-99cc387a114b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[181]</value>
+      <webElementGuid>82d2ff46-7fd1-47b7-abd0-6aea557e0330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.olva.pe/intranet/Recepcion_linio/index_recepcion.php?codUsuario=usci' and (text() = '199 Recepcion Envios Todos Clientes -' or . = '199 Recepcion Envios Todos Clientes -')]</value>
+      <webElementGuid>34668411-2738-42bc-a536-a0ebfb5ba04a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

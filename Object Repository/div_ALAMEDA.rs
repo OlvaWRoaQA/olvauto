@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ALAMEDA</name>
+   <tag></tag>
+   <elementGuidId>dbfd9996-02aa-495b-8499-5d0d003b2b07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu.visible > div.item.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='__BVID__49']/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f141f0ab-200e-45ba-a650-419d51f0821c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item selected</value>
+      <webElementGuid>b29ee49d-230d-4e7e-b335-5d1d7738299a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      ALAMEDA
+    </value>
+      <webElementGuid>8d1501db-ba85-4f42-bec0-9213648d87c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__49&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;ui fluid search selection dropdown active visible&quot;]/div[@class=&quot;menu visible&quot;]/div[@class=&quot;item selected&quot;]</value>
+      <webElementGuid>8b38eef7-935a-4bd3-8d54-ced71a8bfb49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__49']/div/div/div[2]/div</value>
+      <webElementGuid>cad81aa9-e6f1-4fd2-adac-524258ed66fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de via'])[1]/following::div[2]</value>
+      <webElementGuid>9a045b72-e923-47dc-95d0-cb33b16475bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distrito Departamento Provincia'])[1]/following::div[8]</value>
+      <webElementGuid>3e4920af-f4fe-4c1d-8c67-d5dafa2b8317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AVENIDA'])[1]/preceding::div[1]</value>
+      <webElementGuid>728d1903-b6b5-4a6d-a0be-fbbcb7bd32ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BLOCK'])[1]/preceding::div[2]</value>
+      <webElementGuid>504e5d43-f268-4e1d-86f2-81ee0eb577f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ALAMEDA']/parent::*</value>
+      <webElementGuid>bbbfd910-a8cd-4766-bdf7-cd5272056495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/fieldset/div/div/div[2]/div</value>
+      <webElementGuid>82c7862a-afbe-451a-a536-7d49fa8b76ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+      ALAMEDA
+    ' or . = '
+      ALAMEDA
+    ')]</value>
+      <webElementGuid>57c1b959-cc80-4c3a-8bb1-c57face6dd2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

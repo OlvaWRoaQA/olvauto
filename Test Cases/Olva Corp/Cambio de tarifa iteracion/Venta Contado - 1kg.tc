@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Venta Contado - 1kg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f37e6fff-1d06-430f-a03b-cfc2a6cda21f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27458537-9bee-4f27-964b-3366e3c12090</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino_1'</defaultValue>
+      <description></description>
+      <id>27458537-9bee-4f27-964b-3366e3c12090</id>
+      <masked>false</masked>
+      <name>Destino</name>
+   </variable>
+</TestCaseEntity>

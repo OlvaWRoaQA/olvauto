@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DNIRUC_ui-button-icon-left ui-icon ui-c ui-icon-search</name>
+   <tag></tag>
+   <elementGuidId>fcde2ed4-e553-4e21-aba1-75450a5e2b75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;frmVentaContado:btnSelClie&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-search&quot;][count(. | //span[@class = 'ui-button-icon-left ui-icon ui-c ui-icon-search' and @ref_element = 'Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal']) = count(//span[@class = 'ui-button-icon-left ui-icon ui-c ui-icon-search' and @ref_element = 'Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@name,'frmVentaContado:docIdCliente')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-icon.ui-c.ui-icon-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57b8fe1a-44e9-4b75-a5e1-00cb968b30f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-search</value>
+      <webElementGuid>726746e5-1329-4fa4-8643-88b108162ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmVentaContado:btnSelClie&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-search&quot;]</value>
+      <webElementGuid>82be7e99-0ca4-4471-9f24-015c5e7ed6a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>15e1010b-f21c-4954-9858-47cae47101f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmVentaContado:btnSelClie']/span</value>
+      <webElementGuid>aac42e9e-450a-4278-bbd7-063ad1e3a81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>9cf34485-89d9-4357-9458-00c371882e9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Paquete - Quien Envia - Nuevo Cliente DNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0697d481-399f-4f49-8b8c-f407d2f122cd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3209041-b7e3-4b2f-bec7-4bef6408d296</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>e3209041-b7e3-4b2f-bec7-4bef6408d296</id>
+      <masked>false</masked>
+      <name>nro_fila</name>
+   </variable>
+</TestCaseEntity>

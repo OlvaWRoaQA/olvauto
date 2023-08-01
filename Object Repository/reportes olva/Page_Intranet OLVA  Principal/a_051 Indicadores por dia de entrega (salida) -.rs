@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_051 Indicadores por dia de entrega (salida) -</name>
+   <tag></tag>
+   <elementGuidId>23b19b87-1de6-4300-ba39-45dca3905497</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'051 Indicadores por dia de entrega (salida) -')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aa2d140a-72c3-439f-99b3-df38577e4efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.olva.pe/intranet/ReporteDistri/ReporteSalidas.php</value>
+      <webElementGuid>bfccad6c-dbdd-4627-ba5e-3c066cefff56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>88a1da3c-5e57-40ba-b736-0e8b50ab508e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>051 Indicadores por dia de entrega (salida) -</value>
+      <webElementGuid>82fde455-3518-4371-8f1d-4ad97800bc97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;menubar&quot;]/a[@class=&quot;menu&quot;]</value>
+      <webElementGuid>7aaf73a8-4439-4b7f-aabd-c8de96370cb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'051 Indicadores por dia de entrega (salida) -')]</value>
+      <webElementGuid>0aeebebe-ddd3-4633-8413-33a6a63a3fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[1]/preceding::a[139]</value>
+      <webElementGuid>5dc53743-fac7-4a30-966e-a48b2760daad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intranet OLVA :: Principal'])[2]/preceding::a[140]</value>
+      <webElementGuid>463fb6c8-d0c5-43d5-b32a-b4378e90e4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='051 Indicadores por dia de entrega (salida) -']/parent::*</value>
+      <webElementGuid>488d41a6-53a2-4c2e-a424-606d3422e1c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.olva.pe/intranet/ReporteDistri/ReporteSalidas.php')]</value>
+      <webElementGuid>d436f9f4-4594-4f9e-a724-63f737ef3c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[44]</value>
+      <webElementGuid>bab8872f-bcdd-4f6c-a80e-17c2eea313dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.olva.pe/intranet/ReporteDistri/ReporteSalidas.php' and (text() = '051 Indicadores por dia de entrega (salida) -' or . = '051 Indicadores por dia de entrega (salida) -')]</value>
+      <webElementGuid>56a56cf4-9703-4e65-8904-96bba8b96f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

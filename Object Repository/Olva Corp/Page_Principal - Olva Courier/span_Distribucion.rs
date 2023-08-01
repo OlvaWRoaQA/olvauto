@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Distribucion</name>
+   <tag></tag>
+   <elementGuidId>86c2920d-fdd4-4d33-877d-4b62d1422fff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-menuitem-link.ui-corner-all.modelLayoutHeadItem.blockable.ui-state-hover > span.ui-menuitem-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frmPrincipal:model']/ul/li[4]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dba3b497-f6cb-4501-9da6-9b9279b2fee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menuitem-text</value>
+      <webElementGuid>fbd64ba1-f01d-4f63-b232-b4143af136fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distribucion</value>
+      <webElementGuid>0a7beb91-e948-46b4-894d-fa2f0165106d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPrincipal:model&quot;)/ul[@class=&quot;ui-menu-list ui-helper-reset&quot;]/li[@class=&quot;ui-menuitem ui-widget ui-corner-all ui-menuitem-active&quot;]/a[@class=&quot;ui-menuitem-link ui-corner-all modelLayoutHeadItem blockable ui-state-hover&quot;]/span[@class=&quot;ui-menuitem-text&quot;]</value>
+      <webElementGuid>2bdd340a-51d0-4252-8cbd-cb0a34252882</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='frmPrincipal:model']/ul/li[4]/a/span</value>
+      <webElementGuid>712814e6-4521-4a63-b37a-c0bd8cf7661c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Despacho'])[1]/following::span[1]</value>
+      <webElementGuid>d5695851-ed7c-4625-b1fe-7c6f36a3ca45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maestros'])[1]/following::span[2]</value>
+      <webElementGuid>2c63cb7c-1dfb-4548-b3bb-ccbefed8e0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cobranzas'])[1]/preceding::span[1]</value>
+      <webElementGuid>dad36349-1373-4643-b260-4202b57e6ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clientes'])[1]/preceding::span[2]</value>
+      <webElementGuid>1779eecd-0cea-49f1-a074-008affb8ab6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Distribucion']/parent::*</value>
+      <webElementGuid>261141fd-4389-4545-9c4a-147ac3af1dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>aaee4c5f-b6ba-4774-84d8-d926a1301e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Distribucion' or . = 'Distribucion')]</value>
+      <webElementGuid>1dc20ae8-5fee-4569-a898-3fae0e6a2367</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

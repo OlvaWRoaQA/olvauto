@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Provincia - Departamento - Distrito_f_0bcffb (1)</name>
+   <tag></tag>
+   <elementGuidId>5e0494f3-4c22-4c3b-8685-49b719d207cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-group.bootstrap-select.form-control.open > div.dropdown-menu.open > div.bs-searchbox > input.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='filter-option pull-left'][contains(.,'Provincia - Departamento - Distrito')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d33d8030-6b7b-4a4f-bcb7-6758ce8c780f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3baa465e-b33b-4611-b026-08c3078a84b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>4f6254c9-85d8-4c5e-836b-508c1b3c7d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>c5fe4436-58f1-469b-9856-acab7392f98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_dir&quot;]/div[@class=&quot;btn-group bootstrap-select form-control open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/div[@class=&quot;bs-searchbox&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>9b0ad5cf-cee6-4138-a421-4c99904e4911</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[15]</value>
+      <webElementGuid>294e6eae-6fcb-455b-865b-97da14382dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='adonde_enviamos']/div[2]/div[4]/div/div/div/input</value>
+      <webElementGuid>081d258f-954f-4b2d-af7d-1e633b4272f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/input</value>
+      <webElementGuid>5210ca77-fcea-447d-be61-e5b2762fd1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>50e12ada-4dfa-4ae3-ab81-f40e0e0afb4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

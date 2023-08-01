@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Declaracion Jurada internacional - sobre</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cb5a548-2fba-4acd-aea5-77707af66e1a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>005f27cc-10c6-49bb-9efd-aedbb6d20e88</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino_1'</defaultValue>
+      <description></description>
+      <id>005f27cc-10c6-49bb-9efd-aedbb6d20e88</id>
+      <masked>false</masked>
+      <name>Destino</name>
+   </variable>
+</TestCaseEntity>

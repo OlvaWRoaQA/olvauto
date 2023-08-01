@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Guardar Direccin</name>
+   <tag></tag>
+   <elementGuidId>02f26ac8-b065-4702-bc89-a23307a13280</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-light.mx-1.btn-olva.ok</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(.,'Guardar Dirección')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d1137c4e-6152-4899-b6eb-00f0d5686174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light mx-1 btn-olva ok</value>
+      <webElementGuid>f448e6aa-e373-41e4-871c-a575265e6469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-pressed</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>183bc442-f120-4c6a-99e4-893f2fcf4874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>7dbae5b3-6122-438a-a432-1431143a5e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>4e2c05df-3973-4642-baed-dfc55fde3ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guardar Dirección</value>
+      <webElementGuid>8e5327e9-ea3b-4adc-807b-532bb5e3b44f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__747026___BV___&quot;)/div[1]/button[@class=&quot;btn btn-light mx-1 btn-olva ok&quot;]</value>
+      <webElementGuid>1dd2f7af-2a07-4d9d-b0b7-f8c3b6cee7bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/iframe_Cerrar_iframe_response (2)</value>
+      <webElementGuid>e4ed33d2-8b12-4f9b-9307-69a47de82ebe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>c5b4aeda-beae-425e-a394-f47dfe3f1b72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__747026___BV___']/div/button[2]</value>
+      <webElementGuid>3f1529de-cd54-4c35-befc-12390d1246f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mz, Lote o Referencia'])[1]/following::button[2]</value>
+      <webElementGuid>0a6b3763-ccce-4bd4-ac8f-fb54895ccde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Guardar Dirección']/parent::*</value>
+      <webElementGuid>349f73d3-a006-496d-b653-fcbddb7702aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>e25383b8-ce6f-4f06-9bef-14becb0e19fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Guardar Dirección' or . = 'Guardar Dirección')]</value>
+      <webElementGuid>55ee1f96-8e9b-4f94-b22b-9ad9e804dee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

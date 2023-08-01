@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Venta Contado con Preventa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b0ac7e6-826f-4088-9e57-f17ac2ae186b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a29559d-5937-405d-95ab-bb80197f5bda</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nro_tracking'</defaultValue>
+      <description></description>
+      <id>6a29559d-5937-405d-95ab-bb80197f5bda</id>
+      <masked>false</masked>
+      <name>nro_tracking1</name>
+   </variable>
+</TestCaseEntity>

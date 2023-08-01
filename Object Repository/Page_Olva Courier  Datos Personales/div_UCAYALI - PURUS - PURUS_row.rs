@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UCAYALI - PURUS - PURUS_row</name>
+   <tag></tag>
+   <elementGuidId>e2e97c35-8bbb-4c9c-b907-4713413bc679</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_paso1']/div[6]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9603b30a-4d1c-4776-a919-777f17e4eb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row </value>
+      <webElementGuid>a88f9583-d9f1-4299-a783-66d2dc053679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fieldset_paso1&quot;)/div[@class=&quot;ver_si_dir&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>258fd014-b102-44c2-8dc4-6a6b6e451f8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso1']/div[6]/div</value>
+      <webElementGuid>b5f9c77e-d7ca-42ac-8acf-8eb704970d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UCAYALI - PURUS - PURUS'])[4]/following::div[3]</value>
+      <webElementGuid>3a28128e-38b8-493b-9cc4-9eb0371eef0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UCAYALI - PADRE ABAD - NESHUYA'])[2]/following::div[3]</value>
+      <webElementGuid>72ca0334-a2ad-46a7-be9a-182a882972a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[2]/preceding::div[9]</value>
+      <webElementGuid>3bb71414-6818-40d6-a8f1-1bb325af1b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tienda'])[3]/preceding::div[10]</value>
+      <webElementGuid>9597c437-91d6-4cdb-851c-59580c95cca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div[6]/div</value>
+      <webElementGuid>d7e39f77-8323-4925-aea5-381b0779a031</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sin Declaracion paquete - Naviolva NORMAL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93a2af53-302e-4da1-848a-42613b69c27b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8231da52-12d2-45c5-a53e-bf2f9d99c7c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>8231da52-12d2-45c5-a53e-bf2f9d99c7c7</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

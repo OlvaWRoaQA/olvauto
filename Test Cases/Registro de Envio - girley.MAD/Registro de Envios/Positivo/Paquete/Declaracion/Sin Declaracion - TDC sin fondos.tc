@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sin Declaracion - TDC sin fondos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c837f5b0-1a95-4b8b-a43b-0530e52d79bc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>609eea4b-999b-4d6b-b03d-eb466e2eb9c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>609eea4b-999b-4d6b-b03d-eb466e2eb9c1</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Buscar direccin de entrega_search</name>
+   <tag></tag>
+   <elementGuidId>e855c6e5-2c6c-4252-abe6-edfb1dd46b00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui.fluid.search.selection.dropdown.active.visible > input.search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class='                      btn btn-info btn-form-express                      deliver                      v-step-8                      btn-text                     has-tooltip v-tooltip-open'][contains(.,'Buscar dirección de entrega')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bb3576bc-931b-46ad-9d5f-38df2fb3f636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>4001123b-c277-447c-8dad-6e794afd002f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>edb8f9a2-4774-414e-9c6b-5f9c1e2a8d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>cccb7b94-2791-44b1-bf73-02b538a008b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__29&quot;)/div[@class=&quot;bv-no-focus-ring&quot;]/div[@class=&quot;ui fluid search selection dropdown active visible&quot;]/input[@class=&quot;search&quot;]</value>
+      <webElementGuid>573cfea3-537f-471b-b418-32b8fa71d99c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name=''])[6]</value>
+      <webElementGuid>9bfcf73f-e847-4c20-9d96-102319a91a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='__BVID__29']/div/div/input</value>
+      <webElementGuid>d021f254-f84b-4420-8752-ad050df79bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div/fieldset/div/div/input</value>
+      <webElementGuid>58fa13e6-b68a-4532-a684-750faaf98e99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Productos considerados Mercanca Peligrosa</name>
+   <tag></tag>
+   <elementGuidId>6fa547ab-ed6a-457c-9510-a35a1ab195d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0a9abe29-563a-4b6b-b07f-8acc302c0088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>99e8c6f3-7494-4fea-a009-d19f9edb5cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Productos considerados «Mercancía Peligrosa»</value>
+      <webElementGuid>35d201d0-07e1-4eff-9369-63fba191e291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;page_title transparent&quot;]/div[@class=&quot;container&quot;]/h1[@class=&quot;h2&quot;]</value>
+      <webElementGuid>e97e3e60-d23a-4128-9020-40345d0da5ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/h1</value>
+      <webElementGuid>6792f4ba-a81d-41d7-beda-828fe09db23c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atención al Cliente'])[2]/following::h1[1]</value>
+      <webElementGuid>20d929b8-d652-476c-a4d6-a1ff1a3539bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zona de Clientes'])[2]/following::h1[1]</value>
+      <webElementGuid>48017574-6f1d-4056-ba48-223b2d54f770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Olva Courier'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c823988a-fb6d-43ce-a6b2-a8addefed1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Productos considerados «Mercancía Peligrosa»']/parent::*</value>
+      <webElementGuid>ef3aa223-6dc0-4f72-8e27-cd936a7fd827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>983be4b8-8610-4c7e-baa4-4137c0582fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Productos considerados «Mercancía Peligrosa»' or . = 'Productos considerados «Mercancía Peligrosa»')]</value>
+      <webElementGuid>9d6f62e4-a6c9-41ba-bc76-57bbc6e14337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

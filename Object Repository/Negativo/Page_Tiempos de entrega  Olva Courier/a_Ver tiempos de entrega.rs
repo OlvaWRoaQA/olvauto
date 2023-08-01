@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ver tiempos de entrega</name>
+   <tag></tag>
+   <elementGuidId>6124d0a1-9eda-4bf1-a085-9b6a5024f125</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-rounded.vc_btn3-style-modern.vc_btn3-color-inverse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-9777']/div/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cda8d9b7-e49a-49cb-909a-a422360e4974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-inverse</value>
+      <webElementGuid>1ac6d730-9840-4ea6-afbe-99da2fbab2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.olvacourier.com/wp-content/uploads/2022/08/TIEMPOS-DE-ENTREGA-NACIONAL.pdf</value>
+      <webElementGuid>81dd48ed-8c69-419c-ad80-bce54c5aab76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ver tiempos de entrega</value>
+      <webElementGuid>ef100b04-5395-4daf-8272-974491b81236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-9777&quot;)/div[@class=&quot;entry-content consulting_elementor_wrapper&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;vc_btn3-container vc_btn3-inline&quot;]/a[@class=&quot;vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-inverse&quot;]</value>
+      <webElementGuid>35221755-7f0f-4fab-971c-7b13084f07c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-9777']/div/div/div/div/div/div/a</value>
+      <webElementGuid>1db59d86-245a-4a2c-945b-690e6ddecb18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ver tiempos de entrega')]</value>
+      <webElementGuid>de5601a0-cbf6-4283-855c-b1c5470a8fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiempos de entrega'])[1]/following::a[1]</value>
+      <webElementGuid>b1a4225d-2b8f-4ece-9515-b5864a72a466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atención al Cliente'])[2]/following::a[1]</value>
+      <webElementGuid>bbd6b98d-f8dd-49be-80dd-2f0a4bb13b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Noticias Recientes'])[1]/preceding::a[7]</value>
+      <webElementGuid>d00af41a-fc13-43c2-a4dc-c9c766dec4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nuevos ingresos y mudanzas Tiendas Olva'])[1]/preceding::a[7]</value>
+      <webElementGuid>cadd8aee-1a34-4230-9a00-0439553eab6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ver tiempos de entrega']/parent::*</value>
+      <webElementGuid>76ffe3e6-fe19-44cd-ba2e-1fbef4cc8d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.olvacourier.com/wp-content/uploads/2022/08/TIEMPOS-DE-ENTREGA-NACIONAL.pdf')]</value>
+      <webElementGuid>49d4c4dc-e211-42e9-92b6-dd8ffffcb60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a</value>
+      <webElementGuid>4741a21f-2104-448e-b28f-4afa8e4ac8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.olvacourier.com/wp-content/uploads/2022/08/TIEMPOS-DE-ENTREGA-NACIONAL.pdf' and (text() = 'Ver tiempos de entrega' or . = 'Ver tiempos de entrega')]</value>
+      <webElementGuid>b4317de3-3538-4c4b-86b6-8c27c1b0b90c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

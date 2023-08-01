@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_02</name>
+   <tag></tag>
+   <elementGuidId>add09534-8467-4743-aebe-0c2933ea08a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@id,'frmPreventaBusc:txtNroPedido')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d9b94a90-3f62-4c64-97aa-a39fc236b312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>358d0aa0-685f-47de-84a3-59abac69461b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            100101
+                        </value>
+      <webElementGuid>2a4a1fec-e6cd-4563-9736-61991b2c5b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmUbigeoDestino:ubigeoCoincidenciasTbl_data&quot;)/tr[@class=&quot;ui-widget-content ui-datatable-even&quot;]/td[1]</value>
+      <webElementGuid>5ccfbc7c-02b0-4981-862f-7224f8cc886d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inicio/Page_Olva Courier  Datos Personales/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>eb70f8f2-8747-4c42-9d11-7366e43bfb8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='frmUbigeoDestino:ubigeoCoincidenciasTbl_data']/tr/td</value>
+      <webElementGuid>0d88c4ba-ee13-4cc7-80a5-96e78dbc7002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País'])[6]/following::td[1]</value>
+      <webElementGuid>98759840-18d3-4cd9-b343-d4dcc913df40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departamento'])[6]/following::td[1]</value>
+      <webElementGuid>5e937f33-3a45-4842-abd5-fef500f6b47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUANUCO'])[5]/preceding::td[1]</value>
+      <webElementGuid>546f8933-079a-4741-831d-25cc82be95dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HUANUCO'])[6]/preceding::td[2]</value>
+      <webElementGuid>de27fef8-276e-4a89-9cda-d92be0348b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div[2]/form/div/div/div[2]/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>7b55759f-0470-4856-beaf-98b7ef4bea60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                            100101
+                        ' or . = '
+                            100101
+                        ')]</value>
+      <webElementGuid>16d20aac-7d9f-4bf2-8617-b2c6b0ced31b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

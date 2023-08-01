@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>ORIGENES PAGO TIENDA - REGISTRO DE ENVIO</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c6297b9d-d297-407f-9bb7-f56301a5f2df</dataFileGUID>
+   <dataSourceUrl>C:\Users\roasa\OneDrive\Documentos\Olva TI\Interna\QA\Data QA\Pruebas Registro de envio\ORIGENES PAGO TIENDA - REGISTRO DE ENVIO.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>origenes pago en tienda</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

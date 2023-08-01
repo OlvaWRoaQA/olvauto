@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debe seleccionar un artculo de la lista</name>
+   <tag></tag>
+   <elementGuidId>8348ea14-2906-4ce5-893a-c1057106ed40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbo_paquete_idarticulo_msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(.,'Debe seleccionar un artículo de la lista')])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d85a72e-9de3-44dd-ba1b-d9ef5b401d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cbo_paquete_idarticulo_msg</value>
+      <webElementGuid>bfc46569-098a-4eea-a150-2efa1219e72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error</value>
+      <webElementGuid>2df08457-0009-486f-b676-e3217786d273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Debe seleccionar un artículo de la lista</value>
+      <webElementGuid>cbd0b2df-22ea-43bc-a5db-59cbd0bd504a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbo_paquete_idarticulo_msg&quot;)</value>
+      <webElementGuid>81002708-8875-4f31-99b4-055535babe6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cbo_paquete_idarticulo_msg']</value>
+      <webElementGuid>6ab1a26a-5e0b-44db-8904-492b9122029f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div_articulo']/div[2]</value>
+      <webElementGuid>b12451eb-9d08-4976-9081-9f67d55840e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UTILES DE OFICINA'])[2]/following::div[1]</value>
+      <webElementGuid>d61370f1-b7c6-4f17-9251-cc4923488d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UTILES DE ESCRITORIO'])[2]/following::div[1]</value>
+      <webElementGuid>190f4a72-d79d-450d-90f2-0d4cff610683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe ingresar la descripción del artículo'])[1]/preceding::div[1]</value>
+      <webElementGuid>54cc6120-c026-4613-977b-fcbbfb3e2a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cm'])[1]/preceding::div[10]</value>
+      <webElementGuid>5a669cc7-63ce-4760-9a9c-81b5b20ea098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Debe seleccionar un artículo de la lista']/parent::*</value>
+      <webElementGuid>014e6a7f-d80b-415f-a0f6-47bf61cae3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>c2bae0a0-9f2f-4896-af49-b62cd13d23c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cbo_paquete_idarticulo_msg' and (text() = 'Debe seleccionar un artículo de la lista' or . = 'Debe seleccionar un artículo de la lista')]</value>
+      <webElementGuid>813cb9bc-10d1-4504-be43-5c9c4d6655ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

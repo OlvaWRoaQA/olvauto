@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11 validar servicio valorado - Iteracion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>880775f9-f4ea-4e45-a5b5-b7ddf2a91e74</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd9b04a8-5f8c-489f-bb4d-34087b79ff0c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'direccion_tienda'</defaultValue>
+      <description></description>
+      <id>cd9b04a8-5f8c-489f-bb4d-34087b79ff0c</id>
+      <masked>false</masked>
+      <name>tienda</name>
+   </variable>
+</TestCaseEntity>

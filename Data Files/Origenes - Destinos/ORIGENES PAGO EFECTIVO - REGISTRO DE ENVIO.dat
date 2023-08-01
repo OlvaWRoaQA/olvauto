@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>ORIGENES PAGO EFECTIVO - REGISTRO DE ENVIO</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>cdb8c84f-e257-4599-b5c3-4782e0098a19</dataFileGUID>
+   <dataSourceUrl>C:\Users\roasa\OneDrive\Documentos\Olva TI\Interna\QA\Data QA\Pruebas Registro de envio\ORIGENES PAGO EFECTIVO - REGISTRO DE ENVIO.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Origenes pagoefectivo</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

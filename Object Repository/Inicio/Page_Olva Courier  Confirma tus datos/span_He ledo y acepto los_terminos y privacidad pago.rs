@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_He ledo y acepto los_terminos y privacidad pago</name>
+   <tag></tag>
+   <elementGuidId>475cd357-ce56-4f21-a8ec-ed039c2f46a7</elementGuidId>
+   <imagePath>C:\Users\roasa\OneDrive\Documentos\Katalon Projects\Olva\OLVA WEB\Olva WEB\Screenshot_2.jpg</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(@for,'ckbTerms')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkmark</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;form_tipo_envio&quot;)/p[@class=&quot;terms&quot;]/label[@class=&quot;container-check&quot;]/span[@class=&quot;checkmark&quot;][count(. | //span[@class = 'checkmark']) = count(//span[@class = 'checkmark'])]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\Users\roasa\OneDrive\Documentos\Katalon Projects\Olva\OLVA WEB\Olva WEB\Screenshot_2.jpg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff6e5e0f-4e77-4e53-b4e5-b86a0d81387e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>e95f8b85-6e24-4139-b379-dcea2c269325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_tipo_envio&quot;)/p[@class=&quot;terms&quot;]/label[@class=&quot;container-check&quot;]/span[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>a039f08d-2c08-4cff-bfba-29429d5bfd08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_tipo_envio']/p/label/span</value>
+      <webElementGuid>f704540a-6a08-4c5a-bd62-121f168a9c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>4ff00d16-375e-4984-ae40-5fb72141c673</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

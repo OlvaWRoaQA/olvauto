@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Avenida Javier Prado E, San Borja</name>
+   <tag></tag>
+   <elementGuidId>7f22e492-4567-4df1-8f65-1b0e27f9509f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.list-group-item.list-group-item-action.addressListDetail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Avenida Javier Prado E, San Borja, Perú' or . = 'Avenida Javier Prado E, San Borja, Perú')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8d2b6d0-f00d-484b-8412-819859b32751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item list-group-item-action addressListDetail</value>
+      <webElementGuid>2bc58552-9811-497b-9373-3ef110c83397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fcc641f5-edf8-4ccf-9a29-357ffe81822a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avenida Javier Prado E, San Borja, Perú</value>
+      <webElementGuid>6b89ac45-b3ef-4482-979b-a2eb91bd7456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__926229___BV___&quot;)/div[1]/div[@class=&quot;list-group addressList mt-2&quot;]/button[@class=&quot;list-group-item list-group-item-action addressListDetail&quot;]</value>
+      <webElementGuid>f398a06b-4ad8-49b8-87ff-c70e1344009a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inicio/Page_Principal - Olva Courier/iframe_Di</value>
+      <webElementGuid>20b2ddde-c839-429e-83e8-de5c4763c6ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>07c29050-1226-4a1a-846d-be34328474c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__926229___BV___']/div/div/button</value>
+      <webElementGuid>18387249-ae8f-420e-a9cc-8f4ace7ba2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dirección de Entrega'])[1]/following::button[1]</value>
+      <webElementGuid>7e905f4e-3f48-43bf-93a8-0220e72374f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fija la dirección en el mapa'])[1]/preceding::button[1]</value>
+      <webElementGuid>4e31e656-a6a8-4c81-89a0-7fd6e5b851b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avenida Javier Prado E, San Borja, Perú']/parent::*</value>
+      <webElementGuid>5e5b17b8-f8a9-4667-ac7e-8960f3ee61ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>286ae0d9-eb25-4739-93ba-6be46937e628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Avenida Javier Prado E, San Borja, Perú' or . = 'Avenida Javier Prado E, San Borja, Perú')]</value>
+      <webElementGuid>0e5022f0-7770-4295-b780-94149bda7947</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

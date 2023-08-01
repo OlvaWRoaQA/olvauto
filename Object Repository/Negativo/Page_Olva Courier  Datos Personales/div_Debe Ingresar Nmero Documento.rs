@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debe Ingresar Nmero Documento</name>
+   <tag></tag>
+   <elementGuidId>82c39860-00eb-4568-85d9-3dabfcb376c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_consignado_dni_msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txt_consignado_dni_msg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>541b25bd-17fa-4696-8e1b-aea3b3a6c024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_consignado_dni_msg</value>
+      <webElementGuid>e0299687-1f62-42c5-9e23-674043516645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl_msg_error col-md-offset-1</value>
+      <webElementGuid>2183c3ee-a1f0-4b5b-97cc-a1704e059754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Debe Ingresar Número Documento</value>
+      <webElementGuid>9e8d3f43-5044-4437-99c3-c2604096847a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_consignado_dni_msg&quot;)</value>
+      <webElementGuid>b7d3a516-e1fb-495f-9b23-1c04c273312c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='txt_consignado_dni_msg']</value>
+      <webElementGuid>88f17f92-c274-4d6b-ab19-90193cc0f36a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='quien_recibe']/div[2]/div[3]/div</value>
+      <webElementGuid>f6f542ed-d417-497e-946f-75f67021e243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe Seleccionar Tipo Documento'])[1]/following::div[2]</value>
+      <webElementGuid>d131d4fe-5d6e-420a-85c0-cc6486cbaaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARNÉ EXT.'])[5]/following::div[3]</value>
+      <webElementGuid>d08d6e20-6b99-4a18-934d-752e5f5ffd56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe ingresar Número Celular/Teléfono'])[1]/preceding::div[1]</value>
+      <webElementGuid>d0327b40-11cc-4872-b4ea-fe275e0694a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debe Ingresar Nombre'])[1]/preceding::div[5]</value>
+      <webElementGuid>8848ee60-bc0d-4043-9a1e-432bc9cf0da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Debe Ingresar Número Documento']/parent::*</value>
+      <webElementGuid>92c80f3a-e8ed-484f-97b8-167a5ec03689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div[3]/div</value>
+      <webElementGuid>a66379f4-bd3a-49bb-a558-0329b109382e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'txt_consignado_dni_msg' and (text() = 'Debe Ingresar Número Documento' or . = 'Debe Ingresar Número Documento')]</value>
+      <webElementGuid>78520660-63c9-4ea1-aa26-5996bfc8bc51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tarjeta de crdito y dbito</name>
+   <tag></tag>
+   <elementGuidId>3330dc78-dcbf-4585-92a3-b07bd338afec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pm001</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id = 'pm001' and (text() = 'Tarjeta de crédito y débito' or . = 'Tarjeta de crédito y débito')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b539d291-e384-4e3d-a3e4-415aefb8d390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pm001</value>
+      <webElementGuid>47dedec6-33fe-4750-ae01-f45b16900e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tarjeta de crédito y débito</value>
+      <webElementGuid>94391b25-856c-47b2-a7ea-b9c4b357645d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pm001&quot;)</value>
+      <webElementGuid>dfb4c432-8f1e-4cc6-b954-3d15d52a9850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Registro de Envio/Page_Olva Courier  Medios de pago/Page_Olva Courier  Medios de pago/Page_Olva Courier  Medios de pago/iframe_Aceptar_visaNetJS</value>
+      <webElementGuid>74f29a3e-79f3-44bf-959c-1de3eea21214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='pm001']</value>
+      <webElementGuid>00748db8-ec4d-4d27-a81f-f8a8bb74681c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentMethods']/div/div/section/label/span</value>
+      <webElementGuid>36d46a1e-819f-4ca4-b50a-dc7aeb852e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elige un medio de pago:'])[1]/following::span[1]</value>
+      <webElementGuid>1a63feb3-9a48-41f0-8d88-0e1982306198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nueva tarjeta'])[1]/following::span[1]</value>
+      <webElementGuid>baf1cdab-492d-429b-ba9d-7b63234e6416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código QR usando tu billetera electrónica'])[1]/preceding::span[1]</value>
+      <webElementGuid>143021dd-8ef2-4785-8a66-3f9a023f84a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tarjeta de crédito y débito']/parent::*</value>
+      <webElementGuid>c56066cf-f15d-49a0-9bb4-84f3f743f983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/label/span</value>
+      <webElementGuid>4cf5c928-db5f-4142-9bed-3b6bd988e144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'pm001' and (text() = 'Tarjeta de crédito y débito' or . = 'Tarjeta de crédito y débito')]</value>
+      <webElementGuid>81c7be1a-f57e-4d57-8a68-2c5499e58a15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

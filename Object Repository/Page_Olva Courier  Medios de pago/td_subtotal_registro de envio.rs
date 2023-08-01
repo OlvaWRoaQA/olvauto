@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_subtotal_registro de envio</name>
+   <tag></tag>
+   <elementGuidId>bd3de7d1-8cbf-4c12-bef3-b93ad410efdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txt_subtotal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='txt_subtotal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b3053812-1241-4e28-a58a-6221bed691f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txt_subtotal</value>
+      <webElementGuid>af0e95a3-e185-41a2-8261-403edf7df7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>txt_subtotal</value>
+      <webElementGuid>31cf0d9a-4500-4b95-b773-fe9c885e3bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S/ 16.09
+                                                </value>
+      <webElementGuid>f3de1234-52ae-4839-b6c8-a993061ce284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txt_subtotal&quot;)</value>
+      <webElementGuid>b1903077-91c2-4f5d-b723-e99354483dbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='txt_subtotal']</value>
+      <webElementGuid>688927f8-aa83-4ec9-9dcb-0456d8c1e1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_paso3']/div[2]/div[3]/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>79624ac3-b603-48ab-8040-95c4a3f0ded9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub total:'])[1]/following::td[1]</value>
+      <webElementGuid>3d39fde7-baaa-4cf3-9f96-b388a033eeac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad de envíos:'])[1]/following::td[3]</value>
+      <webElementGuid>b71787b5-64ed-444d-89c6-5492db108654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I.G.V.:'])[1]/preceding::td[1]</value>
+      <webElementGuid>30e04c79-1de5-4612-9276-799524c18432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S/ 2.90'])[1]/preceding::td[2]</value>
+      <webElementGuid>135ad35e-095e-414f-a579-c5c41cc8356d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='S/ 16.09']/parent::*</value>
+      <webElementGuid>0dc1e99b-6ec9-4019-878e-d77d0190d420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>123cc320-56aa-4616-a513-fb306f003061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'txt_subtotal' and @name = 'txt_subtotal' and (text() = 'S/ 16.09
+                                                ' or . = 'S/ 16.09
+                                                ')]</value>
+      <webElementGuid>8cae0d34-ab07-4822-afd4-ecd02c663c66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

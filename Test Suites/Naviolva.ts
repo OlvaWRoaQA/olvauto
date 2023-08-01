@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Naviolva</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ffffc3e1-043e-429d-a6e3-15de87d91eb5</testSuiteGuid>
+   <testCaseLink>
+      <guid>420d17db-a05d-4a49-8219-383fd17b311d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Paquetes/Cargo adjunto - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>56eae544-6d54-46ac-95a4-f982e5bbf0c6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Paquetes/Con Declaracion paquete - Naviolva Encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7e12ae4b-4c49-4497-9d20-255d104fc0d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Paquetes/Con Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dc8bcbf2-1a7b-4d35-a4e7-8f4c03347d86</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Paquetes/Sin Declaracion paquete - Naviolva encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a6d54ed3-02d0-492a-b9c3-a1c89225d42a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>295dc46e-3629-4039-8dae-d62a66b8b3fc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Paquetes/Sin Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>57f5f4f6-a1d4-4c15-b338-c75828b594ab</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6d0cfad2-aecf-4780-90c6-2c066009bba8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Paquetes/Sin Declaracion paquete - Naviolva NORMAL</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d28e9de5-ea61-4639-a050-62cc274bdc19</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c92e90bc-f440-46c6-b21d-dae1a0bd4c3c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Sobre/Cargo adjunto - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fbf341ec-a378-40ab-a715-3737a30cd1e0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Sobre/Sin Declaracion paquete - Naviolva encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2b671175-fb82-4578-8c31-197bdb8b4b0c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dc89b80f-998a-422a-9e52-94cc3b73afba</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Sobre/Sin Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>31f84515-8c86-49fb-a381-70bd7599b091</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0b8e33be-38f0-42b7-b034-ceba1dcc16e4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/CE/Sobre/Sin Declaracion paquete - Naviolva NORMAL</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c8677706-7649-4e41-b955-1587c6c23b14</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>95c3d8d1-a703-4984-b71e-b8be9f69761c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Paquetes/Cargo adjunto - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4ca04192-03f6-46d2-8fd9-17c38799be93</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Paquetes/Con Declaracion paquete - Naviolva Encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a48fead-e0f7-4ec3-bc04-49ca1fa3fae5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Paquetes/Con Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3dbd9589-1114-48a4-8167-3087b59b07a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Paquetes/Sin Declaracion paquete - Naviolva encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f963ebac-b9b2-4465-a0de-4fc8af8cac85</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9c412548-07d2-44a7-914d-3ce81b82da42</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Paquetes/Sin Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bb99aa07-114e-4c30-9221-dfede3a69965</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0585d1fd-8e71-4d3c-8548-be98bcd2827e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Paquetes/Sin Declaracion paquete - Naviolva NORMAL</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>631ed5c1-8d51-49bc-8500-9a26dbf12a39</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>990e81dd-6d96-43b0-af12-be2c0ac0c70d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Sobre/Cargo adjunto - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>724144b3-dab7-4997-ac98-f1566d808857</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Sobre/Sin Declaracion paquete - Naviolva encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>13e76aa5-459c-4b87-b789-639a4b69bda4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>de9bd31b-6f4d-4c19-867b-4780758bf115</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Sobre/Sin Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c80bfd8e-9890-4d8b-92be-7a5b645db0b0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>63ae73a2-6f26-49c1-bbce-40c239351f53</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/DNI/Sobre/Sin Declaracion paquete - Naviolva NORMAL</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f9e79004-df53-4a32-bd6c-571ddaafb24e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d0103c61-606c-4c89-b97e-de57df920ad9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Paquetes/Cargo adjunto - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2fac7e6a-cc9e-45ac-8085-437bd0f6edb8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Paquetes/Con Declaracion paquete - Naviolva Encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4ea25ac6-8164-46af-b035-1603899df487</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Paquetes/Con Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>74b789c8-b7f7-4e93-bfd2-7f006c9fbefb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Paquetes/Sin Declaracion paquete - Naviolva encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>06323d47-aabc-474c-a870-8d9d55d93543</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>365f4c2d-fd14-4c7c-b00f-b60f38b51b2c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Paquetes/Sin Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9c00c929-b4a1-4d98-bd73-0623d65203ea</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>75703b2a-7aec-4417-aa73-26b03c2688ec</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Paquetes/Sin Declaracion paquete - Naviolva NORMAL</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>91e8e14e-c951-4d0d-bee6-656617f4f714</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5914d2d0-254c-4c15-a150-8496614bcd5e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Sobre/Cargo adjunto - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>79cc8c33-94a8-4fb2-9bae-948406abb3af</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Sobre/Sin Declaracion paquete - Naviolva encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>83e462b1-b069-4f04-b06a-de795a11cd38</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4b6de26a-131a-4945-9404-1382fa1319df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Sobre/Sin Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8f101ef2-a8cc-43c8-b847-ff8d71c32470</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>56ce58fe-2da1-42f9-8dd4-c65aa3822bfb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/Emprendedores/Sobre/Sin Declaracion paquete - Naviolva NORMAL</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a93035a2-769a-4f53-967c-d92dd0229779</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d71dc9bb-9bb1-4547-be2e-3b5e55eb591e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Paquetes/Cargo adjunto - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bf258649-343b-4cf0-ac96-70177faf8229</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Paquetes/Con Declaracion paquete - Naviolva Encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1a7b2f75-7277-448c-bd8d-63aaea8e0254</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Paquetes/Con Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>38c58812-a3a7-4167-97da-5ca59ddfcd1f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Paquetes/Sin Declaracion paquete - Naviolva encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0de60f9d-5417-4e52-8113-d4f01b274b74</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c94f1e59-5164-4baf-81fc-9d541fdcb0a0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Paquetes/Sin Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e6595900-c3dd-4a78-ad5b-9c0139d1d4fd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2023d463-0c98-4692-95a9-6404eafe0f01</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Paquetes/Sin Declaracion paquete - Naviolva NORMAL</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8231da52-12d2-45c5-a53e-bf2f9d99c7c7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>45978a45-0227-4db9-a16f-701fdffa96b4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Sobre/Cargo adjunto - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a2be03b-9526-4e1f-a887-a475b2f00c62</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Sobre/Sin Declaracion paquete - Naviolva encuesta</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>61e996f6-b615-4fec-ad60-c49683309672</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>87a17ac2-5a29-4138-bc08-711d8d161187</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Sobre/Sin Declaracion paquete - Naviolva modal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dcb416e8-f950-4194-9016-6025da46eff0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b89bc04f-0af3-4129-ba5e-6154113a5c41</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Registro de Envio - girley.MAD/Naviolva/RUC/Sobre/Sin Declaracion paquete - Naviolva NORMAL</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f3aed7a6-a5cc-42d1-832c-c11c8e7d942f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

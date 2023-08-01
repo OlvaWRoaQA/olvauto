@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DNIRUC_ui-button-icon-left ui-icon ui-c ui-icon-search</name>
+   <tag></tag>
+   <elementGuidId>45d52e7e-a03f-48aa-ac9d-4d624d8ce637</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@id,'frmVentaContado:docIdCliente')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon-left.ui-icon.ui-c.ui-icon-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ee23917-6a06-4e7a-a3af-9dbf2a510d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-search</value>
+      <webElementGuid>c19498ad-62df-41c3-969f-eee88b084b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmVentaContado:btnSelClie&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-search&quot;]</value>
+      <webElementGuid>8865ce21-cd57-4b72-bdb2-89a329fa3344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>897b71f8-41db-47d9-9e4d-1cd1df47a3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Distribucion/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal</value>
+      <webElementGuid>1cd52f6c-1fda-44f4-839a-db65d6a14ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Olva Corp/Distribucion/Distribucion/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal (1)</value>
+      <webElementGuid>298b9e0e-4797-40bd-9231-ccdd8c19acba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmVentaContado:btnSelClie']/span</value>
+      <webElementGuid>6a9d0098-6c37-47e3-813f-24c44cf973aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>15deb836-826c-46a4-a02d-3b62be526e94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

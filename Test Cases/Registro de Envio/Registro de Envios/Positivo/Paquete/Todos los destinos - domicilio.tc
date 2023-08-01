@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Todos los destinos - domicilio</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c28b84cd-d7cc-402b-81e5-e0ff289d5903</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba9ec5ef-3f8f-45a8-a753-060821b3db40</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino'</defaultValue>
+      <description></description>
+      <id>ba9ec5ef-3f8f-45a8-a753-060821b3db40</id>
+      <masked>false</masked>
+      <name>destinos</name>
+   </variable>
+</TestCaseEntity>

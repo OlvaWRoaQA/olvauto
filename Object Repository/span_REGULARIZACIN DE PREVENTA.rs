@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_REGULARIZACIN DE PREVENTA</name>
+   <tag></tag>
+   <elementGuidId>e3b1e1fe-66af-4687-9fe3-81b15febf71a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='frmRptPreVentas:tblRptPreVentas:0:estado']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ccbbee07-6e07-44e2-9224-dec017b3d48c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frmRptPreVentas:tblRptPreVentas:0:estado</value>
+      <webElementGuid>c90cd46c-3857-464c-95b5-0149e14a518f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REGULARIZACIÓN DE PREVENTA</value>
+      <webElementGuid>93fb6d14-0b29-47e0-a7c0-af812e6fa4d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmRptPreVentas:tblRptPreVentas:0:estado&quot;)</value>
+      <webElementGuid>c53e1d46-9f1a-4f73-a63a-8b82550bcfbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iframe_Reporte_iframePrincipal_1</value>
+      <webElementGuid>032b68cf-1399-4208-be96-d9ba4e7ee25c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='frmRptPreVentas:tblRptPreVentas:0:estado']</value>
+      <webElementGuid>81f87a2c-d07c-46e6-b9e0-5a6315679874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='frmRptPreVentas:tblRptPreVentas_data']/tr/td[7]/span</value>
+      <webElementGuid>1f650904-4cc2-43e4-9997-e046c82e8ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NRO. OPERACION 1: 1111111, MONTO: 9'])[1]/following::span[2]</value>
+      <webElementGuid>fb457221-150e-49bb-8f1a-cfd6b66410dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NORIEGA LINAREZ ANA DE JESUS'])[1]/following::span[3]</value>
+      <webElementGuid>a8c00cf6-5947-418c-b207-d7da2d097d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALM'])[1]/preceding::span[1]</value>
+      <webElementGuid>8cf10688-69d3-4937-8f5a-ca13a1e92604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OLVA ALMACEN INTERNO -AV. ARGENTINA 4458 CALLAO'])[2]/preceding::span[2]</value>
+      <webElementGuid>0965e163-bca2-45a4-bd4b-b53886a7999f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/span</value>
+      <webElementGuid>6688ffb2-f2ea-4f4d-9571-c6a3b559294a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'frmRptPreVentas:tblRptPreVentas:0:estado' and (text() = 'REGULARIZACIÓN DE PREVENTA' or . = 'REGULARIZACIÓN DE PREVENTA')]</value>
+      <webElementGuid>cac4f95e-70e8-4da7-aa8f-a1d5061deaf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

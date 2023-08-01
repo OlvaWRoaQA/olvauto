@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sin Declaracion - TDC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c658173-5c55-47fa-bbc4-726356997d2b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5cef1fb0-99c7-4c26-975c-e26f24ec10ea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4474118355632240</defaultValue>
+      <description></description>
+      <id>5cef1fb0-99c7-4c26-975c-e26f24ec10ea</id>
+      <masked>false</masked>
+      <name>nro_tdc</name>
+   </variable>
+</TestCaseEntity>

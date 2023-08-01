@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>c1fae984-4e1d-4926-85a4-436a4c0a4edd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name=&quot;spanTerms&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.buttons > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b54cce4-32de-4b8b-917d-b4f4a56b6a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;op_forma_pago_tienda&quot;)/ul[@class=&quot;buttons&quot;]/span[1]</value>
+      <webElementGuid>3d12e080-29c8-4315-b03f-b00b4ea3b761</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='op_forma_pago_tienda']/ul/span</value>
+      <webElementGuid>8cdd8177-592e-4707-84ba-795b45be200c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/span</value>
+      <webElementGuid>2afa3770-8107-4e55-a884-2d54b1515875</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

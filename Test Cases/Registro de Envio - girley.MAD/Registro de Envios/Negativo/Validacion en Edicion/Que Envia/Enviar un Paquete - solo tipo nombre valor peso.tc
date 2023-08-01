@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enviar un Paquete - solo tipo nombre valor peso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6de640c8-7732-41bd-8860-6b53386145bd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Destino con Promocion y sin promocion una tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b8a4712-ef4e-4664-9066-5fc61ac7d05d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73ec8e41-e1bd-4931-8f10-24a4e55aa34d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'destino'</defaultValue>
+      <description></description>
+      <id>73ec8e41-e1bd-4931-8f10-24a4e55aa34d</id>
+      <masked>false</masked>
+      <name>destino_promocion</name>
+   </variable>
+</TestCaseEntity>

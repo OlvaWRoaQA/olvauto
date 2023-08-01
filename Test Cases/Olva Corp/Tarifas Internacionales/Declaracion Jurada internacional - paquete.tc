@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Declaracion Jurada internacional - paquete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91a6a9f5-4ceb-408d-a75c-444f0b86d503</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16ed8e0f-2eb0-4dfa-af6d-30f58c42c60d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>888f72c2-827f-4bd8-a577-44827577e103</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Destino_1'</defaultValue>
+      <description></description>
+      <id>16ed8e0f-2eb0-4dfa-af6d-30f58c42c60d</id>
+      <masked>false</masked>
+      <name>Destino</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tarifa_1'</defaultValue>
+      <description></description>
+      <id>888f72c2-827f-4bd8-a577-44827577e103</id>
+      <masked>false</masked>
+      <name>Tarifa</name>
+   </variable>
+</TestCaseEntity>

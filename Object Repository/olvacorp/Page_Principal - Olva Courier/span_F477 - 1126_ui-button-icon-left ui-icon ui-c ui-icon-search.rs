@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_F477 - 1126_ui-button-icon-left ui-icon ui-c ui-icon-search</name>
+   <tag></tag>
+   <elementGuidId>8a1285fa-22e8-4366-942a-529f7700fcec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='frmRptPreVentas:tblRptPreVentas:0:j_idt61']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>22051586-d034-494c-b92d-75ed801e4dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon-left ui-icon ui-c ui-icon-search</value>
+      <webElementGuid>0f820eb4-3d7a-4dd1-a22e-9c8239e1ecaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmRptPreVentas:tblRptPreVentas:0:j_idt61&quot;)/span[@class=&quot;ui-button-icon-left ui-icon ui-c ui-icon-search&quot;]</value>
+      <webElementGuid>83737760-2d8d-4a61-a486-4dbc62a82fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/olvacorp/Page_Principal - Olva Courier/iframe_Reporte_iframePrincipal_1</value>
+      <webElementGuid>cc46d8f7-73ed-4716-9c00-2f1cafde0fd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='frmRptPreVentas:tblRptPreVentas:0:j_idt61']/span</value>
+      <webElementGuid>c96a4306-75d4-426f-82b5-ec12f5e03e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[16]/button/span</value>
+      <webElementGuid>769b70c0-b231-4943-97c6-1b30fc1cbbbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

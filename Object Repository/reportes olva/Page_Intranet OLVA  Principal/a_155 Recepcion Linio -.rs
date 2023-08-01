@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_155 Recepcion Linio -</name>
+   <tag></tag>
+   <elementGuidId>f8c4bd68-69ce-48d3-8033-5e7eaca627e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'155 Recepcion Linio -')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1cc1d3ab-2576-4035-914f-b46b3eca8dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.olva.pe/intranet/Recepcion_linio/index.php?codUsuario=usci</value>
+      <webElementGuid>55a775e3-74ed-4cb5-8f23-d40b358d34f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>11927fd5-af00-4a73-98d2-1cf013304f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>64e1e2cf-001e-49be-b729-6f2c1f0b433e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>155 Recepcion Linio -</value>
+      <webElementGuid>b18b6d10-79b3-4749-ab5f-1d02e2e5cf10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;menubar&quot;]/a[@class=&quot;menu&quot;]</value>
+      <webElementGuid>cc901ab5-aced-4fee-9bf9-610c663ecdd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'155 Recepcion Linio -')]</value>
+      <webElementGuid>236b1d16-8831-4142-98b4-e3afd5fd2f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[1]/preceding::a[43]</value>
+      <webElementGuid>9c6c4557-a769-47a4-a469-a8b57540a792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intranet OLVA :: Principal'])[2]/preceding::a[44]</value>
+      <webElementGuid>30a4b58a-8e8f-439b-b756-c3314ebb8015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='155 Recepcion Linio -']/parent::*</value>
+      <webElementGuid>68fca66b-aaf9-4e22-9839-6d6977de91e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.olva.pe/intranet/Recepcion_linio/index.php?codUsuario=usci')]</value>
+      <webElementGuid>63088fbe-da45-4a31-a0eb-e985837c29f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[140]</value>
+      <webElementGuid>55556f38-aea7-475a-afea-8d4707259788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.olva.pe/intranet/Recepcion_linio/index.php?codUsuario=usci' and (text() = '155 Recepcion Linio -' or . = '155 Recepcion Linio -')]</value>
+      <webElementGuid>a37eb752-cd0c-49f1-882b-c64642748965</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
