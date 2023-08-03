@@ -33,7 +33,7 @@ WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos 
     '10066810581')
 
 WebUI.setText(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/input_CARN EXT_txt_telefono_cliente'), 
-    '900000001')
+    '900000002')
 
 WebUI.click(findTestObject('Object Repository/button_LIMA'))
 
