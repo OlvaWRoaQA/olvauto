@@ -77,12 +77,15 @@ WebUI.sendKeys(findTestObject('Object Repository/Negativo/Page_Olva Courier  Dat
 WebUI.setText(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_address'), 
     'Calle C 185, Breña, Perú')
 
-WebUI.click(findTestObject('Negativo/Page_Olva Courier  Datos Personales/button_direccion_1'), FailureHandling.STOP_ON_FAILURE)
+WebUI.sendKeys(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_address'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_reference'), 
-    0)
+WebUI.click(findTestObject('a_Buscar direccin de entrega (new ubicacion)'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_reference'), 
+WebUI.click(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/input_Referencia_reference_new'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.setText(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/input_Referencia_reference_new'), 
     'cerca estacion de metropolitano')
 
 WebUI.click(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/button_Guardar Direccin'))
