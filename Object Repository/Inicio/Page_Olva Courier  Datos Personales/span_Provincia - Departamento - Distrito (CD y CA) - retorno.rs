@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Provincia - Departamento - Distrito (text) - DJ</name>
+   <name>span_Provincia - Departamento - Distrito (CD y CA) - retorno</name>
    <tag></tag>
-   <elementGuidId>0c0514f8-edaf-47cd-af75-f7c88349821f</elementGuidId>
+   <elementGuidId>7afcd2de-6d67-4f6c-8ec1-e227946429b3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[contains(@type,'text')])[17]</value>
+         <value>//*[@id=&quot;formRetornoCargo&quot;]/div[1]/div[2]/div[4]/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.col-md-7.cls_element_item.espacio_vista_xs_2.ver_si_dir > div.btn-group.bootstrap-select.form-control > button.btn.dropdown-toggle.form-control.selectpicker.btn-default > span.filter-option.pull-left</value>
+         <value>div.col-md-7.cls_element_item.espacio_vista_xs_2.ver_si_tienda > div.btn-group.bootstrap-select.form-control > button.btn.dropdown-toggle.form-control.selectpicker.btn-default > span.filter-option.pull-left</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>55825230-2fea-470f-a3ff-0d86f58b02c2</webElementGuid>
+      <webElementGuid>4e246cca-6d88-4fa0-a5f9-9a42fa53193e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-option pull-left</value>
-      <webElementGuid>9fa5cc46-9b6f-42ca-8c9a-97f383551600</webElementGuid>
+      <webElementGuid>4730fe4b-a9cf-482c-97fe-658480022d45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,63 +38,63 @@
       <name>text</name>
       <type>Main</type>
       <value>Provincia - Departamento - Distrito</value>
-      <webElementGuid>7c0b69fb-5795-4cb5-b563-8f15e949fe97</webElementGuid>
+      <webElementGuid>b11f942d-a742-4dc8-9c8b-cf35466c30a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_dir&quot;]/div[@class=&quot;btn-group bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
-      <webElementGuid>6b784dbf-36fc-4c3a-8eba-a8c9eb8da8ed</webElementGuid>
+      <value>id(&quot;adonde_enviamos&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7 cls_element_item espacio_vista_xs_2 ver_si_tienda&quot;]/div[@class=&quot;btn-group bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle form-control selectpicker btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
+      <webElementGuid>de62a403-42ab-4203-a875-a8b067b510e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='adonde_enviamos']/div[2]/div[4]/div/button/span</value>
-      <webElementGuid>85378840-b0ad-4769-a843-43ae80ec09a1</webElementGuid>
+      <value>//div[@id='adonde_enviamos']/div[2]/div[3]/div/button/span</value>
+      <webElementGuid>a0aaf76e-e2dc-466b-bd42-c621b24c45e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='UCAYALI - CORONEL PORTILLO - YARINACOCHA'])[4]/following::span[2]</value>
-      <webElementGuid>60ed5465-b82f-416e-8e3a-5298d114dab2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega a domicilio'])[2]/following::span[2]</value>
+      <webElementGuid>c05b97b7-1da9-46f1-9d24-5aac60872e64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='UCAYALI - ATALAYA - ATALAYA'])[4]/following::span[4]</value>
-      <webElementGuid>4d12e6e4-51ce-4fec-bf1c-21dedfac7b6f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recojo en tienda'])[3]/following::span[4]</value>
+      <webElementGuid>b288baeb-3a76-4cf1-97af-be366a9d8389</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provincia - Departamento - Distrito'])[6]/preceding::span[2]</value>
-      <webElementGuid>8257cb77-c753-4da3-b6bf-a200d5005aac</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provincia - Departamento - Distrito'])[3]/preceding::span[2]</value>
+      <webElementGuid>da9234db-3569-4e10-8e8e-a45465525b04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - BAGUA - ARAMANGO'])[2]/preceding::span[4]</value>
-      <webElementGuid>ec1fa444-2d3e-4d48-8e0a-93b13493274b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAZONAS - UTCUBAMBA - BAGUA GRANDE'])[4]/preceding::span[4]</value>
+      <webElementGuid>083512ef-cdb5-4983-adf5-8a9453dfc970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/button/span</value>
-      <webElementGuid>3861b60b-9396-4774-8afd-5d3dd7a9ebae</webElementGuid>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>300808b6-cc95-41d9-8907-4ed0f28b4da7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Provincia - Departamento - Distrito' or . = 'Provincia - Departamento - Distrito')]</value>
-      <webElementGuid>16ee2e99-1e20-4bfb-bc47-7c03fa13ed04</webElementGuid>
+      <webElementGuid>5547d7d4-fa15-437a-b03b-dcaea7d3d626</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

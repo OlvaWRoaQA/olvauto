@@ -123,7 +123,7 @@ WebUI.sendKeys(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_P
 
 WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/span_Tienda'))
 
-WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/span_ICA CA GUATEMALA URB SAN FRAN'))
+WebUI.click(findTestObject('Page_Olva Courier  Datos Personales/span_ICA CA GUATEMALA URB SAN FRAN - retorno tienda'))
 
 WebUI.click(findTestObject('Olva Corp/Page_Olva Courier  Confirma tus datos/button_ACEPTAR_CA'))
 

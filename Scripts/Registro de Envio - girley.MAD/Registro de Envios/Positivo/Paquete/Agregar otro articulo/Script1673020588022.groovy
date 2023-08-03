@@ -108,7 +108,7 @@ WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/a_Entrega
 
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (2)'))
+WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (AA)'))
 
 WebUI.setText(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (text) - AA'), 
     'cusco - cusco - cusco')
@@ -139,9 +139,13 @@ WebUI.scrollToElement(findTestObject('Object Repository/Olva Corp/Page_Olva Cour
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Confirma tus datos/button_IR A PAGAR'))
 
+WebUI.click(findTestObject('Registro de Envio/Page_Olva Courier  Confirma tus datos/olvapromo-aceptar'))
+
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/i_Pago agencias y banca'))
 
 WebUI.scrollToPosition(0, 600)
 
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/button_PAGAR'))
+
+WebUI.verifyTextPresent('Se envió un correo con los detalles de su registro.', true)
 
