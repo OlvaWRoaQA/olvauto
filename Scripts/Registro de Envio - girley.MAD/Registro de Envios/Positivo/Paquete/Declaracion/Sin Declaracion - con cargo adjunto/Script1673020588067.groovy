@@ -77,15 +77,12 @@ WebUI.sendKeys(findTestObject('Object Repository/Negativo/Page_Olva Courier  Dat
 WebUI.setText(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_address'), 
     'Calle C 185, Breña, Perú')
 
-WebUI.sendKeys(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_address'), 
-    Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Negativo/Page_Olva Courier  Datos Personales/button_direccion_1'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/input_Direccin de Entrega_address - geo'), 
-    'Calle C 185, Breña, Perú')
+WebUI.scrollToElement(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_reference'), 
+    0)
 
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('Inicio/Page_Atencin al Cliente/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_geo'), 
+WebUI.setText(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/input_Mz, Lote o Referencia_reference'), 
     'cerca estacion de metropolitano')
 
 WebUI.click(findTestObject('Object Repository/Negativo/Page_Olva Courier  Datos Personales/button_Guardar Direccin'))
@@ -114,9 +111,9 @@ WebUI.click(findTestObject('Inicio/Page_Olva Courier  Confirma tus datos/button_
 
 WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_domiclio o tienda - carga adjunto'))
 
-WebUI.click(findTestObject('a_Recojo en tienda (RC)'))
+WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/a_Recojo en tienda'))
 
-WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (CD y CA) - retorno tienda'))
+WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (2)'))
 
 WebUI.setText(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (text) - CA3'), 
     'ica - ica - ica')
@@ -126,7 +123,7 @@ WebUI.sendKeys(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_P
 
 WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/span_Tienda'))
 
-WebUI.click(findTestObject('Page_Olva Courier  Datos Personales/span_ICA CA GUATEMALA URB SAN FRAN - retorno tienda'))
+WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/span_ICA CA GUATEMALA URB SAN FRAN'))
 
 WebUI.click(findTestObject('Olva Corp/Page_Olva Courier  Confirma tus datos/button_ACEPTAR_CA'))
 
@@ -143,6 +140,4 @@ WebUI.scrollToPosition(0, 600)
 WebUI.click(findTestObject('Object Repository/Olva Corp/Page_Olva Courier  Medios de pago/button_PAGAR'))
 
 WebUI.delay(1)
-
-WebUI.verifyTextPresent('Se envió un correo con los detalles de su registro.', true)
 

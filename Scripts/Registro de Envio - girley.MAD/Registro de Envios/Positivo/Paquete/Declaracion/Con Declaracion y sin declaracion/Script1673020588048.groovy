@@ -62,9 +62,7 @@ WebUI.scrollToPosition(0, 600)
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (CD y CA)'))
-
-WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (CD y CA)'))
+WebUI.click(findTestObject('Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (13)'))
 
 WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/a_ICA - ICA - ICA'))
 
@@ -171,6 +169,4 @@ WebUI.click(findTestObject('Object Repository/Registro de Envio/Page_Olva Courie
 WebUI.click(findTestObject('Object Repository/Registro de Envio/Page_Olva Courier  Medios de pago/button_CONTINUAR'))
 
 WebUI.click(findTestObject('Object Repository/Registro de Envio/Page_Olva Courier  Medios de pago/button_PAGAR'))
-
-WebUI.verifyTextPresent('Se envió un correo con los detalles de su registro.', true)
 

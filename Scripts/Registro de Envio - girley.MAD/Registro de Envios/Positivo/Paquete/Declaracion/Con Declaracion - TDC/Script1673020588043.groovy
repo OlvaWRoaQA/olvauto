@@ -62,9 +62,7 @@ WebUI.scrollToPosition(0, 600)
 
 WebUI.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (CD y CA)'))
-
-WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (CD y CA)'))
+WebUI.click(findTestObject('Inicio/Page_Olva Courier  Datos Personales/span_Provincia - Departamento - Distrito (2)'))
 
 WebUI.click(findTestObject('Object Repository/Inicio/Page_Olva Courier  Datos Personales/a_ICA - ICA - ICA'))
 
